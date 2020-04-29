@@ -5,5 +5,6 @@ COPY . .
 
 # Pre-load all gems into the environment
 RUN gem install bundler
+RUN chmod -R 777 .
 RUN chown jekyll:jekyll -R /usr/gem
 RUN jekyll build
