@@ -11,3 +11,5 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+.vscode/
+**/spotipy_credentials.yaml
