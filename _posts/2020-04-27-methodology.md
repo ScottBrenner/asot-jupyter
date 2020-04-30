@@ -5,7 +5,7 @@ title: Methodology
 toc: false 
 badges: true
 comments: false
-categories: [asot]
+categories: [asot, bpm]
 image: images/chart-preview.png
 nb_path: _notebooks/2020-04-27-methodology.ipynb
 layout: notebook
@@ -130,7 +130,7 @@ layout: notebook
     <span class="k">if</span> <span class="n">name</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">seen</span><span class="p">:</span>
         <span class="n">seen</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
 
-<span class="n">albums</span> <span class="o">=</span> <span class="n">albums</span><span class="p">[::</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
+<span class="n">albums</span><span class="o">.</span><span class="n">sort</span><span class="p">(</span><span class="n">key</span><span class="o">=</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">x</span><span class="p">[</span><span class="s1">&#39;release_date&#39;</span><span class="p">])</span> <span class="c1"># Sort by release date</span>
 </pre></div>
 
     </div>
@@ -142,7 +142,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Cool, our list <code>episodes</code> should now contain every episode of A State of Trance! Let's take a quick look..</p>
+<p>Cool, our list <code>albums</code> should now contain every episode of A State of Trance! Let's take a quick look..</p>
 
 </div>
 </div>
@@ -154,7 +154,8 @@ layout: notebook
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">album</span> <span class="ow">in</span> <span class="n">albums</span><span class="p">[:</span><span class="mi">10</span><span class="p">]:</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print the names of the first 10 episodes</span>
+<span class="k">for</span> <span class="n">album</span> <span class="ow">in</span> <span class="n">albums</span><span class="p">[:</span><span class="mi">10</span><span class="p">]:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">album</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">])</span>
 </pre></div>
 
@@ -202,7 +203,8 @@ A State Of Trance Episode 015
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">albums</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># How many episodes?</span>
+<span class="nb">len</span><span class="p">(</span><span class="n">albums</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -262,8 +264,6 @@ A State Of Trance Episode 015
     <span class="k">if</span> <span class="n">name</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">seen</span><span class="p">:</span>
         <span class="n">seen</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
 
-<span class="n">singles</span> <span class="o">=</span> <span class="n">singles</span><span class="p">[::</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
-
 <span class="n">episodes</span> <span class="o">=</span> <span class="n">singles</span> <span class="o">+</span> <span class="n">albums</span>
 
 <span class="n">episodes</span><span class="o">.</span><span class="n">sort</span><span class="p">(</span><span class="n">key</span><span class="o">=</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">x</span><span class="p">[</span><span class="s1">&#39;release_date&#39;</span><span class="p">])</span> <span class="c1"># Sort by release date</span>
@@ -316,7 +316,8 @@ A State Of Trance Episode 009
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">episodes</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Now how many episodes?</span>
+<span class="nb">len</span><span class="p">(</span><span class="n">episodes</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -356,7 +357,8 @@ A State Of Trance Episode 009
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print every available Artist - Track from ASOT 001</span>
+<span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">track</span><span class="p">[</span><span class="s1">&#39;artists&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;name&#39;</span><span class="p">],</span> <span class="s1">&#39;-&#39;</span><span class="p">,</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">])</span>
 </pre></div>
 
@@ -404,7 +406,8 @@ Armin van Buuren - A State Of Trance [ASOT 001] - Outro
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print every available Artist - Track from ASOT 950 - Part 2</span>
+<span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
     <span class="n">track_artist</span> <span class="o">=</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;artists&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;name&#39;</span><span class="p">]</span>
     <span class="k">for</span> <span class="n">artist</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;artists&#39;</span><span class="p">][</span><span class="mi">1</span><span class="p">:]:</span>
         <span class="n">track_artist</span> <span class="o">+=</span> <span class="s2">&quot; &amp; &quot;</span> <span class="o">+</span> <span class="n">artist</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span>
@@ -496,7 +499,8 @@ Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Outro
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">episode_tracks</span> <span class="o">=</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print every available Artist - Track from ASOT 950 - Part 2 (actual songs only)</span>
+<span class="n">episode_tracks</span> <span class="o">=</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]</span>
 <span class="n">pruned_tracks</span> <span class="o">=</span> <span class="p">[]</span>
 
 <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">episode_tracks</span><span class="p">:</span>
@@ -623,12 +627,12 @@ Scot Project &amp; David Rust &amp; Shugz - FM (Feeling Me) [ASOT 950 - Part 2] 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
-<div id="altair-viz-ec107ff8b15b44f596494ab667d6611d"></div>
+<div id="altair-viz-f33b8746f31b402e9705be75cfb8358b"></div>
 <script type="text/javascript">
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-ec107ff8b15b44f596494ab667d6611d") {
-      outputDiv = document.getElementById("altair-viz-ec107ff8b15b44f596494ab667d6611d");
+    if (outputDiv.id !== "altair-viz-f33b8746f31b402e9705be75cfb8358b") {
+      outputDiv = document.getElementById("altair-viz-f33b8746f31b402e9705be75cfb8358b");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
