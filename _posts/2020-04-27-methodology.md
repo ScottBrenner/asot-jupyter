@@ -393,7 +393,7 @@ Armin van Buuren - A State Of Trance [ASOT 001] - Outro
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Seems most of the early episodes are missing a bunch of tracks unfortunately, and we'll want to remove the intro and outro as well.</p>
+<p>Seems most of the early episodes are missing a bunch of tracks unfortunately, <a href="http://www.astateoftrance.com/episodes/episode-001/">A State of Trance's website reports twice as many tracks in this episode</a> and we'll want to remove the intro and outro as well.</p>
 <p>Looking at a more recent episode:</p>
 
 </div>
@@ -627,12 +627,12 @@ Scot Project &amp; David Rust &amp; Shugz - FM (Feeling Me) [ASOT 950 - Part 2] 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
-<div id="altair-viz-f33b8746f31b402e9705be75cfb8358b"></div>
+<div id="altair-viz-15b29d0dd64b4ea789e52ba844923dd5"></div>
 <script type="text/javascript">
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-f33b8746f31b402e9705be75cfb8358b") {
-      outputDiv = document.getElementById("altair-viz-f33b8746f31b402e9705be75cfb8358b");
+    if (outputDiv.id !== "altair-viz-15b29d0dd64b4ea789e52ba844923dd5") {
+      outputDiv = document.getElementById("altair-viz-15b29d0dd64b4ea789e52ba844923dd5");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
