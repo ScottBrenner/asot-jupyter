@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: asot-jupyter
+description: How has A State of Trance changed over time?
 github_username: ScottBrenner
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "asot-jupyter"
@@ -39,8 +39,7 @@ baseurl: "/asot-jupyter" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    github: ScottBrenner
 
 # Set this to true to get LaTeX math equation support
 use_math: 
@@ -69,8 +68,8 @@ include:
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
   github: true
-  binder: true
-  colab: true
+  binder: false
+  colab: false
 
 # Escape HTML in post descriptions
 html_escape:
