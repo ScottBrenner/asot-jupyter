@@ -219,7 +219,7 @@ A State Of Trance Episode 015
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>933</pre>
+<pre>934</pre>
 </div>
 
 </div>
@@ -332,7 +332,7 @@ A State Of Trance Episode 009
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>958</pre>
+<pre>959</pre>
 </div>
 
 </div>
@@ -504,7 +504,7 @@ Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Outro
 <span class="n">pruned_tracks</span> <span class="o">=</span> <span class="p">[]</span>
 
 <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">episode_tracks</span><span class="p">:</span>
-    <span class="k">if</span> <span class="s2">&quot;A State Of Trance&quot;</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]:</span>
+    <span class="k">if</span> <span class="s2">&quot;A State Of Trance&quot;</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">():</span> <span class="c1">#ingore casing</span>
         <span class="k">continue</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="n">pruned_tracks</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">track</span><span class="p">)</span>
@@ -627,12 +627,12 @@ Scot Project &amp; David Rust &amp; Shugz - FM (Feeling Me) [ASOT 950 - Part 2] 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
-<div id="altair-viz-15b29d0dd64b4ea789e52ba844923dd5"></div>
+<div id="altair-viz-a6ecbec1e1cb40c58f50b644720930da"></div>
 <script type="text/javascript">
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-15b29d0dd64b4ea789e52ba844923dd5") {
-      outputDiv = document.getElementById("altair-viz-15b29d0dd64b4ea789e52ba844923dd5");
+    if (outputDiv.id !== "altair-viz-a6ecbec1e1cb40c58f50b644720930da") {
+      outputDiv = document.getElementById("altair-viz-a6ecbec1e1cb40c58f50b644720930da");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
