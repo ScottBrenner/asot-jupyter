@@ -504,7 +504,7 @@ Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Outro
 <span class="n">pruned_tracks</span> <span class="o">=</span> <span class="p">[]</span>
 
 <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">episode_tracks</span><span class="p">:</span>
-    <span class="k">if</span> <span class="s2">&quot;A State Of Trance&quot;</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">():</span> <span class="c1">#ingore casing</span>
+    <span class="k">if</span> <span class="s2">&quot;A State Of Trance&quot;</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">or</span> <span class="s2">&quot;- Interview&quot;</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">():</span> <span class="c1">#ingore casing and interviews</span>
         <span class="k">continue</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="n">pruned_tracks</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">track</span><span class="p">)</span>
@@ -627,12 +627,12 @@ Scot Project &amp; David Rust &amp; Shugz - FM (Feeling Me) [ASOT 950 - Part 2] 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
-<div id="altair-viz-a6ecbec1e1cb40c58f50b644720930da"></div>
+<div id="altair-viz-0b0f1ec166654034852c3fd933b5047a"></div>
 <script type="text/javascript">
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-a6ecbec1e1cb40c58f50b644720930da") {
-      outputDiv = document.getElementById("altair-viz-a6ecbec1e1cb40c58f50b644720930da");
+    if (outputDiv.id !== "altair-viz-0b0f1ec166654034852c3fd933b5047a") {
+      outputDiv = document.getElementById("altair-viz-0b0f1ec166654034852c3fd933b5047a");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
