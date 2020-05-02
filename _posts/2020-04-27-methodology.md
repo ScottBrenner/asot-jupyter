@@ -6,7 +6,7 @@ toc: false
 badges: true
 comments: false
 categories: [asot, bpm]
-image: images/chart-preview.png
+image: images/methodology.png
 nb_path: _notebooks/2020-04-27-methodology.ipynb
 layout: notebook
 ---
@@ -219,7 +219,7 @@ A State Of Trance Episode 015
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>934</pre>
+<pre>935</pre>
 </div>
 
 </div>
@@ -332,7 +332,7 @@ A State Of Trance Episode 009
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>959</pre>
+<pre>960</pre>
 </div>
 
 </div>
@@ -424,56 +424,56 @@ Armin van Buuren - A State Of Trance [ASOT 001] - Outro
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Intro
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Coming Up, Pt. 1
-Armin van Buuren &amp; Avian Grays &amp; Jordan Shaw &amp; Cosmic Gate - Something Real (ASOT 950 - Part 2) [Tune Of The Week] - Cosmic Gate Remix
-Armin van Buuren &amp; BT &amp; Nation Of One &amp; Assaf - Always (ASOT 950 - Part 2) - Assaf Remix
-Armin van Buuren &amp; Inner City &amp; Genix - It Could Be (ASOT 950 - Part 2) - Genix Remix
-Spencer Brown &amp; Qrion - Foggy August (ASOT 950 - Part 2) [Progressive Pick]
-Spencer Brown &amp; Liam Hathaway - LA ID (ASOT 950 - Part 2)
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Track Recap, Pt. 1
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Track Recap, Pt. 2
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - ASOT 950 Moscow Line-up, Pt. 1
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - ASOT 950 Moscow Line-up, Pt. 2
-Kasablanca - Hold Me Close (ASOT 950 - Part 2)
-Rolo Green - Kuat (ASOT 950 - Part 2)
-Farius &amp; London Thor - Home Again (ASOT 950 - Part 2)
-Above &amp; Beyond - Blue Monday (ASOT 950 - Part 2)
-Tom Fall - Guiding Light (ASOT 950 - Part 2)
-MaRLo &amp; Feenixpawl &amp; SaberZ - Lighter Than Air (ASOT 950 - Part 2) [Trending Track] - SaberZ Remix
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Track Recap, Pt. 3
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - ASOT 950 London Announcement, Pt. 1
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - ASOT 950 London Announcement, Pt. 2
-Andrew Rayel - Light Side Of The Harmony (FYH 200 Anthem) [ASOT 950 - Part 2]
-Genix - Rave Daze (ASOT 950 - Part 2)
-Protoculture - Titan (ASOT 950 - Part 2)
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - This Is Giuseppe Ottaviani
-Giuseppe Ottaviani - Time To Play (ASOT 950 - Part 2)
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Track Recap, Pt. 4
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Coming Up, Pt. 2
-BT - Atari&#39;s Lantern (ASOT 950 - Part 2)
-Boombastix &amp; Ahmed Helmy - The Awakening (ASOT 950 - Part 2) - Ahmed Helmy Remix
-LTN &amp; Christina Novelli - Cabana (ASOT 950 - Part 2) - Club Mix
-Daniel Wanrooy - Back For More (ASOT 950 - Part 2)
-Larsson &amp; Michael Mashkov &amp; Beatsole - 1987 (ASOT 950 - Part 2) - Beatsole Remix
-C-Systems &amp; Hanna Finsen - In Front Of Me (ASOT 950 - Part 2)
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Track Recap, Pt. 5
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Let The Music Guide You&#39; World Tour
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Tomorrowland 2020 ASOT Announcement
-Dan Thompson - Spectrum (ASOT 950 - Part 2)
-Philippe El Sisi &amp; A &amp; Z &amp; Cari - Wings Of Love (ASOT 950 - Part 2) [Future Favorite]
-O.B.M Notion - 3 am Lullaby (ASOT 950 - Part 2)
-ReOrder &amp; onTune - Euforia (Euforia Festival 2019 Official Anthem) [ASOT 950 - Part 2]
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Track Recap, Pt. 6
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Shout Outs, Pt. 1
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Shout Outs, Pt. 2
-K90 &amp; Allen Watts - Red Snapper (ASOT 950 - Part 2) - Allen Watts Remix
-Dan Stone - Steall Falls (ASOT 950 - Part 2)
-Sean Tyas &amp; James Kitcher &amp; Adam Taylor - Mantra (ASOT 950 - Part 2)
-Scot Project &amp; David Rust &amp; Shugz - FM (Feeling Me) [ASOT 950 - Part 2] - Shugz &amp; David Rust Remix
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Track Recap, Pt. 7
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Upcoming Events
-Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Outro
+<pre>Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Intro
+Armin van Buuren - Let The Music Guide You (ASOT 950 Anthem) [ASOT 950 - Part 1]
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Coming Up, Pt. 1
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Service For Dreamers Special, Pt. 1
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - ASOT 950 Event, Pt. 1
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Alana Katherine &amp; Reanna Parsons from Canada, Pt. 1
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Alana Katherine &amp; Reanna Parsons from Canada, Pt. 2
+Tritonal &amp; Jeza - I Can Breathe (ASOT 950 - Part 1) - Tritonal Club Mix
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Codrin Lustin from Romania
+Super8 &amp; Tab - Nino (ASOT 950 - Part 1)
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Jaime Oliveira from Portugal
+Mark Knight &amp; D. Ramirez &amp; Underworld &amp; Armin van Buuren - Downpipe (ASOT 950 - Part 1) - Armin van Buuren Remix
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by James Holloway from the UK
+Oliver Smith - Chordplay (ASOT 950 - Part 1)
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Ilan Bluestone &amp; Maor Levi, Pt. 1
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Ilan Bluestone &amp; Maor Levi, Pt. 2
+Armin van Buuren &amp; Sharon Den Adel &amp; Ilan Bluestone &amp; Maor Levi - In And Out Of Love (ASOT 950 - Part 1) - ilan Bluestone &amp; Maor Levi Remix
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Raymundo from Canada
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Coming Up, Pt. 2
+Assaf &amp; Cassandra Grey - All Of You (ASOT 950 - Part 1)
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Rafael from The Philippines
+Jorn Van Deynhoven - New Horizons (A State Of Trance 650 Anthem) [ASOT 950 - Part 1]
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Michiel &amp; Veronique from The Netherlands
+Ferry Corsten &amp; Betsie Larkin - Made Of Love (ASOT 950 - Part 1)
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Pedro Soussa from Portugal, Pt. 1
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Pedro Soussa from Portugal, Pt. 2
+Eco - A Million Sounds, A Thousand Smiles (ASOT 950 - Part 1)
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Edwin and Susana from Canada
+Dennis Sheperd &amp; Cold Blue &amp; Ana Criado - Fallen Angel (ASOT 950 - Part 1) - Dennis Sheperd Club Mix
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Abdul Rahman from Canada
+Omnia &amp; Everything By Electricity - Bones (ASOT 950 - Part 1)
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Thank You!
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Track Recap, Pt. 1
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Kyle Assue from Trinidad and Tobago, Pt. 1
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Kyle Assue from Trinidad and Tobago, Pt. 2
+Armin van Buuren - The Train (ASOT 950 - Part 1)
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Track Recap, Pt. 2
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Stay Tuned For More
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Maxim from Germany
+Armin van Buuren &amp; Shapov - The Last Dancer (ASOT 950 - Part 1)
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Mauricio from Brazil
+HALIENE &amp; Ruben de Ronde - Dream In Color (ASOT 950 - Part 1) - Ruben de Ronde Remix
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Tita from Canada
+Armin van Buuren &amp; Avian Grays &amp; Jordan Shaw - Something Real (ASOT 950 - Part 1)
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Mr. and Mrs. ReOrder from Czech Republic
+Above &amp; Beyond &amp; Richard Bedford - Sun &amp; Moon (ASOT 950 - Part 1) - Club Mix
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Jeffrey from the USA
+Armin van Buuren &amp; Fiora &amp; Beat Service - Waiting For The Night (ASOT 950 - Part 1) - Beat Service Remix
+Armin van Buuren - A State Of Trance (ASOT 950 - Part 1) - Requested by Damian Panek from Poland
+Shogun - Laputa (ASOT 950 - Part 1)
 </pre>
 </div>
 </div>
@@ -504,7 +504,7 @@ Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Outro
 <span class="n">pruned_tracks</span> <span class="o">=</span> <span class="p">[]</span>
 
 <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">episode_tracks</span><span class="p">:</span>
-    <span class="k">if</span> <span class="s2">&quot;A State Of Trance&quot;</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">or</span> <span class="s2">&quot;- Interview&quot;</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">():</span> <span class="c1">#ingore casing and interviews</span>
+    <span class="k">if</span> <span class="s2">&quot;a state of trance&quot;</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">or</span> <span class="s2">&quot;- interview&quot;</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">():</span>
         <span class="k">continue</span>
     <span class="k">else</span><span class="p">:</span>
         <span class="n">pruned_tracks</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">track</span><span class="p">)</span>
@@ -524,35 +524,24 @@ Armin van Buuren - A State Of Trance (ASOT 950 - Part 2) - Outro
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Armin van Buuren &amp; Avian Grays &amp; Jordan Shaw &amp; Cosmic Gate - Something Real (ASOT 950 - Part 2) [Tune Of The Week] - Cosmic Gate Remix
-Armin van Buuren &amp; BT &amp; Nation Of One &amp; Assaf - Always (ASOT 950 - Part 2) - Assaf Remix
-Armin van Buuren &amp; Inner City &amp; Genix - It Could Be (ASOT 950 - Part 2) - Genix Remix
-Spencer Brown &amp; Qrion - Foggy August (ASOT 950 - Part 2) [Progressive Pick]
-Spencer Brown &amp; Liam Hathaway - LA ID (ASOT 950 - Part 2)
-Kasablanca - Hold Me Close (ASOT 950 - Part 2)
-Rolo Green - Kuat (ASOT 950 - Part 2)
-Farius &amp; London Thor - Home Again (ASOT 950 - Part 2)
-Above &amp; Beyond - Blue Monday (ASOT 950 - Part 2)
-Tom Fall - Guiding Light (ASOT 950 - Part 2)
-MaRLo &amp; Feenixpawl &amp; SaberZ - Lighter Than Air (ASOT 950 - Part 2) [Trending Track] - SaberZ Remix
-Andrew Rayel - Light Side Of The Harmony (FYH 200 Anthem) [ASOT 950 - Part 2]
-Genix - Rave Daze (ASOT 950 - Part 2)
-Protoculture - Titan (ASOT 950 - Part 2)
-Giuseppe Ottaviani - Time To Play (ASOT 950 - Part 2)
-BT - Atari&#39;s Lantern (ASOT 950 - Part 2)
-Boombastix &amp; Ahmed Helmy - The Awakening (ASOT 950 - Part 2) - Ahmed Helmy Remix
-LTN &amp; Christina Novelli - Cabana (ASOT 950 - Part 2) - Club Mix
-Daniel Wanrooy - Back For More (ASOT 950 - Part 2)
-Larsson &amp; Michael Mashkov &amp; Beatsole - 1987 (ASOT 950 - Part 2) - Beatsole Remix
-C-Systems &amp; Hanna Finsen - In Front Of Me (ASOT 950 - Part 2)
-Dan Thompson - Spectrum (ASOT 950 - Part 2)
-Philippe El Sisi &amp; A &amp; Z &amp; Cari - Wings Of Love (ASOT 950 - Part 2) [Future Favorite]
-O.B.M Notion - 3 am Lullaby (ASOT 950 - Part 2)
-ReOrder &amp; onTune - Euforia (Euforia Festival 2019 Official Anthem) [ASOT 950 - Part 2]
-K90 &amp; Allen Watts - Red Snapper (ASOT 950 - Part 2) - Allen Watts Remix
-Dan Stone - Steall Falls (ASOT 950 - Part 2)
-Sean Tyas &amp; James Kitcher &amp; Adam Taylor - Mantra (ASOT 950 - Part 2)
-Scot Project &amp; David Rust &amp; Shugz - FM (Feeling Me) [ASOT 950 - Part 2] - Shugz &amp; David Rust Remix
+<pre>Armin van Buuren - Let The Music Guide You (ASOT 950 Anthem) [ASOT 950 - Part 1]
+Tritonal &amp; Jeza - I Can Breathe (ASOT 950 - Part 1) - Tritonal Club Mix
+Super8 &amp; Tab - Nino (ASOT 950 - Part 1)
+Mark Knight &amp; D. Ramirez &amp; Underworld &amp; Armin van Buuren - Downpipe (ASOT 950 - Part 1) - Armin van Buuren Remix
+Oliver Smith - Chordplay (ASOT 950 - Part 1)
+Armin van Buuren &amp; Sharon Den Adel &amp; Ilan Bluestone &amp; Maor Levi - In And Out Of Love (ASOT 950 - Part 1) - ilan Bluestone &amp; Maor Levi Remix
+Assaf &amp; Cassandra Grey - All Of You (ASOT 950 - Part 1)
+Ferry Corsten &amp; Betsie Larkin - Made Of Love (ASOT 950 - Part 1)
+Eco - A Million Sounds, A Thousand Smiles (ASOT 950 - Part 1)
+Dennis Sheperd &amp; Cold Blue &amp; Ana Criado - Fallen Angel (ASOT 950 - Part 1) - Dennis Sheperd Club Mix
+Omnia &amp; Everything By Electricity - Bones (ASOT 950 - Part 1)
+Armin van Buuren - The Train (ASOT 950 - Part 1)
+Armin van Buuren &amp; Shapov - The Last Dancer (ASOT 950 - Part 1)
+HALIENE &amp; Ruben de Ronde - Dream In Color (ASOT 950 - Part 1) - Ruben de Ronde Remix
+Armin van Buuren &amp; Avian Grays &amp; Jordan Shaw - Something Real (ASOT 950 - Part 1)
+Above &amp; Beyond &amp; Richard Bedford - Sun &amp; Moon (ASOT 950 - Part 1) - Club Mix
+Armin van Buuren &amp; Fiora &amp; Beat Service - Waiting For The Night (ASOT 950 - Part 1) - Beat Service Remix
+Shogun - Laputa (ASOT 950 - Part 1)
 </pre>
 </div>
 </div>
@@ -627,12 +616,12 @@ Scot Project &amp; David Rust &amp; Shugz - FM (Feeling Me) [ASOT 950 - Part 2] 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 
-<div id="altair-viz-0b0f1ec166654034852c3fd933b5047a"></div>
+<div id="altair-viz-e8662d781d78475594611185b5241188"></div>
 <script type="text/javascript">
   (function(spec, embedOpt){
     let outputDiv = document.currentScript.previousElementSibling;
-    if (outputDiv.id !== "altair-viz-0b0f1ec166654034852c3fd933b5047a") {
-      outputDiv = document.getElementById("altair-viz-0b0f1ec166654034852c3fd933b5047a");
+    if (outputDiv.id !== "altair-viz-e8662d781d78475594611185b5241188") {
+      outputDiv = document.getElementById("altair-viz-e8662d781d78475594611185b5241188");
     }
     const paths = {
       "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
@@ -674,7 +663,7 @@ Scot Project &amp; David Rust &amp; Shugz - FM (Feeling Me) [ASOT 950 - Part 2] 
         .catch(showError)
         .then(() => displayChart(vegaEmbed));
     }
-  })({"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-c12dc4352ef06b041d60e1490a1903d5"}, "mark": "line", "encoding": {"x": {"type": "quantitative", "field": "track"}, "y": {"type": "quantitative", "field": "bpm", "scale": {"domain": [120, 150]}}}, "title": "ASOT 950 Part 2 - BPM of track", "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-c12dc4352ef06b041d60e1490a1903d5": [{"track": 0, "bpm": 129.949}, {"track": 1, "bpm": 130.004}, {"track": 2, "bpm": 128.249}, {"track": 3, "bpm": 125.03}, {"track": 4, "bpm": 125.01}, {"track": 5, "bpm": 126.02}, {"track": 6, "bpm": 125.985}, {"track": 7, "bpm": 127.841}, {"track": 8, "bpm": 128.01}, {"track": 9, "bpm": 128.922}, {"track": 10, "bpm": 129.975}, {"track": 11, "bpm": 131.943}, {"track": 12, "bpm": 131.962}, {"track": 13, "bpm": 132.038}, {"track": 14, "bpm": 137.99}, {"track": 15, "bpm": 129.941}, {"track": 16, "bpm": 129.981}, {"track": 17, "bpm": 130.008}, {"track": 18, "bpm": 130.022}, {"track": 19, "bpm": 131.844}, {"track": 20, "bpm": 133.978}, {"track": 21, "bpm": 134.966}, {"track": 22, "bpm": 137.036}, {"track": 23, "bpm": 136.948}, {"track": 24, "bpm": 136.96}, {"track": 25, "bpm": 137.971}, {"track": 26, "bpm": 137.986}, {"track": 27, "bpm": 137.966}, {"track": 28, "bpm": 138.961}]}}, {"mode": "vega-lite"});
+  })({"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-dca04cffd4b9f7cc1cb85a0e0c7c12c9"}, "mark": "line", "encoding": {"x": {"type": "quantitative", "field": "track"}, "y": {"type": "quantitative", "field": "bpm", "scale": {"domain": [120, 150]}}}, "title": "ASOT 950 Part 2 - BPM of track", "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-dca04cffd4b9f7cc1cb85a0e0c7c12c9": [{"track": 0, "bpm": 135.017}, {"track": 1, "bpm": 131.998}, {"track": 2, "bpm": 132.079}, {"track": 3, "bpm": 132.013}, {"track": 4, "bpm": 131.999}, {"track": 5, "bpm": 132.156}, {"track": 6, "bpm": 132.114}, {"track": 7, "bpm": 133.988}, {"track": 8, "bpm": 134.106}, {"track": 9, "bpm": 132.013}, {"track": 10, "bpm": 132.048}, {"track": 11, "bpm": 131.788}, {"track": 12, "bpm": 131.962}, {"track": 13, "bpm": 132.012}, {"track": 14, "bpm": 131.937}, {"track": 15, "bpm": 133.067}, {"track": 16, "bpm": 133.011}, {"track": 17, "bpm": 133.003}]}}, {"mode": "vega-lite"});
 </script>
 </div>
 
