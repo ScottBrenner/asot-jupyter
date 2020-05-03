@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About",
-          "content": "How has A State of Trance changed over time? . I’m not a coder, a data scientist, or a DJ. But with nothing better to do, I set out to answer this question using Jupyter, FastPages the Spotify Web API … . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "How has A State of Trance changed over time? . I’m not a coder, a data scientist, or a DJ. But with nothing better to do, I set out to answer this question using Jupyter, FastPages, and the Spotify Web API … . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://scottbrenner.github.io/asot-jupyter/about/",
           "relUrl": "/about/",
           "date": ""
