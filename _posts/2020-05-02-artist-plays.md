@@ -437,7 +437,7 @@ layout: notebook
 
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>From the data available on Spotify, we can say 43% of artists played on A State of Trance were played exactly once. A full list of artists played once appears below, collapsed:</p>
+<p>From the data available on Spotify, we can say 43% of artists played on A State of Trance were played exactly once. A full list of artists played once appears below:</p>
 
 </div>
 </div>
@@ -445,21 +445,17 @@ layout: notebook
     {% raw %}
     
 <div class="cell border-box-sizing code_cell rendered">
-<details class="description">
-      <summary class="btn btn-sm" data-open="Hide Code" data-close="Show Code"></summary>
-        <p><div class="input">
+<div class="input">
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#collapse</span>
-<span class="nb">print</span><span class="p">(</span><span class="nb">sorted</span><span class="p">(</span><span class="n">one_hit_wonders</span><span class="p">))</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="nb">sorted</span><span class="p">(</span><span class="n">one_hit_wonders</span><span class="p">))</span>
 </pre></div>
 
     </div>
 </div>
 </div>
-</p>
-    </details>
+
 <div class="output_wrapper">
 <div class="output">
 
