@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Artist Plays | asot-jupyter</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Artist Plays" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tracking artist plays over time." />
+<meta property="og:description" content="Tracking artist plays over time." />
+<link rel="canonical" href="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/02/artist-plays.html" />
+<meta property="og:url" content="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/02/artist-plays.html" />
+<meta property="og:site_name" content="asot-jupyter" />
+<meta property="og:image" content="https://scottbrenner.github.io/asot-jupyter/images/artist-plays.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-05-02T00:00:00-05:00" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/02/artist-plays.html"},"description":"Tracking artist plays over time.","@type":"BlogPosting","url":"https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/02/artist-plays.html","headline":"Artist Plays","dateModified":"2020-05-02T00:00:00-05:00","datePublished":"2020-05-02T00:00:00-05:00","image":"https://scottbrenner.github.io/asot-jupyter/images/artist-plays.png","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/asot-jupyter/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://scottbrenner.github.io/asot-jupyter/feed.xml" title="asot-jupyter" /><!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-160007910-2','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+
+<link rel="shortcut icon" type="image/x-icon" href="/asot-jupyter/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Artist Plays | asot-jupyter</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Artist Plays" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tracking artist plays over time." />
+<meta property="og:description" content="Tracking artist plays over time." />
+<link rel="canonical" href="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/02/artist-plays.html" />
+<meta property="og:url" content="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/02/artist-plays.html" />
+<meta property="og:site_name" content="asot-jupyter" />
+<meta property="og:image" content="https://scottbrenner.github.io/asot-jupyter/images/artist-plays.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-05-02T00:00:00-05:00" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/02/artist-plays.html"},"description":"Tracking artist plays over time.","@type":"BlogPosting","url":"https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/02/artist-plays.html","headline":"Artist Plays","dateModified":"2020-05-02T00:00:00-05:00","datePublished":"2020-05-02T00:00:00-05:00","image":"https://scottbrenner.github.io/asot-jupyter/images/artist-plays.png","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"><link type="application/atom+xml" rel="alternate" href="https://scottbrenner.github.io/asot-jupyter/feed.xml" title="asot-jupyter" /><!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-160007910-2','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js"></script>
+<script type="text/javascript">
+require.config({
+  paths: {
+    jquery: 'https://code.jquery.com/jquery-3.5.0.min',
+    plotly: 'https://cdn.plot.ly/plotly-latest.min'
+  },
+
+  shim: {
+    plotly: {
+      deps: ['jquery'],
+      exports: 'plotly'
+    }
+  }
+});
+</script>
+
+<script>
+function wrap_img(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        var elements = document.querySelectorAll(".post img");
+        Array.prototype.forEach.call(elements, function(el, i) {
+            if (el.getAttribute("title") && (el.className != "emoji")) {
+                const caption = document.createElement('figcaption');
+                var node = document.createTextNode(el.getAttribute("title"));
+                caption.appendChild(node);
+                const wrapper = document.createElement('figure');
+                wrapper.className = 'image';
+                el.parentNode.insertBefore(wrapper, el);
+                el.parentNode.removeChild(el);
+                wrapper.appendChild(el);
+                wrapper.appendChild(caption);
+            }
+        });
+    } else { document.addEventListener('DOMContentLoaded', fn); }
+}
+window.onload = wrap_img;
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+    // add link icon to anchor tags
+    var elem = document.querySelectorAll(".anchor-link")
+    elem.forEach(e => (e.innerHTML = '<i class="fas fa-link fa-xs"></i>'));
+    });
+</script>
+</head><body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/asot-jupyter/">asot-jupyter</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/asot-jupyter/about/">About</a><a class="page-link" href="/asot-jupyter/search/">Search</a><a class="page-link" href="/asot-jupyter/categories/">Tags</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Artist Plays</h1><p class="page-description">Tracking artist plays over time.</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-05-02T00:00:00-05:00" itemprop="datePublished">
+        May 2, 2020
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      19 min read
+    
+</span></p>
+
+    
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/asot-jupyter/categories/#asot">asot</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/asot-jupyter/categories/#bpm">bpm</a>
+        
+      
+      </p>
+    
+
+    
+      
+        <div class="pb-5 d-flex flex-wrap flex-justify-end">
+          <div class="px-2">
+
+    <a href="https://github.com/ScottBrenner/asot-jupyter/tree/master/_notebooks/2020-05-02-artist-plays.ipynb" role="button" target="_blank">
+<img class="notebook-badge-image" src="/asot-jupyter/assets/badges/github.svg" alt="View On GitHub">
+    </a>
+</div>
+
+          
+          
+        </div>
+      </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <ul class="section-nav">
+<li class="toc-entry toc-h2"><a href="#Introduction">Introduction </a></li>
+<li class="toc-entry toc-h2"><a href="#Getting-Started">Getting Started </a></li>
+<li class="toc-entry toc-h2"><a href="#Calculating">Calculating </a></li>
+<li class="toc-entry toc-h2"><a href="#Summary">Summary </a></li>
+</ul><!--
+#################################################
+### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
+#################################################
+# file to edit: _notebooks/2020-05-02-artist-plays.ipynb
+-->
+
+<div class="container" id="notebook-container">
+        
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Introduction">
+<a class="anchor" href="#Introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introduction<a class="anchor-link" href="#Introduction"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>How many unique artists have been played on A State of Trance over the years? Who's been played the most? And the least?</p>
+<p>In this post, we'll examine artist plays over time.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Getting-Started">
+<a class="anchor" href="#Getting-Started" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting Started<a class="anchor-link" href="#Getting-Started"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>First, some baseline analysis. Let's first figure out how many tracks played on A State of Trance are available on Spotify:</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">tracks_counted</span> <span class="o">=</span> <span class="mi">0</span>
+
+<span class="k">for</span> <span class="n">episode</span> <span class="ow">in</span> <span class="n">episodes</span><span class="p">:</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episode</span><span class="p">[</span><span class="s1">'uri'</span><span class="p">])[</span><span class="s1">'items'</span><span class="p">]:</span>
+            <span class="k">if</span> <span class="s2">"a state of trance"</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'name'</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">or</span> <span class="s2">"- interview"</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'name'</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">():</span>
+                <span class="k">continue</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="n">tracks_counted</span> <span class="o">+=</span> <span class="mi">1</span>
+    <span class="k">except</span><span class="p">:</span>
+        <span class="k">pass</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">tracks_counted</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>17311
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Wow - 17,000+ total <em>(not unique)</em> tracks have been played! Remember, as we learned in the <a href="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/04/27/methodology.html">"Methodology" post</a> some episodes - especially early ones - are incomplete.</p>
+<p>How many unique artists?</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">unique_artists</span> <span class="o">=</span> <span class="nb">set</span><span class="p">()</span>
+
+<span class="k">for</span> <span class="n">episode</span> <span class="ow">in</span> <span class="n">episodes</span><span class="p">:</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episode</span><span class="p">[</span><span class="s1">'uri'</span><span class="p">])[</span><span class="s1">'items'</span><span class="p">]:</span>
+            <span class="k">if</span> <span class="s2">"a state of trance"</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'name'</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">or</span> <span class="s2">"- interview"</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'name'</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">():</span>
+                <span class="k">continue</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="k">for</span> <span class="n">artist</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'artists'</span><span class="p">]:</span>
+                    <span class="n">unique_artists</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">artist</span><span class="p">[</span><span class="s1">'name'</span><span class="p">])</span>
+    <span class="k">except</span><span class="p">:</span>
+        <span class="k">pass</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">unique_artists</span><span class="p">))</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>4079
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>As always, this is a "best guess" - an approximation.</p>
+<p>For the sake of tallying unique artists, we are treating collaborators as individuals. A track produced by "Artist A &amp; Artist B" is recorded here as a production by Artist A and Artist B invididually.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Calculating">
+<a class="anchor" href="#Calculating" aria-hidden="true"><span class="octicon octicon-link"></span></a>Calculating<a class="anchor-link" href="#Calculating"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Let's crunch some numbers.</p>
+<p>Which artists have the most plays?</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">collections</span> <span class="kn">import</span> <span class="n">defaultdict</span>
+
+<span class="n">artist_counter</span> <span class="o">=</span> <span class="n">defaultdict</span><span class="p">(</span><span class="nb">int</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">episode</span> <span class="ow">in</span> <span class="n">episodes</span><span class="p">:</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episode</span><span class="p">[</span><span class="s1">'uri'</span><span class="p">])[</span><span class="s1">'items'</span><span class="p">]:</span>
+            <span class="k">if</span> <span class="s2">"a state of trance"</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'name'</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">or</span> <span class="s2">"- interview"</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'name'</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">():</span>
+                <span class="k">continue</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="k">for</span> <span class="n">artist</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'artists'</span><span class="p">]:</span>
+                    <span class="n">artist_counter</span><span class="p">[</span><span class="n">artist</span><span class="p">[</span><span class="s1">'name'</span><span class="p">]]</span> <span class="o">+=</span> <span class="mi">1</span>
+    <span class="k">except</span><span class="p">:</span>
+        <span class="k">pass</span>
+
+<span class="n">top_artists</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">artist_counter</span><span class="o">.</span><span class="n">items</span><span class="p">(),</span> <span class="n">key</span><span class="o">=</span><span class="k">lambda</span> <span class="n">k_v</span><span class="p">:</span> <span class="n">k_v</span><span class="p">[</span><span class="mi">1</span><span class="p">],</span> <span class="n">reverse</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Alright, let's see the top 25 in a graph..</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">source</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="o">.</span><span class="n">from_dict</span><span class="p">(</span><span class="n">top_artists</span><span class="p">[:</span><span class="mi">25</span><span class="p">])</span>
+
+<span class="n">bars</span> <span class="o">=</span> <span class="n">alt</span><span class="o">.</span><span class="n">Chart</span><span class="p">(</span><span class="n">source</span><span class="p">)</span><span class="o">.</span><span class="n">mark_bar</span><span class="p">()</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span>
+    <span class="n">x</span><span class="o">=</span><span class="n">alt</span><span class="o">.</span><span class="n">X</span><span class="p">(</span><span class="s1">'1:Q'</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s1">'Plays'</span><span class="p">),</span>
+    <span class="n">y</span><span class="o">=</span><span class="n">alt</span><span class="o">.</span><span class="n">Y</span><span class="p">(</span><span class="s1">'0:N'</span><span class="p">,</span> <span class="n">sort</span><span class="o">=</span><span class="s1">'-x'</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s1">'Artist'</span><span class="p">)</span>
+<span class="p">)</span><span class="o">.</span><span class="n">properties</span><span class="p">(</span>
+    <span class="n">title</span><span class="o">=</span><span class="s2">"A State of Trance - Most-played artists"</span><span class="p">,</span>
+    <span class="n">width</span><span class="o">=</span><span class="mi">600</span>
+<span class="p">)</span>
+
+<span class="n">text</span> <span class="o">=</span> <span class="n">bars</span><span class="o">.</span><span class="n">mark_text</span><span class="p">(</span>
+    <span class="n">align</span><span class="o">=</span><span class="s1">'left'</span><span class="p">,</span>
+    <span class="n">baseline</span><span class="o">=</span><span class="s1">'middle'</span><span class="p">,</span>
+    <span class="n">dx</span><span class="o">=</span><span class="mi">3</span>  <span class="c1"># Nudges text to right so it doesn't appear on top of the bar</span>
+<span class="p">)</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span>
+    <span class="n">text</span><span class="o">=</span><span class="s1">'1:Q'</span>
+<span class="p">)</span>
+
+<span class="n">bars</span> <span class="o">+</span> <span class="n">text</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+
+<div id="altair-viz-a39d4ddaa54945d49c8643364bde9973"></div>
+<script type="text/javascript">
+  (function(spec, embedOpt){
+    let outputDiv = document.currentScript.previousElementSibling;
+    if (outputDiv.id !== "altair-viz-a39d4ddaa54945d49c8643364bde9973") {
+      outputDiv = document.getElementById("altair-viz-a39d4ddaa54945d49c8643364bde9973");
+    }
+    const paths = {
+      "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
+      "vega-lib": "https://cdn.jsdelivr.net/npm//vega-lib?noext",
+      "vega-lite": "https://cdn.jsdelivr.net/npm//vega-lite@4.8.1?noext",
+      "vega-embed": "https://cdn.jsdelivr.net/npm//vega-embed@6?noext",
+    };
+
+    function loadScript(lib) {
+      return new Promise(function(resolve, reject) {
+        var s = document.createElement('script');
+        s.src = paths[lib];
+        s.async = true;
+        s.onload = () => resolve(paths[lib]);
+        s.onerror = () => reject(`Error loading script: ${paths[lib]}`);
+        document.getElementsByTagName("head")[0].appendChild(s);
+      });
+    }
+
+    function showError(err) {
+      outputDiv.innerHTML = `<div class="error" style="color:red;">${err}</div>`;
+      throw err;
+    }
+
+    function displayChart(vegaEmbed) {
+      vegaEmbed(outputDiv, spec, embedOpt)
+        .catch(err => showError(`Javascript Error: ${err.message}<br>This usually means there's a typo in your chart specification. See the javascript console for the full traceback.`));
+    }
+
+    if(typeof define === "function" && define.amd) {
+      requirejs.config({paths});
+      require(["vega-embed"], displayChart, err => showError(`Error loading script: ${err.message}`));
+    } else if (typeof vegaEmbed === "function") {
+      displayChart(vegaEmbed);
+    } else {
+      loadScript("vega")
+        .then(() => loadScript("vega-lite"))
+        .then(() => loadScript("vega-embed"))
+        .catch(showError)
+        .then(() => displayChart(vegaEmbed));
+    }
+  })({"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": "bar", "encoding": {"x": {"type": "quantitative", "field": "1", "title": "Plays"}, "y": {"type": "nominal", "field": "0", "sort": "-x", "title": "Artist"}}, "title": "A State of Trance - Most-played artists", "width": 600}, {"mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 3}, "encoding": {"text": {"type": "quantitative", "field": "1"}, "x": {"type": "quantitative", "field": "1", "title": "Plays"}, "y": {"type": "nominal", "field": "0", "sort": "-x", "title": "Artist"}}, "title": "A State of Trance - Most-played artists", "width": 600}], "data": {"name": "data-4e59e805ed06f2eb0e688ef43db64cb4"}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-4e59e805ed06f2eb0e688ef43db64cb4": [{"0": "Armin van Buuren", "1": 1210}, {"0": "Cosmic Gate", "1": 251}, {"0": "Markus Schulz", "1": 232}, {"0": "Gareth Emery", "1": 230}, {"0": "Aly & Fila", "1": 224}, {"0": "Orjan Nilsen", "1": 210}, {"0": "Andrew Rayel", "1": 206}, {"0": "Alex M.O.R.P.H.", "1": 184}, {"0": "Giuseppe Ottaviani", "1": 182}, {"0": "John O'Callaghan", "1": 163}, {"0": "Kyau & Albert", "1": 160}, {"0": "Solarstone", "1": 159}, {"0": "Ferry Corsten", "1": 143}, {"0": "Christina Novelli", "1": 140}, {"0": "Andy Moor", "1": 139}, {"0": "Dash Berlin", "1": 133}, {"0": "Rank 1", "1": 127}, {"0": "GAIA", "1": 127}, {"0": "MaRLo", "1": 127}, {"0": "Emma Hewitt", "1": 118}, {"0": "Heatbeat", "1": 116}, {"0": "Ben Gold", "1": 115}, {"0": "The Thrillseekers", "1": 114}, {"0": "Ronski Speed", "1": 111}, {"0": "Allen Watts", "1": 111}]}}, {"mode": "vega-lite"});
+</script>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>First place goes to the big man himself of course. Keep in mind we're counting a remix of an artist's track as a play for that artist.</p>
+<p>From our numbers, a track that credits Armin van Buuren has been played 1210 times across 960 episodes. From this, we can say the average episode of A State of Trance has</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">top_artists</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">1</span><span class="p">]</span> <span class="o">/</span> <span class="nb">len</span><span class="p">(</span><span class="n">episodes</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>1.2604166666666667</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>tracks produced by Armin van Buuren in some form or another, which is totally useless to know.</p>
+<p>Earlier we found 17,000+ total tracks played from 4000+ unique artists based on what's currently available on Spotify. How many artists have been played exactly once?</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">artists_played_once</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">one_hit_wonders</span> <span class="o">=</span> <span class="p">[]</span>
+
+<span class="k">for</span> <span class="n">artist</span><span class="p">,</span> <span class="n">plays</span> <span class="ow">in</span> <span class="n">artist_counter</span><span class="o">.</span><span class="n">items</span><span class="p">():</span>
+    <span class="k">if</span> <span class="n">plays</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+        <span class="n">one_hit_wonders</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">artist</span><span class="p">)</span>
+        <span class="n">artists_played_once</span> <span class="o">+=</span> <span class="mi">1</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">artists_played_once</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>1769
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Seems like quite a bit, what percentage is that?</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="mi">100</span> <span class="o">*</span> <span class="n">artists_played_once</span> <span class="o">/</span> <span class="nb">len</span><span class="p">(</span><span class="n">unique_artists</span><span class="p">))</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>43.36847266486884
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>From the data available on Spotify, we can say 43% of artists played on A State of Trance were played exactly once. A full list of artists played once appears below, collapsed:</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<details class="description">
+      <summary class="btn btn-sm" data-open="Hide Code" data-close="Show Code"></summary>
+        <p></p>
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#collapse</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">sorted</span><span class="p">(</span><span class="n">one_hit_wonders</span><span class="p">))</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+    </details>
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>['16BL', '2Symmetry', '3 Amigos', '3 Colours', '3 Of Life', '4 Mal', '4Mal', '7 Baltic', '8.02', 'A Lost Connection', 'A&amp;Z', 'AA Meeting', 'ABHISHEK Y2V', 'AMTM', 'ANDO', 'ANIMA!', 'ANUQRAM', 'ANVY', 'ASCO', 'ATHOM', 'ATN', 'AWD', 'Abaze', 'Abraham Leoga', 'Ace Ventura', 'Active State', 'Adagio Sensus', 'Adaja', 'Adam Coppack', 'Adam Deane', 'Adam K &amp; Soha', 'Adam Lambert', 'Adam Lavel', 'Adam Lindburg', 'Adam Sheridan', 'Adam Sky', 'Adam Sobiech', 'Adam Tas', 'Adiva', 'Adrian Blue', 'Adrian Font', 'Adrian&amp;Raz', 'Adriana Thorpe', 'Advanced', 'Adymus', 'Aero 21', 'Aether', 'After Midnight', 'AfterU', 'Against The Grain', 'Aguada', 'Ahmed Atef', 'Ahorn', 'Aiden Arie', 'Aiera &amp; Osiris', 'Aimo', 'AirLab7', 'Airsun', 'Airtight', 'Airway 7', 'Aisling Jarvis', 'Aki Bergen &amp; Richter', 'Akku', 'Aknael &amp; Bekeela', 'Aknow', 'Alae Khaldi', 'Alan Banks', 'Alan Stott', 'Alan Wyse', 'Albert Keyn', 'Albion', 'Alco Rhyhtm', 'Aldo Henrycho', 'Aleksey Gunichev', 'Aleksey Sladkov', 'Alex', 'Alex Arestegui', 'Alex Djohn', 'Alex Fisher', 'Alex Humphreys', 'Alex John', 'Alex M.O.R.P.H. &amp; RAM', 'Alex M.O.R.P.H. feat. Sylvia Tosun', 'Alex Piletski', 'Alex Staltari', 'Alex Wackii', 'AlexMo', 'Alexan', 'Alexander Chekomasov', 'Alhena', 'Alias', 'Alice Berg', 'Alicia Madison', 'Alikast', 'Allam', 'Allan Morrow', 'Allen', 'Allen Belg', 'Allende', 'Allion', 'Allé', 'Almar', 'Alter Breed', 'Alucard', 'Alvin', 'Alyx Ander', 'Amanda Jamison', 'Amax DJ', 'Amba Sheperd', 'Ambassador', 'Ameera', 'Amersy', 'Amir Atme', 'Amo R', 'Amy J Price', 'Analogue Sound Department', 'Anbass', 'Ancient Mind', 'Anden', 'Anden State', 'Anders Duvald', 'Andre Sobota', 'Andrea Faustinelli', 'Andrea Saenz', 'Andretta', 'Andrew Benson', 'Andrew Candid', 'Andrew Cash', 'Andrew Henry', 'Andrew Langston', 'Andrew Mirt', 'Andrew Vass', 'Andrey Pashkov', 'André', 'André Sobota', 'Andski', 'Andy Bianchini', 'Andy Ruddy', 'Angel', 'Angel Ace', 'Angelique', 'Angie', 'Animato', 'Ankit Sharda', 'Ann Bailey', 'Anna Lee', 'Anna Toth', 'Anomaly', 'Another World', 'Anova', 'Anry', 'Anthanasia 2', 'Anthony Cordell', 'Anthony Ragni', 'Anthony S', 'Anthony Waldhorn', 'Antonia from Jets Overhead', 'Apollo Nash', 'Apple One', 'Approaching Black', 'Aquilo', 'Aradeo', 'Arc In The Sky', 'Architect', 'Arctic Lake', 'Aressa', 'Ariel &amp; Danilo', 'Arjans', 'Ark Planet', 'Arpiction', 'Arrival &amp; Fonar', 'Ars', 'Artra', 'Arty &amp; Mat Zo', 'Aryas', 'Arys', 'Aryue', 'As One', 'Asbjørn', 'Ashley Bradbury', 'Ashley Smith', 'Asia Whiteacre', 'Askery', 'Aspiration', 'Asteroid', 'Astral Projection', 'Astrid Suryanto', 'Astrosphere', 'Ataraxia', 'Atlantia', 'Atmosfearz', 'Audiko', 'Avalon', 'Avari', 'Avatar One', 'Aveo', 'Avergaint', 'Aylin', 'Azotti', 'Azzido Da Bass', 'B. Gheorghe', 'BBSOUND', 'BORDERLESS', 'BRKLYN', 'Backbeat', 'Badlands', 'Balearia', 'Bariuz', 'Barry Connell', 'Bart Skils', 'Bas van Essen', 'Bassbin Twins', 'Bassjackers', 'Bazooka', 'Beatman &amp; Ludmilla', 'BeeGee', 'Beltek', 'Ben Gold Remix', 'Benicio', 'Benjamin Bates', 'Benjani', 'Bent', 'Benya', 'Benz &amp; MD', 'Bev Wild', 'Big Top', 'Bixx', 'Bizzare Contact', 'Björn Niclas', 'Black &amp; Blue', 'Black XS', 'Blair Bitch', 'Blasterjaxx', 'Blood Groove', 'Blood Groove and Kikis', 'BluSkay', 'Blue Horizon', 'Blue Manta', 'Blue Silence', 'Blue5even', 'Blueberg', 'Bluefire', 'Bobak', 'Bodyrox', 'Bolier', 'Boom', 'Boombastix', 'Boosta', 'Born 87', 'Boss@nova', 'Bowdidge', 'Bowdidge &amp; Taylor', 'Boxer', 'Boxer &amp; Forbes', 'Braiman', 'Braiman &amp; Falcon', 'Brando', 'Brandt', 'Brave', 'Breathe Carolina', 'Breeder', 'Brian', 'Brian Cameron', 'Brian Laruso', 'Brigitta', 'Britty', 'Brooke Tomlinson', 'Brothers Funk', 'Bruce Cullen', 'Brute Force', 'Bryan Summerville', 'Burak &amp; Emre', 'C-Base', 'C-Jay', 'C.J.Seven', 'CADE', 'CHRISTON', 'CJ Arthur', 'CRW', 'CVNT5', 'CYA', 'Cadence', 'Callisto', 'Calvin Logue', 'Cam Melnyk', 'Canberra', 'Capa (Official)', 'Cara Salimando', 'Carah Faye', 'Carl Crellin', 'Carlos Martz', 'Carly Burns', 'Carol Lee', 'Caroline Harrison', 'Cary Nokey', 'Cassidy Ford', 'Catalyst', 'Cave', 'CeCe Peniston', 'Celauro', 'Cell X', 'Cenk Basaran', 'Centre', 'Cern', 'Cesar Lugo', 'Chab', 'Changer', 'Charles MCThorn', 'Charlie White', 'Charmy', 'Chelsea Lee', 'Cherry', 'Chloe Stamp', 'Choopie', 'Chris Antoine', 'Chris Callado', 'Chris Cockerill', 'Chris Giuliano', 'Chris James', 'Chris North', 'Chris Reece', 'Chris Severe', 'Christian Carcamo', 'Christian K.', 'Christian Zechner', 'Christina Novell', 'Christopher Norman', 'Christopher Tin', 'CiDiAN', 'Ciaran Dolan', 'Cirillo', 'Cla6', 'Claessen', 'Clancy', 'Clara Sofie', 'Claudinho Brasil', 'Clay C', 'Cloudbreak', 'Cloudriver', 'Coax', 'Coca &amp; Villa', 'Codeko', 'Coenraad', 'Coexist', 'Cold Face', 'Cole Plante', 'Coll', 'Colonial', 'Coming Soon', 'Con Phillips', 'Core &amp; Sørensen', 'Corey Andrews', 'Corey James', 'Cornelis Van Dijk', 'Cory Friesenhan', 'Cosmic Blueprint', 'Cosmicman', 'Cosmithex', 'Cosmo &amp; Skoro', 'Cosmo Kid', 'Costa Pantazis', 'Craig-O', 'Cristian Ketelaars', 'Crossover', 'Crusy', 'Cygnus X1', 'Cylum', 'Cymatics', 'D&amp;W', "D'Jaeger", 'D-Line', 'D. Ghioc', 'D.O.D', 'D:Folt', 'DJ AMO', 'DJ Aligator', 'DJ Dazzle', 'DJ Dean', 'DJ Dream', 'DJ Fred Numf', 'DJ Genix', 'DJ Ghost', 'DJ Halperin', 'DJ Jan', 'DJ Kim', 'DJ Manta', 'DJ Nukem', 'DJ Observer', 'DJ Preach', 'DJ Rap', 'DJ Shog', 'DJ Tommyboy', 'DJ Tostie', 'DJ Wag', 'DR. DRTY', 'Da Others', 'Daimy Lotus', 'Dallas Superstars', 'Damae', 'Dan Ginolfi', 'Dan Reaves &amp; Niels Von Ahorn', 'Dan Sanfilippo', 'Dani Avramov', 'Dani Boden', 'Daniel Baron', 'Daniel Blanks', 'Daniel Etienne', 'Daniel Paul Davis', 'Daniel Summers', 'Daniel Waanrooy', 'Danny Cullen', 'Danny Loko', 'Danny Ocean', 'Danny Young', 'Dany Dazano', 'Dany G', 'Danyella', 'Danyka Nedeau', 'Danza Violento', 'Danzfolk', 'Darius', 'Darius Romanowski', 'Dark Monks', 'Dark Moon', 'Darkness Falls', "Darren O'Brien", 'Dasha', 'Datt', 'Dave Blackman', 'Dave Dowsett', 'Dave Leyrock', 'Dave Nadz', 'Dave Pearce', 'David', 'David Amo &amp; Julio Navas', 'David Julien', 'Davy Van Eynde', 'Dawnseekers', 'Daïgon', 'DeColita', 'Deathmind', 'Deedrah', 'Deep Dish', 'Deep Fog', 'Deep Orbit', 'Delta One', 'Delta-S', 'Denga vs. Manus', 'Denis Airwave', 'Denis Karpinsky', 'Denis Neeve', 'Denis Rivera', 'Dennis Eshel', 'Dennis Kruissen', 'Deorro', 'Der Mystik', 'Devon Colombage', 'DiVasco', 'Diaz', 'Digital Blues', 'Digital Dreamerz', 'Digital Horizon', 'Digital Phaze', 'Digital Vision', 'Dilara', 'Dimitri Vangelis &amp; Wyman', 'Dirty South', 'Dirty Vegas', 'Dis Play', 'Disco Citizens', 'Disco Killerz', 'Discodyne', 'Disfunktion &amp; Husman', 'Diskomo', 'Diversion', 'Division Zero', 'Dj Mystic', 'Djiva', 'Dmitriy Kuznetsov', 'Dmitry Bessonov', 'Dmitry Federov', 'Dmitry Golban', 'Dom Youdan', 'Dominic Manns', 'Donny Mac', 'Dory Badawi', 'Dr Willis', 'Dr. Willis', 'Dragana', 'Dragon and Jontron', 'Dreamlife', 'Dreamseekers', 'Drew Ryn', 'DubVision', 'Durs', 'Dustin Hussain', 'Dymos', 'Dynamic Emotion', 'Dynamic Sense', 'E&amp;G', 'E.T Project', 'ESSEX', 'Earthbound', 'Earthspirit', 'East &amp; Atlas', 'Econu', 'Eddie Lung', 'Edun', 'Egera', 'Eide', 'Eireann Wax', 'Ekon', 'El', 'El Cortez', 'Electric Pulse', 'Electric Traveller', 'Electronic Nova', 'Elias B.', 'Ell-Er', 'Elle Ve', 'Ellez Ria', 'Elucidus', 'Elyes Karray', 'Emanuele Congeddu', 'Emery', 'Emi', 'Emi Jarvi', 'Emilio Fernandez', 'Emily Harder', 'Emily Vaughn', 'Eminence', 'Emma Gillespie', 'Emotional Horizons', 'Emporium', 'En-Motion', 'Endless Blue', 'Envy', 'Enya Angel', 'Enyo Giove', 'Epica', 'Epsilon 9', 'Erick Strong', 'Erika K', 'Erly Tepshi', 'Eshericks', 'Espen Lorentzen', 'Essonita', 'Etasonic', 'Ethillas', 'Eva Pavlova', 'Evan Kendricks', 'Evan London', 'Evan Pearce', 'Evave', 'Evelio', 'Evelyn', 'Ever Burn', 'Evil Sardine', 'Evin Skye', 'Ex-Driver', 'Exertion', 'Exirninds', 'Exit', 'ExoSun', 'F-6', 'F.U.S.E.', 'FACEPALM', 'FB', 'FERR', 'Fadios', 'Fady', 'Fafaq', 'Fallen Skies', 'Far &amp; Away', 'Faraway Project', 'Farb', 'Farra', 'Fatkid', 'Fergie &amp; Sadrian', 'Ferry', 'Fierce', 'Fifth Dimension', 'Filterheads', 'Final Aeon', 'Fingerling', 'Finlay', 'Fiona Reid', 'Firebeatz', 'First', 'First &amp; Andre Cruiser', 'Fisical Project', 'Fix To Fax', 'Flatdisk', 'FloE', 'Floor Divisions', 'Floria Ambra', 'Fluir', 'Flying Decibels', 'Fokko Versloot', 'Foot', 'Forerunners', 'Forion', 'Foundry', 'Franco Riccobaldi', 'Frank Dattilo', 'Frank T.R.A.X.', 'Frank Watson', 'Franz', 'Fredd Moz', 'Fredda. L', 'Fredrik Miller', 'FreeFall', 'Freek Geuze', 'Freelancer', 'Freigeist', 'Freischwimmer', 'French Skies', 'Frog &amp; Derb', 'Frontliner', 'Frost', 'Frost &amp; Maron', 'Funkagenda', 'Furkan Senol', 'Future Disciple', 'Futuristic Polar Bears', 'Fyrsta', 'G-Mark', 'G-Phaxe', 'G-Tek', 'G.D.', 'GMS', 'GQ', 'Gabriel Lukosz', 'Garrido', 'Garrido &amp; Skehan', 'Gary Proud', 'Gat Decor', 'Gate', 'Gate 4', 'Gather', 'Gaudium', 'Gavyn Mitchel', 'Gene Xander', 'Genesis', 'Gentech', 'Gerry Menu', 'Gil Zambrano', 'Gilbert AM', 'Glensk', 'Gliss', 'Global Experience', 'Glynn Alan', 'Gofman', 'Golax', 'Golden Girls', 'Gologan', 'Good &amp; Bower', 'Goom Gum', 'Gradian', 'Graham Gold', 'Graumann', 'Green &amp; Falkner', 'Green Atlas', 'Greenstone', 'Gregori Klosman', 'Gregory Esayan', 'Griff Clawson', 'Grizli Man', 'Groove Garcia', 'Group Number One', 'Guiseppe Ottaviani', 'Gum Me', 'HANDY K', 'HRTWRK', 'HVNNAH', 'Hadley', 'Halcyone', 'Haley', 'Hammer', 'Hannah Rose', 'Hans Seo', 'Happy Monkey', 'Hardfloor', 'Haris', 'Haris C', 'Harmonika', 'Harper &amp; Green', 'Hazrain Norman', 'Heard Right', 'Heidi Anne', 'Helen Sylk', 'Hello Machines', 'Hensha', 'Hesham Ghoneim', 'Hi Profile', 'High Frequencies', 'Hilton Caswell', 'Hindsight', 'Hiroyuki ODA', 'Hjerkinn', 'Hodel &amp; Hornblad', 'Holland', 'Howe', 'Huarache', 'Hudson &amp; Kant', 'Hybrid', 'Hydriod', 'Hydro Poison', 'Hypaton', 'HËLIX', 'I-Vision', 'IJA', 'IKO', 'INVIRON', 'Iain M', 'Ian Solano', 'Idaho', 'Ignas', 'Igor Dyachkov', 'Ikerya Project', 'Ilya Flame', "Ima'gin", 'Impulse Wave', 'In Gray', 'In-Phase', 'Inbox', 'Indifferent Guy', 'Infected Mushroom', 'Infected Mushrooms', 'Infinity', 'Inge Bergmann', 'Inge Lemon', 'Inger Hansen', 'Inner &amp; Outer', 'Innerlight', 'Inpetto', 'Interactive Noise', 'Intersonic', 'Intrique', 'Irdi', 'Irena Love', 'Irina Makosh', 'Isa Marie', 'Isha', 'Isobel Mai', 'Ivan Gough', 'Ivan Khurtin', 'Iversoon &amp; Alex Daf', 'Izzy Warner', 'J. Hart', 'J.L.N.D.', 'J.O.C.', 'J.Puchler', 'J.Shore', 'JAMASTER A', 'JC Chavez', 'JMS', 'Jacqueline', 'Jade 4 U', 'Jake Reese', 'Jake Terra', 'Jake Torrey', 'Jakko', 'Jam El Mar', 'JamX', 'Jamala', 'James Allan', 'James De Torres', 'James Kiedis', 'Jameson Tullar', 'Jamie Anderson', 'Jamie Harrison', 'Jamie K', 'Jamx &amp; De Leon', 'Jan Johnson', 'Jan Loper', 'Jan Miller', 'Jan Oostdijk', 'Jan Oostdyk', 'Jane Maximova', 'Jannika', 'January Embers', 'Jardin', 'Jared Lee', 'Jark Prongo', 'Jasmine Maurie', 'Jason Seizures', 'Javah', 'JayCan', 'Jaydee', 'Jeff Rona', 'Jeitam Osheen', 'Jenni Perez', 'Jennifer Cooke', 'Jennifer Paige', 'Jenry R', 'Jericho Frequency', 'Jerome', 'Jessica Riddle', 'Jessy Greene', 'Jetson', 'Jim', 'JimiJ', 'Jimmy Chou', 'Jinadu', 'Jinus', 'Jjoo', 'Jo Maddox', 'Joc', 'Jochan Morrisen', 'Joe Garrett', 'Joe Lyons', 'Joel Fletcher', 'Joel Peres', 'Joel Spencer', 'Johannes Fischer', 'John Henderson', 'John Hetmond', 'John Manz', 'John Mash', 'John Selway', 'John Swanson', 'Johnny B', 'Johnny Kelvin', 'Jokate Benson', 'Jon Hopkins', 'Joni Fatora', 'Jonny Royall', 'Joonas Hahmo presents DOS622', 'Jordy Dazz', 'Joren Heelsing', 'Joris Voorn', 'Jorn &amp; Vito', 'Jose De Mara', 'Jozhy K', 'Judie Tzuke', 'Jules', 'Jules Porter', 'Julia Ross', 'Julia Violine', 'Julie Morrison', 'Juliet Lyons', 'Jullians', 'Jumpy Jumps', 'Junostar', 'Just D', 'Justin Dobslaw', 'KAST', 'KINETICA', 'KOS Project', 'Kaelyn Behr', 'Kainos', 'Kalafut &amp; Fygle', 'Kaleena Zanders', 'Kamar 2', 'Kameron Alexander', 'Kamilo Sanclemente', 'Kane Nelson', 'Kara Sun', 'Kareem Fad', 'Karen', 'Karen Elliot', 'Karybde', 'Karybde &amp; Scylla', 'Kash Trivedi', 'Kaste', 'Kat Marsh', 'Kate Dowman', 'Kathy Heath', 'Katie DiCicco', 'Katri', 'Katrik', 'Kaya-T', 'Ken Loi', 'Ken Spector', 'Kenan Teke', 'Kenneth Cruz', 'Kent &amp; Gian', 'Keo Nozari', 'Kevin de Vries', 'Kevu', 'KeyWork', 'Khaz', 'Kikis', 'Killogy', 'Kinetica', 'Kirill Nikolaev', 'Kirsch', 'Kitimo Lopez', 'Kobbe', 'Kobee', 'Koen Lebbens', 'Koglin &amp; Dewar', 'Kokaholla', 'Koko LaRoo', 'Kostya Veter', 'Krama', 'Kris Maydak', 'Kris Menace', 'Kristian Naim', 'Kristina Sky', 'Kristoffer Ljungberg', 'Kuffdam', 'Kularis', 'Kutski', 'Kyamoto', 'Kye Sones', 'Kyle Pepper', 'L.S.G.', 'LACES', 'LFO', 'LR', 'LR Uplift', 'LaMoor', 'Lansy K', 'Larke', 'Larsson', 'Last Island', 'Latex Zebra', 'Laura Turner', 'Laurell', "Lauren L'aimant", 'Lauren Ní Chasaide', 'Lauren Ray', 'Lavoie', 'Lawson', 'LeBlanc', 'Lee And Slater', 'Lee Canning', 'Lee Haslam', 'Leilani', 'Lele Toniq', 'Lele Troniq', 'Lens', 'Leolife', 'Leon 78', 'Leon Lour', 'Lepi Taival', 'Les Hemstock', 'Levann', 'Lewis Dodkins', 'Lexicon 4', 'Liam Hathaway', 'Liam Nicklin', 'LibeDime', 'Liezl', 'Lifelike', 'Lifted Emotion', 'LightControl', 'Likwid', 'Line Pursuit', 'Linn', 'Liquid Life', 'Liquid Todd', 'Liquid Vision', 'Little Nikki', 'Lizzy Land', 'Ljungqvist', 'Logic Stories', 'Lokka', 'Lola', 'Lonely Boy', 'Loobosh', 'Loomer', 'Lost Lynx', 'Lost Sequence', 'Lostep', 'Lostman', 'Love N Frequency', 'Luciana Di Nardo', 'Lucien', 'Luise Najib', 'Luiz B', 'Lumin-8', 'Luminal', 'Lumination', 'Luminn', 'Luuya', 'Lyci', 'Lycii', 'M Waering', 'M-Wood', 'M. Wilson', 'M11', 'MCO', 'MDX', 'Ma2shek', 'Macj', 'Madelin Zero', 'Maerin', 'Maglev', 'Magnetic Point', 'Maguire', 'Mahaputra', 'MainGain', 'Mainx', 'Malu', 'Maluu', 'Mandy Jones', 'Maniel Le Saux', 'Mantra', 'Manuel Le Sau', 'Manufactured Superstars', 'Manvel Ter-Pogosyan', 'Marc Dawn', 'Marc Volt', 'Marcell Stone', 'Marco Svarda', 'Mariah McManus', 'Mario Ayuda', 'Marius Verwoert', 'Mark Brain', 'Mark Found', 'Mark Pledger', 'Mark S', 'Mark Sinclair', 'Mark Versluis', 'Mark W', 'Marko Kantola', 'Marksun', 'Marksun &amp; Brian', 'Martens', 'Martijn Stegerhoek', 'Martin Drake', 'Martin Soundriver', 'Mason', 'Massai One', 'Mastro', 'Matt Chowski', 'Matt Eray', 'Matt Everson', 'Matt Forner', 'Matt Lange', 'Matthew Adam', 'Matthew Preffekt', 'Matthew White', 'Matthias Bishop', 'Matti Laamanen', 'Matvey Emerson', 'Maurice Lekkerkerker', 'Mavi', 'Max Braiman', 'Max Denoise', 'Max Graham vs Protoculture', 'Max Roven', 'Max Vangeli', 'Maxi Jazz', 'Maxim Lany', 'May Hassan', 'Mazza', 'McAree', 'McAree &amp; Clancy', 'McAuley', 'McGregor', 'Medii', 'Megamind', 'Meirmans', 'Mekka', 'Melissa Mathes', 'Members Of Mayday', 'Memory Loss', 'Menfis', 'Meridith Call', 'Messler', 'Metroom', 'Meyer', 'Mhammed El Alam', 'Mia Koo', 'Micah Martin', 'Michael', 'Michael Badal', 'Michael Burns', 'Michael Kaelios', 'Michael Lee', 'Michael Mashkov', 'Michael-Li', 'Miella', 'Miguel Sassot', 'Miika Kuisma', 'Mike Efex', 'Mike Hawkins', 'Mike Heart', 'Mike Septima', 'Mike Wind', 'Mikkas', 'Mil Brokes', 'Miles', 'Miller vs Divini', 'Mina', 'Mindscope', 'Miranda Lee Richards', 'Miroslav Virlik', 'Misia Furtak', 'Mistigris', 'Mistral', 'Mivase', 'Mnemonic', 'Moby', 'Modena', 'Mohamed Hamdy', 'Mohammed Khalila', 'Moiez', 'Mokita', 'Monika Santucci', 'Monty Wells', 'Moon', 'Moonforce', 'More Analog', 'Morphing Shadows', 'Morten Granau', 'Mosimann', 'Mosko', 'Motion Sound', 'Mozella', 'Mr Andre', 'Mr Carefull', 'Mr. Sam', 'Mr. Sax', 'Muhib Khan', 'Murica', 'Murtagh', 'Musix', 'Muska', 'Myde', 'Myon &amp; Late Night Alumi', 'Myron', 'Mysterious Movement', 'Mystery Islands', 'Mystical Complex', 'N2o', 'NG Rezonance', 'NKI', 'NOHC', 'Naeba', 'Nail Abdiev', 'Nakadia', 'Nat Monday', 'Natalia Gioia', 'Natalie Holmes', 'Natalie Peris', 'Natalie Shay', 'Natlife', 'Nature One Inc.', 'Neil Hunter', 'Neo Kekkonen', 'Neofance', 'Neos', 'Neple', 'Neshi Futuro', 'Neve White', 'Nic Vegter', 'Nick Martin', 'Nick Robertson', 'Nick Stufano', 'Nick Thompson', 'Nickie Minshall', 'Nicole McKenna', 'Niels Von Ahorn', 'Nikhil Prakash', 'Nino Lucarelli', 'Nish', 'Nivaya', 'No Class', 'No Comment', 'Noctiva', 'Noel Gitman', 'Nomination', 'Nora En Pure', 'Norah B.', 'Nord Horizon', 'Nordan', 'Norin', 'Novan', 'Novastar', 'Nucvise', 'Nurlail', 'NuttaLyA', 'Oberon', 'Obie Fernandez', 'Oceania', 'Odison', 'Off Key', 'Off Limits', 'Ojan Nilsen', 'Oleg Espo', 'Oleg Farrier', 'Oliver &amp; Tom', 'Oliver Cattley', 'Oliver Englafjord', 'Oliver Lieb', 'Oliver Shine', 'Omen', 'Omiki', 'Omniks', 'One Half Bear', 'One Way', 'Opticane', 'Oradea', 'Orange 3', 'Orano', 'Origin', "Orion's Dawn", 'Orjan Remix', 'Orkan', 'Orsa', 'Orunea', 'Osaru', 'Osip', 'Osiris', 'Osito', 'Ost', 'Oza', 'P.O.S.', 'PG2', 'PHD', 'PK', 'Pacheco', 'Paco Maroto', 'Paolo Mojo', 'Pathfinders', 'Patrick Devere', 'Patrick Stowson', 'Patricketto', 'Paul Allen', 'Paul Cook', 'Paul Courbet', 'Paul Gibson', 'Paul Johannessen', 'Paul Mayson', 'Paul Meany', 'Paul Mendez', 'Paul Morrell', 'Paul Rigel', 'Paul Skelton', 'Paul Tarrant', 'Paul Vernon', 'Pay &amp; White', 'Pearson &amp; Hirst', 'Pedersen', 'Penny Nixon', 'Perfect Vision', 'Perplexer', 'Pete Drury', 'Peter Dafnous', 'Peter McCowan', 'Pex L', 'Phaedra', 'Phanatic', 'Phatzoo', 'Phaxe', 'Philip Estevez', 'Philip Overdriver', 'Phillipe El Sisi', 'Philthy Chit', 'Phoebe Ryan', 'Phonic Youth', 'Pia Toscano', 'Pierce Fulton', 'Pierre in the Air', 'Pinkbox Special', 'Pinkque', 'Pino Benji', 'Pinque', 'Pirate', 'Pixel', 'Plastika', 'Plavka', 'Plexland', 'Plu-Ton', 'Pobsky', 'Poison Pro', 'Polaris', 'Poli Hubavenska', 'Polina', 'Poonyk', 'Portishead', 'Pretty Pink', 'Primo Lux', 'Prism', 'Private Collection', 'Project 8', 'Prototype', 'Psywork', 'Pulse Regime', 'Puma Scorz', 'Purelight', 'Qrion', 'Quadrophonia', 'Quizzow', 'R-Lend', 'R.E.N.O.I.S.E.', 'RAM presents RAW', 'RBBTS', 'RUMORS', 'RYDEX', 'Rad', 'Radiate', 'Radiate Worship', 'Radmila', 'Rafael Osmo', 'Rafif', 'Rakkano', 'Ralph Novell', 'Rambacy', 'Raminio', 'Ramsey Westwood', 'Randry', 'Randy Boyer &amp; Eric Tadla', 'Raneem', 'Rank', 'Rankey', 'Ransom', 'Rasster', 'Rated R', 'Ratty', 'Rave Channel', 'Raver', 'Rb Naylr', 'Re-Play', 'Re-Ward', 'ReDrive', 'Rea Garvey', 'Realm F', 'Reaves', 'Rebecca Emely', 'Rebourne', 'Receptive', 'Reconceal', 'Red Sky', 'Redd Square', 'Redhead Roman', 'Reece Low', 'Reez', 'Remco', 'Renvo', 'Rephlex One', 'Reunify', 'Revolution 9', 'Ria', 'Richie Loop', 'Rifter', 'Rigby', 'Rikkaz', 'Rimsky', 'Rinat Shabanov', 'Rio Lorenzo', 'Riot Night', 'Rising Altitude', 'Riva', 'Rob Naylor', 'Robbert Ladiges', 'Robert &amp; Jaron', 'Robert Darry', 'Roberta Harrison', 'Roddy Reyneart', 'Roland Clark', 'Rolfiek', 'Ron Malakai', 'Ron van den Beuken', 'Ronnie Allstar', 'Rory', "Rory O'Grady", 'Rosalee O’Connell', 'Rospy', 'Ross Ferguson', 'Roxanne Barton', 'Ruben de Rond', 'Rubi Heller', 'Run Rivers', 'Ruslan Aschaulov', 'Russell G', 'Russo', 'Rya &amp; Manida', 'Ryan Mendoza', 'Rymania', 'S&amp;L', 'S. Sinka', 'S.H.O.K.K.', 'SDS', 'SECTR 24', 'STEEM SL', 'Saav', 'Sabanci', 'Sabanci &amp; Truby', 'Saer', 'Saint', 'Saint Rush', 'Sally Saifi', 'Sam Knight', 'Sami S', 'San Antonio Harbour', 'Sander Playmo', 'Sander Van Dien', 'Sandra Wagner', 'Santoz', 'Sascha Milde', 'Sasha', 'Sasha August', 'Sasha da Link', 'Scarlett Quinn', 'Scenix', 'Science Deal', 'Scolario', 'Scott Lowe', 'Scylla', 'Sean &amp; Xander', 'Sean Ryan', 'SebDell', 'Sebu', 'Second Reason', 'Second Way', 'Secret Panda Society', 'Seegmo', 'Seelo', 'Sekiu', 'Sendr', 'Sense Of Shiver', 'Sequentia Remix', 'Seraque', 'Serenade', 'Sergey Shabanov', 'Sergey Vegas', 'Serial Smokers', 'Seroya', 'Sesto Sento', 'Seth Hutton', 'Sevenn', 'Sfinx', 'Shahin Badar', 'Shakeh', 'Shanti People', 'Shanti V Deedrah', 'Shaun Gregory', 'Shedona', 'Shelby Merry', 'Sheldon', 'Sherry Flavour', 'Shingo Nakamura', 'Shy Brothers', 'Sian Evans', 'Sian Kosheen', 'Siberian Sun', 'Sibicky', 'Side Effects', 'Sideform Suduaya', 'Signal Space', 'Silvermine', 'Silvester', 'Simadith Project', 'Simmons &amp; Blanc', 'Simon Lee', 'Simon Moon', 'Simon Pitt', 'Simple Art', 'Simply Drew', 'Simza', 'Sion Rae', 'Sirocco', 'Skehan', 'Sky Sound', 'Skye', 'Skyler Stonestreet', 'Slip Friction', 'Slusnik Luna', 'Smallow', 'Smart Apes', 'Smuel', 'Snitker', 'Snowseal', 'Soar', 'Solange', 'Solar Kid', 'Solarium', 'Solarstone Pure', 'Solex', 'Solicitous', 'Solid Skill', 'Solid Sleep', 'Something Good', 'Sonar Methods', 'Soncesvit', 'Song and the Moon', 'Sonic Division', 'Sons', 'Sons Of Methuselah', 'Sophie Moleta', 'SounEmot', 'Soundcheck', 'SouthLights', 'Space Raven', 'Spara', 'Spencer Tarring', 'Spherical Bloom', 'Sphinx', 'Spoiled and Zigo', 'St. John vs Locust', 'Stacker', 'Stan Serkin', 'Stanford', 'Stanfour', 'Star Industry', 'Starecase', 'Starfighter', 'Starkillers', 'State One', 'State of Mind', 'Stefan Cambridge', 'Stefan Dabruck', 'Steff da Campo', 'Stellz', 'Stephane Badey', 'Stephanie Kay', 'Stephen Kirkwood', 'Stephen Ridley', 'Stephey', 'Stereo Wildlife', 'Steve Allan', 'Steve Aoki', 'Steve Aries', 'Steve Bengaln', 'Steve Birch', 'Steve Forte Rio', 'Steve Haines', 'Steve Morley', 'Steven Brooks', 'Steven De Sar', 'Steven Force', 'Stimulator', 'Stoneface', 'Stoneless', 'Straight Up', 'Stream Noise', 'Street Punk', 'Stuart Millar', 'Stuart Trainer', 'Stvn', 'Stylo', 'Subimpact', 'Subversion', 'Sultan &amp; Sheperd', 'Sun Brothers', 'Sun State', 'Sunbrothers', 'Suncore', 'Suncrusaders', 'Sunday 5pm', 'Sunleed', 'Sunlight Project', 'Sunset Slave', 'Super8 &amp; DJ Tab', 'Supuer', 'Swanky Tunes', 'Swift', 'Sykamore', 'Sylvi', 'Symbolic', 'Symon &amp; Jay', 'Syndica', 'Syndique', 'System Nipel', 'Systembreaker', 'T.h.', 'TATA1', 'TEKNO', 'THNK', 'Tabasco Bob', 'Tadi &amp; Nv', 'Taiko', 'Taival', 'Tales Of Life', 'Tamra', 'Tangle &amp; Mateusz', 'Tania Mann', 'Tara Louise', 'Taranhawk', 'Tasadi', 'Tasso', 'Taucher', 'Taylor', 'Team Bastian', 'Tee-Ex', 'Tekno', 'Temperheart', 'Tensteps', 'Terminal', 'Terracotta Army', 'Terry Gaters', 'Tetarise', 'Tetraflux', 'Tetrazone', 'The A&amp;N Project', 'The Antipodes', 'The Ashk One', 'The Atari Babies', 'The Avains', 'The Chill Factor', 'The Conductor &amp; The Cowboy', 'The Delta Rock Duo', 'The Doppler Effect', 'The Enlightment', 'The Inheritors', 'The Midnight', 'The Nasty Boyz', 'The Orange', 'The Royalties STHLM', 'The Second Phase', 'The Spacelovers', 'The Spanish Armada', 'The Technicians', 'The Tribute', 'The Veil Kings', 'The WLT', 'Theo', 'Therese', 'Theresia Svensson', 'Thick As Thieves', "Thomas Datt's", 'Thomas Kelle', 'Thomas Knight', 'Thomas Newson', 'Thomas Orlando', 'Thomas Sagstad', 'Thomas Schwartz', 'Thomas T', 'Thomas T.', 'Thomas Vink', 'Thoneick', 'Thorisson', 'Three Drives On A Vinyl', 'Tiffany Johnston', 'Tilt', 'Tim &amp; Misjah', 'Tim Besamusca', 'Tim Briggs', 'Tim Preijers', 'Tim White', 'Timelock', 'Timmo Hendriks', 'Timmus', 'Timo Vaittinen', 'Timur Shafiev', 'Timur Shafiey', 'Tobi Atkins', 'Tolga Uzulmez', 'Toltel', 'Tom Glide', 'Tom Porcell', 'Tom Stronghold', 'Tom Tyler', 'Tomahawk', 'Tommy Baynen', 'Tommy Conway', 'Torio', 'Tour de Trance', 'Trance Reserve', 'TranceEye', 'Tranceforce', 'Transa', 'Transwave', 'Treadstone', 'Trent McDermott', 'Tribal Point', 'Tricia McTeagu', 'Trilucid', 'Trine', 'Triple Seven', 'Triqz', 'Tristan', 'Tropical Groove', 'Truewave', 'Tsukerman', 'Tube &amp; Miller', 'Twilight', 'Tygris', 'U-Jeen', 'U-Turn', 'UMEK', "Uberjak'd", 'Uli Poeppelbaum', 'Unconditional', 'Underdown', 'Underwater', 'Universal Sense', 'Unknown Source', 'Unseen Dimensions', 'V-One', 'Vada', 'Vadik', 'Valhalla', 'Van Der Vleuten', 'Van Dresen', 'Van Eyden', 'Varsente', 'Vascotia', 'Vector 7', 'Vegaro', 'Vegas', 'Vegas Baby', 'Vehemence', 'Veit', 'Velden', 'Velvetine', 'Venice', 'Vercitti', 'Verny', 'Vertel', 'Vertruda', 'Vicky Fee', 'Victoria Duffield', 'Vince Schuld', 'Vincent Voort', 'Vir2l Vision', 'Visionaire', 'Visior', 'Vlad Captivity', 'Vol Deeman', 'Volition', 'Voolgarizm', 'Voytech', 'Vök', 'WARRIORS', 'Walden', 'Walsh', 'Warren Adam', 'Waterspark', 'Wayne Jackson', 'We Are Loud', 'WeAreAlien', 'WeareD', 'Wellenrausch', 'Westlake', 'What So Not', 'Whitelight', 'Wiegel', 'WildOnes', 'Wildstylez', 'Will Watson', 'Win and Woo', 'Winona Oak', 'With The Winds', 'Within Temptation', 'Wonder Element', 'Woodshokk', 'X-Ploarations', 'XIRA', 'Xanwow', 'Xijaro', 'Xspective Sense', 'Yanave', 'Yotto', 'Young Rebels', 'Yourdee', 'Yuna-X', 'ZOYA', 'Zach Zlov', 'Zack Evans', 'Zack Martino', 'Zehavi &amp; Rand', 'Zein Hallak', 'Ziger', 'Zigi', 'Ziki', 'Zinkibaru', 'Zinou', 'Zyce', 'brando', 'i', 'tAudrey Gallagher', 'tyDi &amp; Dennis Sheperd']
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Highlights include Steve Aoki and What So Not, among others. Again, this is based on how artists are reported in Spotify and as such is not entirely accurate. In the above we see 'tAudrey Gallagher' and "Thomas Datt's", both typos, report as separate from their namesake.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Summary">
+<a class="anchor" href="#Summary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Summary<a class="anchor-link" href="#Summary"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>In conclusion, across the current (as of writing) 960 episodes of A State of Trance...</p>
+<ul>
+<li>17,000+ total tracks have been played</li>
+<li>4,000+ unique artists have been featured</li>
+<li>1,200+ tracks produced by Armin van Buuren in some form or another have been played</li>
+<li>1,700+ artists (43%) have been played exactly once</li>
+</ul>
+<p>And there we have it! There's plenty more to investigate, stay tuned..</p>
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+  </div><a class="u-url" href="/asot-jupyter/asot/bpm/2020/05/02/artist-plays.html" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/asot-jupyter/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/asot-jupyter/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/asot-jupyter/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      </div>
+      <div class="footer-col">
+        <p>How has A State of Trance changed over time?</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/ScottBrenner" title="ScottBrenner"><svg class="svg-icon grey"><use xlink:href="/asot-jupyter/assets/minima-social-icons.svg#github"></use></svg></a></li></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
