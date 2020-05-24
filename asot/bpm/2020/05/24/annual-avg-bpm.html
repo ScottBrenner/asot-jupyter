@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Annual Average Episode BPM | asot-jupyter</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Annual Average Episode BPM" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tracking average episode BPM over time .. over the years." />
+<meta property="og:description" content="Tracking average episode BPM over time .. over the years." />
+<link rel="canonical" href="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/24/annual-avg-bpm.html" />
+<meta property="og:url" content="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/24/annual-avg-bpm.html" />
+<meta property="og:site_name" content="asot-jupyter" />
+<meta property="og:image" content="https://scottbrenner.github.io/asot-jupyter/images/annual-avg-bpm.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-05-24T00:00:00-05:00" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/24/annual-avg-bpm.html"},"description":"Tracking average episode BPM over time .. over the years.","@type":"BlogPosting","url":"https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/24/annual-avg-bpm.html","headline":"Annual Average Episode BPM","dateModified":"2020-05-24T00:00:00-05:00","datePublished":"2020-05-24T00:00:00-05:00","image":"https://scottbrenner.github.io/asot-jupyter/images/annual-avg-bpm.png","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/asot-jupyter/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://scottbrenner.github.io/asot-jupyter/feed.xml" title="asot-jupyter" /><!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-160007910-2','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+
+<link rel="shortcut icon" type="image/x-icon" href="/asot-jupyter/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Annual Average Episode BPM | asot-jupyter</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Annual Average Episode BPM" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tracking average episode BPM over time .. over the years." />
+<meta property="og:description" content="Tracking average episode BPM over time .. over the years." />
+<link rel="canonical" href="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/24/annual-avg-bpm.html" />
+<meta property="og:url" content="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/24/annual-avg-bpm.html" />
+<meta property="og:site_name" content="asot-jupyter" />
+<meta property="og:image" content="https://scottbrenner.github.io/asot-jupyter/images/annual-avg-bpm.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-05-24T00:00:00-05:00" />
+<script type="application/ld+json">
+{"mainEntityOfPage":{"@type":"WebPage","@id":"https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/24/annual-avg-bpm.html"},"description":"Tracking average episode BPM over time .. over the years.","@type":"BlogPosting","url":"https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/05/24/annual-avg-bpm.html","headline":"Annual Average Episode BPM","dateModified":"2020-05-24T00:00:00-05:00","datePublished":"2020-05-24T00:00:00-05:00","image":"https://scottbrenner.github.io/asot-jupyter/images/annual-avg-bpm.png","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"><link type="application/atom+xml" rel="alternate" href="https://scottbrenner.github.io/asot-jupyter/feed.xml" title="asot-jupyter" /><!-- the google_analytics_id gets auto inserted from the config file -->
+
+
+
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-160007910-2','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+
+
+
+<script>
+function wrap_img(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        var elements = document.querySelectorAll(".post img");
+        Array.prototype.forEach.call(elements, function(el, i) {
+            if (el.getAttribute("title") && (el.className != "emoji")) {
+                const caption = document.createElement('figcaption');
+                var node = document.createTextNode(el.getAttribute("title"));
+                caption.appendChild(node);
+                const wrapper = document.createElement('figure');
+                wrapper.className = 'image';
+                el.parentNode.insertBefore(wrapper, el);
+                el.parentNode.removeChild(el);
+                wrapper.appendChild(el);
+                wrapper.appendChild(caption);
+            }
+        });
+    } else { document.addEventListener('DOMContentLoaded', fn); }
+}
+window.onload = wrap_img;
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+    // add link icon to anchor tags
+    var elem = document.querySelectorAll(".anchor-link")
+    elem.forEach(e => (e.innerHTML = '<i class="fas fa-link fa-xs"></i>'));
+    });
+</script>
+</head><body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/asot-jupyter/">asot-jupyter</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/asot-jupyter/about/">About</a><a class="page-link" href="/asot-jupyter/search/">Search</a><a class="page-link" href="/asot-jupyter/categories/">Tags</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Annual Average Episode BPM</h1><p class="page-description">Tracking average episode BPM over time .. over the years.</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-05-24T00:00:00-05:00" itemprop="datePublished">
+        May 24, 2020
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      2 min read
+    
+</span></p>
+
+    
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/asot-jupyter/categories/#asot">asot</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/asot-jupyter/categories/#bpm">bpm</a>
+        
+      
+      </p>
+    
+
+    
+      
+        <div class="pb-5 d-flex flex-wrap flex-justify-end">
+          <div class="px-2">
+
+    <a href="https://github.com/ScottBrenner/asot-jupyter/tree/master/_notebooks/2020-05-24-annual-avg-bpm.ipynb" role="button" target="_blank">
+<img class="notebook-badge-image" src="/asot-jupyter/assets/badges/github.svg" alt="View On GitHub">
+    </a>
+</div>
+
+          
+          
+        </div>
+      </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <ul class="section-nav">
+<li class="toc-entry toc-h2"><a href="#Introduction">Introduction </a></li>
+<li class="toc-entry toc-h2"><a href="#Getting-Started">Getting Started </a></li>
+<li class="toc-entry toc-h2"><a href="#Calculating">Calculating </a></li>
+<li class="toc-entry toc-h2"><a href="#Results">Results </a></li>
+</ul><!--
+#################################################
+### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
+#################################################
+# file to edit: _notebooks/2020-05-24-annual-avg-bpm.ipynb
+-->
+
+<div class="container" id="notebook-container">
+        
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Introduction">
+<a class="anchor" href="#Introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a>Introduction<a class="anchor-link" href="#Introduction"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>We've previously looked at A State of Trance's <a href="https://scottbrenner.github.io/asot-jupyter/asot/bpm/2020/04/28/avg-bpm.html">average episode BPM</a>, <a href="https://scottbrenner.github.io/asot-jupyter/asot/artists/2020/05/02/artist-plays.html">most-played artists</a> and <a href="https://scottbrenner.github.io/asot-jupyter/asot/tracks/2020/05/16/track-plays.html">most-played tracks</a> <em>overall</em>.</p>
+<p>Starting with this post we'll do the same - but looking at things from <em>year-to-year</em>. Let's begin with annual average episode BPM.</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Getting-Started">
+<a class="anchor" href="#Getting-Started" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting Started<a class="anchor-link" href="#Getting-Started"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><a href="https://en.wikipedia.org/wiki/A_State_of_Trance#History">The first episode of A State of Trance aired in 2001</a>. Since then, the show has seen</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">episodes</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+
+
+<div class="output_text output_subarea output_execute_result">
+<pre>963</pre>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>episodes of across its nearly 20-year run. <em>As of writing, according to Spotify, etc ..</em></p>
+<p>As a weekly radio show, I'd expect to see about 52 episodes air each year. Is that correct?</p>
+<p>Fortunately Spotify can tell us when an episode aired:</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Air dates for the first 10 episodes</span>
+<span class="k">for</span> <span class="n">episode</span> <span class="ow">in</span> <span class="n">episodes</span><span class="p">[:</span><span class="mi">10</span><span class="p">]:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">episode</span><span class="p">[</span><span class="s1">'name'</span><span class="p">],</span> <span class="n">episode</span><span class="p">[</span><span class="s1">'release_date'</span><span class="p">])</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>A State Of Trance Episode 000 2001-05-17
+A State Of Trance Episode 001 2001-05-31
+A State Of Trance Episode 002 2001-06-07
+A State Of Trance Episode 003 2001-06-14
+A State Of Trance Episode 004 2001-06-21
+A State Of Trance Episode 005 2001-06-28
+A State Of Trance Episode 006 2001-07-19
+A State Of Trance Episode 007 2001-07-26
+A State Of Trance Episode 008 2001-08-02
+A State Of Trance Episode 009 2001-08-09
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>So we can keep a running tally for each year, then print the result:</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">collections</span> <span class="kn">import</span> <span class="n">defaultdict</span>
+
+<span class="n">episodes_counter</span> <span class="o">=</span> <span class="n">defaultdict</span><span class="p">(</span><span class="nb">int</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">episode</span> <span class="ow">in</span> <span class="n">episodes</span><span class="p">:</span>
+    <span class="n">episodes_counter</span><span class="p">[</span><span class="n">episode</span><span class="p">[</span><span class="s1">'release_date'</span><span class="p">][:</span><span class="mi">4</span><span class="p">]]</span> <span class="o">+=</span> <span class="mi">1</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="nb">dict</span><span class="p">(</span><span class="n">episodes_counter</span><span class="p">))</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>{'2001': 27, '2002': 50, '2003': 50, '2004': 52, '2005': 48, '2006': 50, '2007': 51, '2008': 51, '2009': 51, '2010': 50, '2011': 52, '2012': 51, '2013': 51, '2014': 51, '2015': 52, '2016': 50, '2017': 51, '2018': 52, '2019': 52, '2020': 21}
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Seems reasonable enough!</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Calculating">
+<a class="anchor" href="#Calculating" aria-hidden="true"><span class="octicon octicon-link"></span></a>Calculating<a class="anchor-link" href="#Calculating"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Let's crunch some numbers.</p>
+<p>What is the annual average episode BPM?</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">annual_total_bpm</span> <span class="o">=</span> <span class="n">defaultdict</span><span class="p">(</span><span class="nb">int</span><span class="p">)</span>
+<span class="n">annual_avg_bpm</span> <span class="o">=</span> <span class="n">defaultdict</span><span class="p">(</span><span class="nb">int</span><span class="p">)</span>
+
+<span class="k">for</span> <span class="n">episode</span> <span class="ow">in</span> <span class="n">episodes</span><span class="p">:</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">episode_bpm</span> <span class="o">=</span> <span class="mi">0</span>
+        <span class="n">tracks_counted</span> <span class="o">=</span> <span class="mi">0</span>
+        <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episode</span><span class="p">[</span><span class="s1">'uri'</span><span class="p">])[</span><span class="s1">'items'</span><span class="p">]:</span>
+            <span class="k">if</span> <span class="s2">"a state of trance"</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'name'</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span> <span class="ow">or</span> <span class="s2">"- interview"</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">'name'</span><span class="p">]</span><span class="o">.</span><span class="n">lower</span><span class="p">():</span>
+                <span class="k">continue</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="n">episode_bpm</span> <span class="o">+=</span> <span class="n">sp</span><span class="o">.</span><span class="n">audio_features</span><span class="p">(</span><span class="n">track</span><span class="p">[</span><span class="s1">'uri'</span><span class="p">])[</span><span class="mi">0</span><span class="p">][</span><span class="s1">'tempo'</span><span class="p">]</span>
+                <span class="n">tracks_counted</span> <span class="o">+=</span> <span class="mi">1</span>
+        <span class="n">episodes_counted</span> <span class="o">+=</span> <span class="mi">1</span>
+        <span class="n">avg</span> <span class="o">=</span> <span class="n">episode_bpm</span><span class="o">/</span><span class="n">tracks_counted</span>
+        <span class="n">annual_total_bpm</span><span class="p">[</span><span class="n">episode</span><span class="p">[</span><span class="s1">'release_date'</span><span class="p">][:</span><span class="mi">4</span><span class="p">]]</span> <span class="o">+=</span> <span class="n">avg</span>
+    <span class="k">except</span><span class="p">:</span>
+        <span class="k">pass</span>
+
+<span class="k">for</span> <span class="n">year</span><span class="p">,</span> <span class="n">avg</span> <span class="ow">in</span> <span class="n">annual_total_bpm</span><span class="o">.</span><span class="n">items</span><span class="p">():</span>
+    <span class="n">annual_avg_bpm</span><span class="p">[</span><span class="n">year</span><span class="p">]</span> <span class="o">=</span> <span class="n">avg</span> <span class="o">/</span> <span class="n">episodes_counter</span><span class="p">[</span><span class="n">year</span><span class="p">]</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="nb">dict</span><span class="p">(</span><span class="n">annual_avg_bpm</span><span class="p">))</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>{'2001': 137.34653042328043, '2002': 138.77037672527473, '2003': 137.87648184593183, '2004': 136.8379514048452, '2005': 135.9946882254463, '2006': 136.21986194104406, '2007': 135.31834901771512, '2008': 134.5739768988312, '2009': 134.84276103847634, '2010': 134.2873634011065, '2011': 133.38769823050973, '2012': 133.77641000308137, '2013': 134.89472557606408, '2014': 134.62926964078503, '2015': 133.21748777702336, '2016': 133.8357659060619, '2017': 133.83226986060524, '2018': 132.8617358100079, '2019': 133.39046580493476, '2020': 133.46879858547982}
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Results">
+<a class="anchor" href="#Results" aria-hidden="true"><span class="octicon octicon-link"></span></a>Results<a class="anchor-link" href="#Results"> </a>
+</h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Let's see what we've got!</p>
+
+</div>
+</div>
+</div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">source</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">([(</span><span class="n">k</span><span class="p">,</span> <span class="n">v</span><span class="p">)</span> <span class="k">for</span> <span class="n">k</span><span class="p">,</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">annual_avg_bpm</span><span class="o">.</span><span class="n">items</span><span class="p">()],</span> 
+                   <span class="n">columns</span><span class="o">=</span><span class="p">[</span><span class="s1">'Year'</span><span class="p">,</span> <span class="s1">'Average Episode BPM'</span><span class="p">])</span>
+<span class="n">source</span><span class="p">[</span><span class="s1">'138'</span><span class="p">]</span> <span class="o">=</span> <span class="mi">138</span>
+
+<span class="n">base</span> <span class="o">=</span> <span class="n">alt</span><span class="o">.</span><span class="n">Chart</span><span class="p">(</span><span class="n">source</span><span class="p">)</span><span class="o">.</span><span class="n">mark_line</span><span class="p">()</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span>
+    <span class="n">x</span><span class="o">=</span><span class="n">alt</span><span class="o">.</span><span class="n">X</span><span class="p">(</span><span class="s1">'Year'</span><span class="p">),</span>
+    <span class="n">y</span><span class="o">=</span><span class="n">alt</span><span class="o">.</span><span class="n">Y</span><span class="p">(</span><span class="s1">'Average Episode BPM'</span><span class="p">,</span> <span class="n">scale</span><span class="o">=</span><span class="n">alt</span><span class="o">.</span><span class="n">Scale</span><span class="p">(</span><span class="n">domain</span><span class="o">=</span><span class="p">(</span><span class="mi">130</span><span class="p">,</span> <span class="mi">140</span><span class="p">))),</span>
+<span class="p">)</span><span class="o">.</span><span class="n">properties</span><span class="p">(</span>
+    <span class="n">title</span><span class="o">=</span><span class="s2">"A State of Trance - Annual Average BPM of Episode"</span><span class="p">,</span>
+    <span class="n">width</span><span class="o">=</span><span class="mi">600</span>
+<span class="p">)</span>
+
+<span class="n">rule</span> <span class="o">=</span> <span class="n">alt</span><span class="o">.</span><span class="n">Chart</span><span class="p">(</span><span class="n">source</span><span class="p">)</span><span class="o">.</span><span class="n">mark_rule</span><span class="p">(</span><span class="n">color</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span>
+    <span class="n">y</span><span class="o">=</span><span class="s1">'138'</span>
+<span class="p">)</span>
+
+<span class="n">base</span> <span class="o">+</span> <span class="n">rule</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+
+<div id="altair-viz-f453ae05c1584c14be60e75f8b79a7e4"></div>
+<script type="text/javascript">
+  (function(spec, embedOpt){
+    let outputDiv = document.currentScript.previousElementSibling;
+    if (outputDiv.id !== "altair-viz-f453ae05c1584c14be60e75f8b79a7e4") {
+      outputDiv = document.getElementById("altair-viz-f453ae05c1584c14be60e75f8b79a7e4");
+    }
+    const paths = {
+      "vega": "https://cdn.jsdelivr.net/npm//vega@5?noext",
+      "vega-lib": "https://cdn.jsdelivr.net/npm//vega-lib?noext",
+      "vega-lite": "https://cdn.jsdelivr.net/npm//vega-lite@4.8.1?noext",
+      "vega-embed": "https://cdn.jsdelivr.net/npm//vega-embed@6?noext",
+    };
+
+    function loadScript(lib) {
+      return new Promise(function(resolve, reject) {
+        var s = document.createElement('script');
+        s.src = paths[lib];
+        s.async = true;
+        s.onload = () => resolve(paths[lib]);
+        s.onerror = () => reject(`Error loading script: ${paths[lib]}`);
+        document.getElementsByTagName("head")[0].appendChild(s);
+      });
+    }
+
+    function showError(err) {
+      outputDiv.innerHTML = `<div class="error" style="color:red;">${err}</div>`;
+      throw err;
+    }
+
+    function displayChart(vegaEmbed) {
+      vegaEmbed(outputDiv, spec, embedOpt)
+        .catch(err => showError(`Javascript Error: ${err.message}<br>This usually means there's a typo in your chart specification. See the javascript console for the full traceback.`));
+    }
+
+    if(typeof define === "function" && define.amd) {
+      requirejs.config({paths});
+      require(["vega-embed"], displayChart, err => showError(`Error loading script: ${err.message}`));
+    } else if (typeof vegaEmbed === "function") {
+      displayChart(vegaEmbed);
+    } else {
+      loadScript("vega")
+        .then(() => loadScript("vega-lite"))
+        .then(() => loadScript("vega-embed"))
+        .catch(showError)
+        .then(() => displayChart(vegaEmbed));
+    }
+  })({"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "layer": [{"mark": "line", "encoding": {"x": {"type": "nominal", "field": "Year"}, "y": {"type": "quantitative", "field": "Average Episode BPM", "scale": {"domain": [130, 140]}}}, "title": "A State of Trance - Annual Average BPM of Episode", "width": 600}, {"mark": {"type": "rule", "color": "red"}, "encoding": {"y": {"type": "quantitative", "field": "138"}}}], "data": {"name": "data-24d5fd95359d0348eac083943aa57f1d"}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-24d5fd95359d0348eac083943aa57f1d": [{"Year": "2001", "Average Episode BPM": 137.34653042328043, "138": 138}, {"Year": "2002", "Average Episode BPM": 138.77037672527473, "138": 138}, {"Year": "2003", "Average Episode BPM": 137.87648184593183, "138": 138}, {"Year": "2004", "Average Episode BPM": 136.8379514048452, "138": 138}, {"Year": "2005", "Average Episode BPM": 135.9946882254463, "138": 138}, {"Year": "2006", "Average Episode BPM": 136.21986194104406, "138": 138}, {"Year": "2007", "Average Episode BPM": 135.31834901771512, "138": 138}, {"Year": "2008", "Average Episode BPM": 134.5739768988312, "138": 138}, {"Year": "2009", "Average Episode BPM": 134.84276103847634, "138": 138}, {"Year": "2010", "Average Episode BPM": 134.2873634011065, "138": 138}, {"Year": "2011", "Average Episode BPM": 133.38769823050973, "138": 138}, {"Year": "2012", "Average Episode BPM": 133.77641000308137, "138": 138}, {"Year": "2013", "Average Episode BPM": 134.89472557606408, "138": 138}, {"Year": "2014", "Average Episode BPM": 134.62926964078503, "138": 138}, {"Year": "2015", "Average Episode BPM": 133.21748777702336, "138": 138}, {"Year": "2016", "Average Episode BPM": 133.8357659060619, "138": 138}, {"Year": "2017", "Average Episode BPM": 133.83226986060524, "138": 138}, {"Year": "2018", "Average Episode BPM": 132.8617358100079, "138": 138}, {"Year": "2019", "Average Episode BPM": 133.39046580493476, "138": 138}, {"Year": "2020", "Average Episode BPM": 133.46879858547982, "138": 138}]}}, {"mode": "vega-lite"});
+</script>
+</div>
+
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Straightforward enough. In the coming posts we'll do something similar, looking at the most-played artists and tracks each year.</p>
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+  </div><a class="u-url" href="/asot-jupyter/asot/bpm/2020/05/24/annual-avg-bpm.html" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/asot-jupyter/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/asot-jupyter/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/asot-jupyter/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+      </div>
+      <div class="footer-col">
+        <p>How has A State of Trance changed over time?</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/ScottBrenner" title="ScottBrenner"><svg class="svg-icon grey"><use xlink:href="/asot-jupyter/assets/minima-social-icons.svg#github"></use></svg></a></li></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
