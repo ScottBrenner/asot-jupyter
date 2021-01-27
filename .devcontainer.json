@@ -8,5 +8,4 @@
     "extensions": ["ms-python.python",
                    "ms-azuretools.vscode-docker"],
     "runServices": ["converter", "notebook", "jekyll", "watcher"],
-    "postCreateCommand": "pip install spotipy PyYAML"
 }
