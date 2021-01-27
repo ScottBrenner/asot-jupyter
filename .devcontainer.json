@@ -1,6 +1,5 @@
 {
     "name": "asot-jupyter-codespaces",
-    "image": "mcr.microsoft.com/vscode/devcontainers/universal:linux",
     "dockerComposeFile": "docker-compose.yml",
     "service": "watcher",
     "mounts": [ "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind" ],
@@ -9,5 +8,5 @@
     "extensions": ["ms-python.python",
                    "ms-azuretools.vscode-docker"],
     "runServices": ["converter", "notebook", "jekyll", "watcher"],
-    "initializeCommand": "pip install spotipy PyYAML"
+    "postCreateCommand": "pip install spotipy PyYAML"
 }
