@@ -1,0 +1,1001 @@
+position,artist,track,year,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,id,uri,duration_ms,time_signature
+1000,Robert Nickson,Circles - Original Mix,2009,0.579,0.736,5,-7.456,0.0433,2.41e-05,0.913,0.276,0.151,135.981,5UUFp9egC7mN69xkztll8G,spotify:track:5UUFp9egC7mN69xkztll8G,409412,4
+999,Mark Otten,So Serene - Menno de Jong Heading South Dub Mix,2005,0.625,0.811,2,-8.393,0.0435,0.00959,0.874,0.309,0.333,137.993,3s0ACywyYmmUv30FuRpTx0,spotify:track:3s0ACywyYmmUv30FuRpTx0,500435,4
+998,Nic Chagall,Monday Bar - Original Mix,2006,0.605,0.996,6,-6.436,0.124,0.000303,0.788,0.105,0.0471,139.978,3PG1MCCCJsv6T0R7SPxt2e,spotify:track:3PG1MCCCJsv6T0R7SPxt2e,503613,4
+997,ATN,Miss A Day - Original Mix,2004,0.485,0.881,1,-8.548,0.0333,0.00043,0.847,0.0681,0.152,140.016,5IIaFHMPl5ske0mr4PUvuX,spotify:track:5IIaFHMPl5ske0mr4PUvuX,496853,4
+996,Late Night Alumni & Lumïsade,Empty Streets - Lumïsade Balearic Mix,2019,0.637,0.742,2,-8.05,0.0295,0.0798,0.192,0.576,0.15,126.997,2W5spAZZzDzClckPWT0oAS,spotify:track:2W5spAZZzDzClckPWT0oAS,319370,4
+995,Elevven,One Last Time - Extended Mix,2020,0.618,0.878,6,-4.577,0.049,0.000127,0.023,0.497,0.203,127.996,0mC0L8i7l7bfiSvggi6aDg,spotify:track:0mC0L8i7l7bfiSvggi6aDg,335550,4
+994,Omnia,Infina - Original Mix,2012,0.517,0.867,10,-5.878,0.0453,0.00237,0.847,0.407,0.829,132.003,39qqeS24ER7B90jwRaPYhG,spotify:track:39qqeS24ER7B90jwRaPYhG,347969,4
+993,Ron van den Beuken,Timeless - Ron van den Beuken Remix,2008,0.521,0.941,1,-8.825,0.0594,0.00125,0.92,0.35,0.263,139.994,3cK62RyLCP5oMLdEeQuHPi,spotify:track:3cK62RyLCP5oMLdEeQuHPi,506600,4
+992,Greg Downey & Bo Bruce,These Hands I Hold - Sean Tyas Remix,2015,0.544,0.942,8,-6.273,0.0704,0.000408,0.408,0.101,0.0776,137.999,32oZhuCYXz1bFeX4mKy3g8,spotify:track:32oZhuCYXz1bFeX4mKy3g8,459130,4
+991,M.I.K.E. & Plastic Boy,Chocolate Infusion - Original Mix,2011,0.728,0.462,10,-6.059,0.0493,0.00169,0.878,0.0704,0.191,136.002,5dqkgY6P5XqMeWMx2IvpyE,spotify:track:5dqkgY6P5XqMeWMx2IvpyE,454217,4
+990,Andy Moor & Sue McLaren & Stoneface & Terminal,Fight The Fire - Stoneface & Terminal Remix,2011,0.281,0.91,1,-5.647,0.0415,0.000291,0.569,0.105,0.136,131.992,4IcVpMl3kdRm6MKMVgaXxs,spotify:track:4IcVpMl3kdRm6MKMVgaXxs,531749,4
+989,Adam Nickey,Never Gone - Original Mix [Above & Beyond Respray],2007,0.473,0.911,8,-7.863,0.0326,0.00207,0.948,0.273,0.551,135.843,2TCiyxY2UuscwAtuck7A5n,spotify:track:2TCiyxY2UuscwAtuck7A5n,549573,4
+988,Elevation,Ocean Rain - Original Mix,2005,0.631,0.881,10,-12.41,0.097,0.00245,0.272,0.422,0.117,130.004,0XctTsh33xqvvkyp3AHvI8,spotify:track:0XctTsh33xqvvkyp3AHvI8,561231,4
+987,Salt Tank & Michael Wood,Eugina - Michael Woods Remix,2000,0.546,0.953,5,-7.614,0.0412,0.00024,0.728,0.0779,0.593,134.005,16KYmEBHNWieo2vyDdXImp,spotify:track:16KYmEBHNWieo2vyDdXImp,499080,4
+986,Lost Witness & Sassot & Aly & Fila,Whatever - Aly & Fila Extended Remix,2007,0.512,0.939,6,-6.346,0.0453,3e-05,0.842,0.643,0.581,140.01,6V4GHBALtP9RDeN7ZZID3C,spotify:track:6V4GHBALtP9RDeN7ZZID3C,457347,4
+985,Simon Patterson & Waio,Smack - Waio Remix,2016,0.521,0.928,9,-7.401,0.0529,0.000138,0.862,0.852,0.14,140.003,5CoeTt9oZZ6Vb0MuvNMKWv,spotify:track:5CoeTt9oZZ6Vb0MuvNMKWv,493441,4
+984,Agnelli & Nelson,Hudson Street,2011,0.615,0.559,9,-11.511,0.0338,0.0325,0.906,0.277,0.108,129.987,3jS7z8Dw7JLpZ73YCCiH98,spotify:track:3jS7z8Dw7JLpZ73YCCiH98,641800,4
+983,Vincent de Moor,Flowtation,1996,0.729,0.989,1,-6.103,0.039,0.0139,0.794,0.188,0.573,139.7,2NiWIaGKDoS4UJYDiCT32x,spotify:track:2NiWIaGKDoS4UJYDiCT32x,443746,4
+982,Ilan Bluestone & Jerome Isma-Ae,Under My Skin - Original Mix,2013,0.67,0.655,10,-9.645,0.119,0.00127,0.0132,0.182,0.409,127.011,2dJdmSaC9vrKwEfPssqcni,spotify:track:2dJdmSaC9vrKwEfPssqcni,385065,4
+981,A Force,Crystal Dawn [ASOT 254] - A Tribute To '99 Remix,2006,0.515,0.858,11,-12.598,0.041,0.00557,0.391,0.493,0.451,137.659,6fVv4OftvEnSajpJzdDtGq,spotify:track:6fVv4OftvEnSajpJzdDtGq,325223,4
+980,Sander van Doorn,Koko - Original Mix,2011,0.769,0.614,1,-7.667,0.0585,0.00188,0.912,0.0803,0.196,127.99,2kVkEo2wJfS6UHQEpryLt9,spotify:track:2kVkEo2wJfS6UHQEpryLt9,339375,4
+979,Sean Tyas,Chrome - Extended Mix,2019,0.442,0.998,9,-7.043,0.075,0.000938,0.892,0.705,0.131,140.005,4dx6YTrSFQjBJgqtdvUpbe,spotify:track:4dx6YTrSFQjBJgqtdvUpbe,421714,4
+978,Ruben de Ronde & Donata & FEEL,Stand In My Way - FEEL Extended Remix,2017,0.542,0.914,9,-4.857,0.0447,0.000132,0.000294,0.156,0.285,131.987,2MDCq4CFWTalvWpu6jHImg,spotify:track:2MDCq4CFWTalvWpu6jHImg,298201,4
+977,Max Graham,The Evil ID - Mark Sherry Remix,2014,0.652,0.872,7,-5.686,0.0462,8.21e-05,0.807,0.147,0.113,131.977,2qYkK15vwDv78El6Jn9UZP,spotify:track:2qYkK15vwDv78El6Jn9UZP,451404,4
+976,Leon Bolier & Surpresa,Poseidon - Original Mix,2006,0.607,0.898,11,-5.244,0.0576,0.00115,0.853,0.169,0.379,138.003,3xqYfLlwJkQ5v0elDlNTul,spotify:track:3xqYfLlwJkQ5v0elDlNTul,482947,4
+975,Myon & Carrie Skipper & Shane 54,Vampire - Club Mix,2008,0.693,0.829,6,-9.575,0.0714,0.00093,0.46,0.669,0.0625,132.0,36Zc6A9b0FWZtoYQ1QIYh8,spotify:track:36Zc6A9b0FWZtoYQ1QIYh8,565036,4
+974,Inertia & Sean Tyas & Tom Colontonio,The System - Sean Tyas & Tom Colontonio Remix,2008,0.475,0.98,5,-5.209,0.048,0.000104,0.913,0.924,0.54,139.985,6puuYYo43ZAGeOSfUSmiUF,spotify:track:6puuYYo43ZAGeOSfUSmiUF,495429,4
+973,Andrew Bayer,From The Earth - Breakfast Remix,2011,0.563,0.702,0,-7.403,0.0415,0.00092,0.0293,0.0883,0.388,133.993,5HpI0yxhjUdEUpQqa818Ac,spotify:track:5HpI0yxhjUdEUpQqa818Ac,494417,4
+972,Solarstone & Scott Bond,Naked Angel - Original Mix,2004,0.538,0.94,11,-7.648,0.0453,0.0062,0.896,0.148,0.354,136.029,0FY2KQat6CvQk0IR1KtnCs,spotify:track:0FY2KQat6CvQk0IR1KtnCs,641137,4
+971,W&W,Search For Tomorrow,2011,0.531,0.825,7,-6.435,0.0387,0.175,0.62,0.115,0.038,129.982,1iVl8EKmaZMMClbLACyh7X,spotify:track:1iVl8EKmaZMMClbLACyh7X,544253,4
+970,Gabriel & Dresden & Molly,Let Go - Original Mix,2006,0.577,0.643,9,-8.905,0.0512,0.0427,0.749,0.123,0.0577,127.963,5zhseewCBnAem4Zcbg8qia,spotify:track:5zhseewCBnAem4Zcbg8qia,386507,4
+969,Myon & Shane 54 & Labworks,Ibiza Sunrise - Classic Dub,2010,0.557,0.963,5,-6.596,0.0517,0.000428,0.924,0.671,0.299,134.986,0i21ELFscuhvnqdkmZuDcS,spotify:track:0i21ELFscuhvnqdkmZuDcS,515514,4
+968,Bogdan Vix & Claudiu Adam & Mona Moua,Stay - Extended Mix,2020,0.541,0.944,8,-8.793,0.0764,0.0391,0.54,0.331,0.263,137.982,4nqdWLiZYU6D9xYwzllfHy,spotify:track:4nqdWLiZYU6D9xYwzllfHy,327391,4
+967,Neptune Project,Aztec - Original Mix,2010,0.627,0.935,0,-10.776,0.0535,0.0011,0.854,0.0841,0.179,139.992,64jpO5s5EQyb5kFI22jXsA,spotify:track:64jpO5s5EQyb5kFI22jXsA,530567,4
+966,Fabio XB & Micky Vi,Make This Your Day - Gareth Emery Remix,2009,0.597,0.661,5,-9.769,0.0411,7.31e-05,0.42,0.616,0.355,133.98,7BWaPDTykGRNJbglrxIC7Z,spotify:track:7BWaPDTykGRNJbglrxIC7Z,501940,4
+965,Heatbeat,Rocker Monster - Original Mix,2012,0.653,0.917,5,-7.143,0.0492,0.0039,0.888,0.729,0.51,132.009,7ecaXfA0nJPCnSSbpcpMp0,spotify:track:7ecaXfA0nJPCnSSbpcpMp0,403636,4
+964,Ava Mea,In The End - Original Mix,2005,0.557,0.72,6,-14.059,0.0356,0.00134,0.876,0.117,0.568,128.002,59XJYCZWfBROr0J5XL0Inu,spotify:track:59XJYCZWfBROr0J5XL0Inu,565870,4
+963,Rodg,High On Life - Extended Mix,2016,0.694,0.707,11,-7.903,0.0596,0.16,0.859,0.641,0.22,128.013,1kd3mtv5c4csn9Rqw2RFLf,spotify:track:1kd3mtv5c4csn9Rqw2RFLf,378047,4
+962,Midway,Monkey Forest - Original Mix Edit,2003,0.651,0.923,6,-15.197,0.0509,0.0139,0.836,0.387,0.318,136.987,5YPD8A9PpKp7lUDs0j6oFQ,spotify:track:5YPD8A9PpKp7lUDs0j6oFQ,597514,4
+961,Ramin Djawadi & Armin van Buuren,Game Of Thrones Theme - Armin van Buuren Extended Remix,2015,0.53,0.966,7,-6.205,0.0508,2.31e-05,0.865,0.0855,0.0609,137.989,3pPdOaWjnnMV0570NUUz4t,spotify:track:3pPdOaWjnnMV0570NUUz4t,409565,4
+960,Filterheadz,Yimanya - Original Mix,2012,0.682,0.965,11,-6.098,0.0575,0.00045,0.689,0.0869,0.801,135.001,438LS85kXWLIiR1HfKQMq0,spotify:track:438LS85kXWLIiR1HfKQMq0,514227,4
+959,Breakfast,Remember - Extended Mix,2009,0.633,0.624,1,-10.045,0.0381,0.0159,0.824,0.123,0.0843,135.99,5e4hPudNbELIXrEhRIjBnJ,spotify:track:5e4hPudNbELIXrEhRIjBnJ,494118,4
+958,Vincent de Moor,Sunflower - VDM's Rework,2008,0.339,0.958,4,-5.898,0.0671,3.73e-05,0.917,0.1,0.192,133.965,4rIaStyKjJlkx3LCwhmVxe,spotify:track:4rIaStyKjJlkx3LCwhmVxe,472776,4
+957,Ferry Corsten,Radio Crash - Extended Mix,2008,0.598,0.937,10,-7.594,0.0966,0.000358,0.806,0.0888,0.144,138.009,60BJh3vfwz8PIkH4vCLuwq,spotify:track:60BJh3vfwz8PIkH4vCLuwq,440309,4
+956,Christina Novelli & Craig Connelly,Beautiful Life - Craig Connelly Extended Remix,2020,0.575,0.981,1,-4.131,0.0703,0.000234,0.0533,0.0448,0.391,139.973,30F54M12oPN40MZgnAERQB,spotify:track:30F54M12oPN40MZgnAERQB,430677,4
+955,Josh Gabriel & Winter Kills,Deep Down - Original Mix,2009,0.639,0.808,10,-7.785,0.0583,0.0189,0.697,0.58,0.355,129.942,3C82jL6ise6gsG8mT8y2k9,spotify:track:3C82jL6ise6gsG8mT8y2k9,591178,4
+954,Super8 & Tab & Jan Burton,Black Is Back - Classic Vocal Mix,2012,0.576,0.781,11,-6.246,0.048,0.000485,0.774,0.0481,0.56,133.998,68tT8pt8EZXe7cFrPjUOzT,spotify:track:68tT8pt8EZXe7cFrPjUOzT,420163,4
+953,Above & Beyond,Red Rocks - Extended Mix,2018,0.624,0.669,2,-6.382,0.0374,0.00275,0.788,0.62,0.149,128.012,62AWQLF3BJiV64mlbDsbhM,spotify:track:62AWQLF3BJiV64mlbDsbhM,466875,4
+952,Paul van Dyk & ARTY,The Ocean - Extended Version,2012,0.786,0.541,6,-7.704,0.0725,0.00053,0.0898,0.0867,0.114,130.008,0rY9o0muG9mw5vKiIUeW9S,spotify:track:0rY9o0muG9mw5vKiIUeW9S,413538,4
+951,Hilight Tribe & Vini Vici,Free Tibet - Vini Vici Remix,2016,0.383,0.947,1,-5.93,0.0654,0.0131,0.697,0.143,0.0741,103.512,2wy29RBixBECDOsXuBs7md,spotify:track:2wy29RBixBECDOsXuBs7md,474783,3
+950,Jody Wisternoff & Sian Evans,The Bridge - Chicane Rework,2015,0.76,0.653,2,-8.448,0.0529,0.0104,0.835,0.0339,0.475,124.998,48rm8lXUW9xp0EnmqC7Bzu,spotify:track:48rm8lXUW9xp0EnmqC7Bzu,347529,4
+949,Mat Zo,Near The End - Original Mix,2012,0.698,0.868,11,-9.138,0.0646,0.00378,0.837,0.16,0.101,126.983,2eHzMhR3yMx7r66idFu0V1,spotify:track:2eHzMhR3yMx7r66idFu0V1,498500,4
+948,Aly & Fila & Sue McLaren,Mysteries Unfold - Uplifting Mix,2013,0.526,0.958,6,-5.885,0.0784,0.000493,0.695,0.168,0.251,139.994,5Mw6cLNaVFbyM2hnIGdWCe,spotify:track:5Mw6cLNaVFbyM2hnIGdWCe,485143,4
+947,Kyau & Albert & Marc Marberg,Megashira (Original Mix),2007,0.692,0.506,2,-7.735,0.0628,0.00101,0.0307,0.0404,0.331,133.997,68x45MVBi3jFRFrdC4hFmk,spotify:track:68x45MVBi3jFRFrdC4hFmk,426733,4
+946,Christina Novelli & Allen Watts,I'm Ok - Allen Watts Extended Remix,2020,0.54,0.993,3,-6.561,0.0638,0.000641,0.453,0.46,0.509,135.978,0WA5YLR9zI2d6JfNCi0V0J,spotify:track:0WA5YLR9zI2d6JfNCi0V0J,357509,4
+945,Bart Claessen,Hartseer - Extended Mix,2010,0.609,0.745,11,-12.13,0.0595,0.0301,0.796,0.101,0.112,132.026,6EbEF5LLL7Oqp6UcjfYibf,spotify:track:6EbEF5LLL7Oqp6UcjfYibf,550328,4
+944,Ferry Corsten,Galaxia - Extended Mix,2011,0.513,0.525,5,-12.505,0.0316,0.000487,0.823,0.0982,0.119,136.987,7gy3ypHbCv3gehPqMpgvfl,spotify:track:7gy3ypHbCv3gehPqMpgvfl,539320,4
+943,Probspot,Foreplay - Original Mix,2004,0.621,0.814,6,-8.565,0.0436,0.000723,0.86,0.139,0.447,130.017,5wo8cml1hKMByTMZJW0yv7,spotify:track:5wo8cml1hKMByTMZJW0yv7,630960,4
+942,Giuseppe Ottaviani & Kyler England & Omnia,Firefly - Omnia Extended Remix,2017,0.632,0.781,6,-4.199,0.136,0.0562,3.67e-06,0.142,0.306,128.002,6VgfdNIe4GvefG0YQwgU7a,spotify:track:6VgfdNIe4GvefG0YQwgU7a,326420,4
+941,Ferry Corsten & Simon Lebon,Fire - Extended Mix,2011,0.546,0.888,10,-7.662,0.0315,8.46e-06,0.69,0.0279,0.798,132.0,5S1PFtdYs6xM2TiuZd6bAt,spotify:track:5S1PFtdYs6xM2TiuZd6bAt,439267,4
+940,Selu Vibra,Stargazing [ASOT 224] - Original Mix,2005,0.559,0.879,2,-10.238,0.0845,0.000479,0.94,0.364,0.153,138.133,2isoGqi07qdcDbx7UXEcSI,spotify:track:2isoGqi07qdcDbx7UXEcSI,367809,4
+939,Hardwell,Eclipse,2015,0.362,0.789,9,-3.606,0.0881,0.0168,0.000349,0.0754,0.0479,128.022,74h8jPe9Xbc05Rt4yZzzAv,spotify:track:74h8jPe9Xbc05Rt4yZzzAv,192923,4
+938,Aly & Fila & HALIENE & Monoverse,Breathe Us To Life - Monoverse Extended Remix,2018,0.665,0.809,5,-5.702,0.0586,0.00107,0.264,0.0919,0.146,130.015,1T7eTBVCpdjXDJhpCCmeFR,spotify:track:1T7eTBVCpdjXDJhpCCmeFR,426721,4
+937,Super8 & Tab & Anton Sonin,Black Is The New Yellow - Original Mix,2012,0.622,0.725,1,-8.688,0.0325,0.000154,0.926,0.0902,0.275,132.0,57uXzlYEOrsNYrTAK5unXr,spotify:track:57uXzlYEOrsNYrTAK5unXr,492674,4
+936,Arctic Moon,Adelaide - Original Mix,2011,0.454,0.991,2,-6.228,0.0454,1.72e-05,0.915,0.17,0.226,140.016,5vSsQH8wH68PDKJbNfxzpc,spotify:track:5vSsQH8wH68PDKJbNfxzpc,479817,4
+935,Tiësto & Hardwell,Zero 76,2011,0.656,0.822,7,-7.335,0.0485,0.00891,0.935,0.0813,0.0392,127.997,0KxzO6ZP8mq8Aml11XiVEO,spotify:track:0KxzO6ZP8mq8Aml11XiVEO,365625,4
+934,Will Atkinson,Victims - Original Mix,2014,0.508,0.965,1,-5.424,0.0512,0.00534,0.916,0.052,0.202,137.994,4qT0IV51T7tE8TeoONJR5X,spotify:track:4qT0IV51T7tE8TeoONJR5X,537391,4
+933,Ferry Corsten,Twice In A Blue Moon - Extended Mix,2009,0.575,0.843,7,-8.696,0.129,0.00112,0.117,0.276,0.266,135.991,04nPGjJJTJL1PFgwgiKG2H,spotify:track:04nPGjJJTJL1PFgwgiKG2H,412452,4
+932,Tiësto & Allure,The Loves We Lost,2005,0.547,0.701,10,-11.739,0.0411,0.000103,0.54,0.0507,0.201,138.013,28cunIfhD5BkPzwumxy1T3,spotify:track:28cunIfhD5BkPzwumxy1T3,533400,4
+931,Omnia,The Light - Original Mix,2013,0.532,0.965,4,-3.746,0.0623,0.000255,0.000946,0.486,0.314,127.99,1tgCGmTU3ROQfszdqObaZS,spotify:track:1tgCGmTU3ROQfszdqObaZS,348122,4
+930,Tenishia & Ruben de Ronde,Marsascala - Alexander Popov Remix,2012,0.58,0.915,10,-9.036,0.0446,0.0122,0.881,0.718,0.155,134.012,4SwGtjqBvoqupw4HxRljEE,spotify:track:4SwGtjqBvoqupw4HxRljEE,395821,4
+929,Goldenscan & Tiësto,Sunrise - Tiësto Remix,2011,0.57,0.762,9,-8.622,0.0642,1.63e-05,0.904,0.124,0.558,136.999,6ytPTGhq5dQn7XbpJ2GcNA,spotify:track:6ytPTGhq5dQn7XbpJ2GcNA,588603,4
+928,Ernesto vs. Bastian & Susana,Dark Side Of The Moon - Original Extended,2005,0.617,0.56,9,-9.833,0.0414,0.000283,0.000708,0.0824,0.689,138.005,0UmVA2pTlalzEMpdh12Pe4,spotify:track:0UmVA2pTlalzEMpdh12Pe4,487587,4
+927,Sensation,The Anthem 2003 - Original Mix,2003,0.584,0.646,6,-11.504,0.0392,5.75e-05,0.895,0.179,0.387,137.998,0PRpDQIcIIGOhPyfxCV4j3,spotify:track:0PRpDQIcIIGOhPyfxCV4j3,542160,4
+926,Solarstone,Thank You - Extended Mix,2020,0.411,0.968,7,-7.435,0.0492,0.00172,0.855,0.102,0.178,137.979,3bICLqErW1avxEuCbShHXc,spotify:track:3bICLqErW1avxEuCbShHXc,511290,4
+925,John O'Callaghan & Cold Blue,Symmetric - Extended Mix,2019,0.521,0.892,6,-6.938,0.0503,0.000979,0.849,0.582,0.133,140.002,6x87ejWlGZWg44HACeAEqK,spotify:track:6x87ejWlGZWg44HACeAEqK,480643,4
+924,Denis Kenzo & Sveta B.,Sweet Lie - Extended Mix,2018,0.546,0.7,0,-6.604,0.0447,0.0488,0.00022,0.186,0.145,128.02,1O21Jo4liYgc7O2Oyp7HEp,spotify:track:1O21Jo4liYgc7O2Oyp7HEp,367500,4
+923,Airscape,Sosei - F&W Remix,2004,0.609,0.959,6,-7.782,0.313,0.000194,0.613,0.339,0.209,139.989,2p01drTiAZIXSAGGYHDtmA,spotify:track:2p01drTiAZIXSAGGYHDtmA,390840,4
+922,Space RockerZ & Tania Zygar,Puzzle Piece - Daniel Heatcliff's Farewell Remix,2011,0.807,0.689,5,-5.213,0.24,0.0248,0.0136,0.0936,0.281,130.015,2BMFCA9qtbKHxHkwLpRMxc,spotify:track:2BMFCA9qtbKHxHkwLpRMxc,505846,4
+921,Eric Prydz,Pjanoo - Club Mix,2008,0.663,0.624,7,-6.923,0.0324,0.000939,0.889,0.0666,0.63,126.026,0noVd1VU93X8TEZMmpR3yN,spotify:track:0noVd1VU93X8TEZMmpR3yN,450912,4
+920,Protoculture,Perpetual Motion - Original Mix,2012,0.561,0.894,11,-8.782,0.0451,0.000676,0.891,0.306,0.299,130.016,5T14qzn2yOia8bLEigbuVr,spotify:track:5T14qzn2yOia8bLEigbuVr,428000,4
+919,Andrew Bayer & Alison May,Immortal Lover - In My Next Life Mix,2018,0.631,0.559,1,-6.818,0.0914,0.00184,0.0401,0.0544,0.255,128.025,6GR5KkRvzbXie3Oeu22SLz,spotify:track:6GR5KkRvzbXie3Oeu22SLz,435469,4
+918,deadmau5,Not Exactly,2009,0.799,0.553,0,-6.845,0.0771,0.0144,0.875,0.3,0.77,128.006,0rWEkMZhwIyjdvo1PosBmv,spotify:track:0rWEkMZhwIyjdvo1PosBmv,555140,4
+917,Vini Vici & Jean Marie & Hilight Tribe,Moyoni,2019,0.614,0.989,1,-4.724,0.194,0.0132,0.0176,0.112,0.0921,103.485,69pnjAws2uzNZJEK64p9JI,spotify:track:69pnjAws2uzNZJEK64p9JI,217391,3
+916,Emma Hewitt,Miss You Paradise - Shogun Remix,2012,0.657,0.78,11,-3.499,0.0654,0.000128,0.0126,0.0845,0.481,131.987,4NLZCH9YmrIzkei4fqjwyW,spotify:track:4NLZCH9YmrIzkei4fqjwyW,457839,4
+915,Assaf & Cassandra Grey,Lost At Sea,2020,0.691,0.763,5,-6.462,0.0356,0.00109,0.123,0.12,0.123,126.011,01bxMdpn9t2FWsyXMbZUOe,spotify:track:01bxMdpn9t2FWsyXMbZUOe,228571,4
+914,Andrew Rayel,Latifa,2014,0.56,0.764,2,-5.477,0.0965,0.0352,0.451,0.0823,0.0358,133.98,5gT8WvHJOOUpxPNblCKyRB,spotify:track:5gT8WvHJOOUpxPNblCKyRB,326302,4
+913,Andrew Bayer & Matt Lange & Kerry Leva,In And Out Of Phase - Club Edit,2012,0.833,0.661,7,-8.477,0.135,0.0157,0.626,0.0527,0.4,127.998,69UGiOsqeioL4ZVAkdLSS7,spotify:track:69UGiOsqeioL4ZVAkdLSS7,457886,4
+912,Andy Moor & Ashley Wallbridge & Meighan Nealon,Faces - Original Mix,2009,0.631,0.458,9,-10.063,0.0463,0.000422,0.206,0.0834,0.145,130.019,0IcBMAsqBAOItsprVN6FAe,spotify:track:0IcBMAsqBAOItsprVN6FAe,513231,4
+911,Sunset Bros & Mark McCabe & MaRLo,I'm Feeling It (In The Air) - Sunset Bros X Mark McCabe / MaRLo Remix,2018,0.519,0.916,0,-4.767,0.041,5.78e-05,0.534,0.602,0.0596,137.99,1o5PLOy2ilj8Ag9b90jVWS,spotify:track:1o5PLOy2ilj8Ag9b90jVWS,347810,4
+910,Sunlounger & Zara Taylor & Roger Shah,Found - Roger Shah Original Mix,2010,0.711,0.707,10,-6.976,0.185,0.0108,0.0164,0.0592,0.631,131.989,7cSYClw6Wv8KKwdGAre77A,spotify:track:7cSYClw6Wv8KKwdGAre77A,496364,4
+909,JES & STANDERWICK,Everything - STANDERWICK Extended Remix,2020,0.527,0.994,8,-2.285,0.0688,0.000506,0.301,0.0986,0.181,138.005,74WVivCxwoeGWJd0bSFi4B,spotify:track:74WVivCxwoeGWJd0bSFi4B,358261,4
+908,Tiësto & Maxi Jazz,Dance4Life - 12 Inch Remix,2009,0.713,0.731,6,-8.898,0.051,0.00214,0.672,0.0985,0.427,132.009,5HpfiwGVdixcWofopuqHcp,spotify:track:5HpfiwGVdixcWofopuqHcp,461818,4
+907,Super8 & Tab,Cosmo - Extended Mix,2017,0.505,0.896,1,-5.044,0.0427,0.000542,0.547,0.145,0.284,130.972,2EXFoUQZcYV561qPFJrU28,spotify:track:2EXFoUQZcYV561qPFJrU28,327046,4
+906,Avao,Cosmic Order - Extended Mix,2019,0.69,0.787,7,-4.454,0.0714,0.00276,0.142,0.234,0.228,131.97,52JM8kU3pHQy2QNLnQYpbC,spotify:track:52JM8kU3pHQy2QNLnQYpbC,294642,4
+905,Giuseppe Ottaviani,Colours - Extended Mix,2019,0.588,0.878,5,-6.374,0.0488,0.00153,0.938,0.094,0.0751,138.012,6fNrKcr5kd7loOOVfez3AH,spotify:track:6fNrKcr5kd7loOOVfez3AH,339130,4
+904,Yahel & Tammy,Cloud 9 - Oraw Remix,2017,0.66,0.849,1,-7.121,0.05,0.0313,0.411,0.163,0.157,140.02,3Hkp9NQj6VMqvE3li67v6J,spotify:track:3Hkp9NQj6VMqvE3li67v6J,342857,4
+903,Maarten de Jong & Allen Watts,Caffeine - Extended Mix,2019,0.487,0.915,1,-6.674,0.0347,0.000218,0.94,0.0719,0.0766,135.022,0orEEVWrXLMHc7Sb4Kt7lO,spotify:track:0orEEVWrXLMHc7Sb4Kt7lO,402250,4
+902,Elysian & Ilan Bluestone & Maor Levi & Emma Hewitt,Beyond The Comfort Zone - Extended Mix,2020,0.549,0.812,7,-6.711,0.104,0.00186,0.0788,0.103,0.186,129.977,26FXlqKg3B2AWONdZD6M5L,spotify:track:26FXlqKg3B2AWONdZD6M5L,364620,4
+901,Lemon & Einar K,Anticipation,2007,0.586,0.986,0,-6.317,0.0599,0.000149,0.856,0.0817,0.447,138.011,4j0CHeSLB6HvapOeSQYZNt,spotify:track:4j0CHeSLB6HvapOeSQYZNt,525959,4
+900,Dash Berlin & Jonathan Mendelsohn,World Falls Apart - Club Mix,2012,0.653,0.655,11,-7.256,0.109,0.00408,0.000298,0.0457,0.266,132.914,2gRfSK6vh6p2WZeeA5DU0S,spotify:track:2gRfSK6vh6p2WZeeA5DU0S,440301,4
+899,Luigi Lusini,Who We Are,2010,0.736,0.727,7,-5.134,0.0563,0.000999,0.891,0.0829,0.0817,127.991,5EMaHrjwR4T2etHH3QCZGD,spotify:track:5EMaHrjwR4T2etHH3QCZGD,483997,4
+898,Factor B,We Rise Again - Extended Mix,2016,0.466,0.922,9,-6.751,0.0397,0.000167,0.926,0.0349,0.125,136.999,1MQsqcerFlZIOcyTCBPlRJ,spotify:track:1MQsqcerFlZIOcyTCBPlRJ,524000,4
+897,Thomas Bronzwaer,Shadow World - Original Mix,2006,0.538,0.82,6,-8.469,0.0521,2.59e-05,0.862,0.0771,0.138,138.018,5TfVRrIBpOgn1JyDIT4XHA,spotify:track:5TfVRrIBpOgn1JyDIT4XHA,497667,4
+896,Shane,Too Late To Turn - Armin Van Buuren Remix,2006,0.609,0.919,4,-15.752,0.045,0.0172,0.803,0.346,0.115,138.982,0a32jC19qBFOvFkqldsNBA,spotify:track:0a32jC19qBFOvFkqldsNBA,514800,4
+895,Signalrunners & Julie Thompson,These Shoulders - Club Mix,2008,0.627,0.567,7,-9.314,0.0617,0.00204,0.377,0.0429,0.287,128.027,3vR63Gb2BSbNzcEca53Q4N,spotify:track:3vR63Gb2BSbNzcEca53Q4N,460333,4
+894,Adam White & Andy Moor & Whiteroom,The White Room - Original Mix - Classic Bonus Track,2014,0.555,0.927,1,-7.603,0.0326,0.000638,0.818,0.128,0.3,135.004,6wJ2h2gFl4gdLHihvwhUCN,spotify:track:6wJ2h2gFl4gdLHihvwhUCN,552240,4
+893,Cosmic Gate & Andrew Bayer,The Launch - Extended Mix,2020,0.357,0.859,1,-7.046,0.0565,0.00297,0.857,0.0609,0.11,128.005,0Vo7ojYFM3tMND0jyJVsVL,spotify:track:0Vo7ojYFM3tMND0jyJVsVL,466875,4
+892,Armin van Buuren & Super8 & Tab,Leka - Extended Mix,2020,0.643,0.929,0,-5.809,0.0375,0.000178,0.86,0.0544,0.161,128.028,58pdpjuyTSgkKs3vv27IhY,spotify:track:58pdpjuyTSgkKs3vv27IhY,308672,4
+891,Orjan Nilsen,Mafioso - Extended Mix,2013,0.722,0.829,6,-4.37,0.151,0.0016,0.333,0.32,0.0937,125.949,4o99wL38LBRZCrYyfnYJma,spotify:track:4o99wL38LBRZCrYyfnYJma,313093,4
+890,Armin van Buuren & Winter Kills & Alex M.O.R.P.H.,Take A Moment - Alex M.O.R.P.H. Remix,2010,0.487,0.915,1,-8.801,0.0522,0.000492,0.505,0.301,0.433,137.983,4AuCyfJMoveO6SJ1hVgGBj,spotify:track:4AuCyfJMoveO6SJ1hVgGBj,453883,4
+889,Aly & Fila & Sky Patrol & Sue McLaren,Running - Extended Mix,2014,0.577,0.944,8,-7.422,0.049,0.000178,0.583,0.342,0.528,138.011,5OTdC7Hizp93Z4KaYb4zI3,spotify:track:5OTdC7Hizp93Z4KaYb4zI3,460870,4
+888,Roman Messer & FEEL,Reflection,2019,0.51,0.89,8,-4.826,0.0348,0.0131,0.911,0.158,0.147,134.992,4f8p4aT6uXgfJr27BOCipB,spotify:track:4f8p4aT6uXgfJr27BOCipB,260556,4
+887,Niels Van Gogh,Pulverturm (Original),1998,0.79,0.793,8,-8.665,0.0653,0.000283,0.924,0.0653,0.418,135.992,4mP0KPTTkAzn0O7UNxhhmH,spotify:track:4mP0KPTTkAzn0O7UNxhhmH,654960,4
+886,The Blizzard,Piercing The Fog - Original Mix,2012,0.678,0.702,10,-6.057,0.0565,0.00324,0.151,0.0465,0.481,128.995,3zqQRtyxZXBoqcWJHH6acA,spotify:track:3zqQRtyxZXBoqcWJHH6acA,450086,4
+885,Myon & Alissa Feudo,Perfect Ghost - Myon Extended Club Mix,2019,0.681,0.563,0,-6.626,0.0654,0.00242,0.0036,0.117,0.231,128.003,6fk4rOis6GK3h6RrHOsJMh,spotify:track:6fk4rOis6GK3h6RrHOsJMh,414492,4
+884,Swedish House Mafia,One,2010,0.887,0.731,2,-5.331,0.0769,0.00422,0.899,0.0603,0.212,125.025,4xr1Azj8mCbz6u8CITf8ef,spotify:track:4xr1Azj8mCbz6u8CITf8ef,351453,4
+883,Monogato & Omnia,Miami Vibe - Omnia Remix,2009,0.606,0.902,11,-7.748,0.0712,0.0019,0.788,0.0744,0.672,127.991,6864We4jZF983XILlGlbLg,spotify:track:6864We4jZF983XILlGlbLg,498913,4
+882,BT,Mercury & Solace - BT 12" Mastermix,2000,0.59,0.733,10,-11.744,0.0345,0.00035,0.748,0.119,0.233,135.999,3MjTrYeAdcY4guKtehnrYn,spotify:track:3MjTrYeAdcY4guKtehnrYn,507573,4
+881,Sean Tyas,Melbourne (Original Mix),2009,0.527,0.968,5,-7.232,0.0417,3.64e-05,0.838,0.343,0.359,139.977,6CTrhhZryZvNxbRmFCRQ90,spotify:track:6CTrhhZryZvNxbRmFCRQ90,503326,4
+880,Tiësto & BT,Love Comes Again - Mark Norman Remix,2009,0.587,0.922,8,-7.964,0.0861,1.32e-05,0.363,0.101,0.196,139.998,0nnrDjZrTl978dHj41x4Nu,spotify:track:0nnrDjZrTl978dHj41x4Nu,440747,4
+879,Eximinds & Whiteout,Lacrimosa - Extended Mix,2017,0.478,0.874,0,-5.286,0.209,0.00184,0.000525,0.865,0.233,131.99,4fxSA1sRLstU5TnTXcaxmm,spotify:track:4fxSA1sRLstU5TnTXcaxmm,299909,4
+878,Fabio XB & Andrea Mazza,Light To Lies - Giuseppe Ottaviani Mix,2009,0.552,0.747,6,-11.47,0.0451,0.00115,0.778,0.58,0.478,136.984,2Ad98dK6zkJl1IiCuYLe6N,spotify:track:2Ad98dK6zkJl1IiCuYLe6N,448531,4
+877,Omnia,Hold Me - Extended Mix,2016,0.638,0.938,7,-3.764,0.0469,0.0042,0.11,0.264,0.636,127.992,4rZ8LNu7owIeRgmw7UnA5R,spotify:track:4rZ8LNu7owIeRgmw7UnA5R,290000,4
+876,Cathy Burton & Omnia,Hearts Connected - Original Mix,2012,0.583,0.931,3,-5.472,0.0432,0.00322,0.177,0.111,0.469,131.979,55FYNdtrNKBGL9u4OJuZdf,spotify:track:55FYNdtrNKBGL9u4OJuZdf,412453,4
+875,Allen Watts,Gravity - Original Mix,2015,0.509,0.987,6,-7.341,0.0809,0.000129,0.895,0.855,0.282,138.007,6sJQe2DAWefO9Wz6lJg3sP,spotify:track:6sJQe2DAWefO9Wz6lJg3sP,424439,4
+874,Aly & Fila & Ronski Speed,Eye Of Horus - Ronski Speed Remix,2003,0.579,0.905,2,-7.812,0.0682,0.00512,0.873,0.0313,0.574,137.981,5rrV7O7cDjFLbH8BF7TblQ,spotify:track:5rrV7O7cDjFLbH8BF7TblQ,552733,4
+873,Andy Blueman,Everlasting - Emotional Mix,2017,0.43,0.989,0,-6.543,0.042,1.27e-05,0.879,0.0808,0.337,138.006,6UIySQKUlXJlVO0XYlLC3z,spotify:track:6UIySQKUlXJlVO0XYlLC3z,528696,4
+872,Paul van Dyk,Duality,2020,0.581,0.741,5,-7.276,0.0402,0.00304,0.887,0.111,0.196,138.005,67siMkMtDIp6WkOmoVeoEa,spotify:track:67siMkMtDIp6WkOmoVeoEa,346500,4
+871,Photographer,Night Lights - Original Mix,2014,0.524,0.961,7,-7.304,0.0836,0.000672,0.79,0.385,0.169,138.009,6mQo2BEEd1BiSiYjWB0qgI,spotify:track:6mQo2BEEd1BiSiYjWB0qgI,493913,4
+870,Ferry Corsten,Drum's A Weapon - Extended Mix,2018,0.663,0.885,5,-9.247,0.0563,0.000927,0.835,0.0383,0.302,134.997,0rWu35QImx3DkegaR9gX59,spotify:track:0rWu35QImx3DkegaR9gX59,431602,4
+869,Above & Beyond & Zoë Johnston,Always - Above & Beyond Club Mix,2018,0.608,0.714,7,-7.537,0.0336,0.00804,0.63,0.0679,0.18,127.995,57jW6m7akrdqZ91jstIXuv,spotify:track:57jW6m7akrdqZ91jstIXuv,487969,4
+868,Dash Berlin & Sarah Howells,Go It Alone - Club Mix,2012,0.777,0.704,1,-7.283,0.0914,0.0148,0.0151,0.0723,0.502,135.003,4ha08Bx9FiLGpUJNmWjnsp,spotify:track:4ha08Bx9FiLGpUJNmWjnsp,405333,4
+867,Jorn Van Deynhoven,Freaks - Festival Mix,2015,0.572,0.937,11,-5.158,0.0448,0.000237,0.899,0.694,0.399,133.983,1gIzKeaF0ZZipXhJbUkCV8,spotify:track:1gIzKeaF0ZZipXhJbUkCV8,425899,4
+866,Above & Beyond & Justine Suissa,Alright Now - Above & Beyond Extended Club Mix,2017,0.677,0.711,9,-6.984,0.0558,0.00157,0.1,0.25,0.408,127.977,3DuthJJX4QnBDfyQucF4dQ,spotify:track:3DuthJJX4QnBDfyQucF4dQ,418594,4
+865,Ilan Bluestone & Giuseppe De Luca,Frozen Ground - Extended Mix,2017,0.785,0.745,1,-7.173,0.244,0.000538,0.0315,0.158,0.329,130.011,4FfrkV3frXRT2uFaVotGzI,spotify:track:4FfrkV3frXRT2uFaVotGzI,385846,4
+864,Nu NRG,Freefall,2008,0.475,0.96,11,-8.437,0.0568,1.23e-05,0.85,0.563,0.56,138.022,1qDJJRmPVD8wg9sIDUTlaX,spotify:track:1qDJJRmPVD8wg9sIDUTlaX,469565,4
+863,ARTY & NK,Who Am I,2020,0.481,0.996,2,-3.271,0.097,0.000706,0.809,0.142,0.109,127.988,1sDITOwHHe7POmTSCGcVxN,spotify:track:1sDITOwHHe7POmTSCGcVxN,258750,4
+862,Tenishia & Andrew Rayel,Where Do We Begin - Andrew Rayel Remix,2012,0.7,0.707,2,-5.301,0.0576,0.00419,0.154,0.0931,0.0913,132.031,0Q9pKBQXZyg2UFIvHBnXp1,spotify:track:0Q9pKBQXZyg2UFIvHBnXp1,450000,4
+861,Simon Patterson & Lucy Pullin,Blink - Extended Mix,2019,0.581,0.924,8,-3.804,0.0401,9.92e-05,0.805,0.102,0.0655,137.998,2gfrH2foqgJmO7UzOeHmrA,spotify:track:2gfrH2foqgJmO7UzOeHmrA,427826,4
+860,Above & Beyond,World On Fire - 12 Inch Extended Mix,2007,0.579,0.979,4,-8.34,0.0501,0.000319,0.396,0.19,0.483,133.991,01QsEcF1mWDya0hV7kYVp1,spotify:track:01QsEcF1mWDya0hV7kYVp1,455200,4
+859,Airwave,When Things Go Wrong - Original Mix,2015,0.591,0.872,6,-12.573,0.0404,0.00199,0.946,0.102,0.577,130.002,51a8EprToYxJeRZVkxh0er,spotify:track:51a8EprToYxJeRZVkxh0er,421560,4
+858,Airborn & Claudiu Adam & Alexandra Badoi,If Only - Extended Mix,2020,0.64,0.894,5,-5.311,0.135,0.00185,0.00015,0.0876,0.13,134.999,7vCfDFyEMCK6vFpEstRT2A,spotify:track:7vCfDFyEMCK6vFpEstRT2A,387556,4
+857,Luke Bond,U - Extended Mix,2018,0.373,0.88,5,-3.043,0.0538,0.000465,0.683,0.106,0.378,129.984,5u5oheCYVYbg8E0swCroK1,spotify:track:5u5oheCYVYbg8E0swCroK1,283290,4
+856,Vini Vici,The Tribe,2015,0.675,0.954,6,-6.423,0.127,0.00603,0.464,0.115,0.204,138.017,3nwUX7DkMuGPcuHrOXN5VM,spotify:track:3nwUX7DkMuGPcuHrOXN5VM,467826,4
+855,Full Tilt & Deirdre McLaughlin,Surrender - Sneijder vs John O'Callaghan Remix,2011,0.441,0.966,9,-6.947,0.062,2.17e-05,0.685,0.0808,0.251,139.981,0oznXWGYeKhHjIvZK6gXjE,spotify:track:0oznXWGYeKhHjIvZK6gXjE,456121,4
+854,Carl B.,Social Suicide [ASOT 261] - Original Mix,2006,0.525,0.87,6,-12.588,0.0804,0.000157,0.923,0.175,0.119,138.064,0KruoSYqqB5CFiLNcEQJon,spotify:track:0KruoSYqqB5CFiLNcEQJon,431178,4
+853,Tinlicker,Sleepwalker - Extended Mix,2020,0.729,0.862,7,-5.597,0.0507,0.000477,0.904,0.0767,0.23,123.997,7FN2DD0MiiXoadvyMmsyX7,spotify:track:7FN2DD0MiiXoadvyMmsyX7,377419,4
+852,Aly & Fila,Sands Of Time - Extended Mix,2019,0.584,0.962,1,-4.139,0.0578,3.47e-05,0.911,0.0527,0.0589,139.994,7zLtbktgnqkMEddGQ8rRO8,spotify:track:7zLtbktgnqkMEddGQ8rRO8,384000,4
+851,Cass & Slide,Perception - New Vocal Mix,2000,0.628,0.889,9,-9.429,0.0731,0.174,0.8,0.153,0.619,133.962,1gJ9bguy3gnj3yDm9rnpfK,spotify:track:1gJ9bguy3gnj3yDm9rnpfK,640527,4
+850,Bjorn Akesson,Painting Pyramids - Original Mix,2011,0.56,0.886,10,-8.727,0.0432,0.000105,0.803,0.044,0.344,138.007,52n7xNTVHzSyyKTYQmgBj3,spotify:track:52n7xNTVHzSyyKTYQmgBj3,524571,4
+849,Heatbeat,Geek Love - Peter Martijn Wijnia Remix,2008,0.676,0.667,6,-11.056,0.0476,4.3e-05,0.846,0.0763,0.205,137.507,3F3TLkM0O1IF2YfTPZmIzp,spotify:track:3F3TLkM0O1IF2YfTPZmIzp,602182,4
+848,Frank T.R.A.X. & Radion6,Nebuchan - Radion6 Extended Remix,2019,0.494,0.664,2,-10.684,0.0331,0.0253,0.918,0.339,0.382,137.984,6cUetUqVyjdPNuxQ9n5zFu,spotify:track:6cUetUqVyjdPNuxQ9n5zFu,320435,4
+847,Gareth Emery & Ashley Wallbridge,Kingdom United - Extended Mix,2019,0.607,0.93,0,-6.039,0.0386,0.000292,0.0437,0.116,0.04,133.002,0VWQwLfjgpttoqSVCiVVEd,spotify:track:0VWQwLfjgpttoqSVCiVVEd,438609,4
+846,Emma Hewitt & Armin van Buuren,Colours - Armin van Buuren Remix,2012,0.618,0.842,1,-7.652,0.0438,0.00255,0.593,0.159,0.476,132.003,3cQ0XglK7GSTaOiEyIlCjv,spotify:track:3cQ0XglK7GSTaOiEyIlCjv,527273,4
+845,Aly & Fila & Sue McLaren,Surrender - Extended Mix,2018,0.546,0.975,6,-5.561,0.078,0.000516,0.202,0.065,0.132,139.992,3KYPWSBj0RxiR4Oe3xjW4i,spotify:track:3KYPWSBj0RxiR4Oe3xjW4i,449143,4
+844,Easton & Roxanne Emery & Bryan Kearney,Healing Rain - Bryan Kearney Remix,2015,0.54,0.993,11,-6.167,0.0758,0.000344,0.558,0.111,0.347,138.017,0NThNupSihWs5kR2xUoCik,spotify:track:0NThNupSihWs5kR2xUoCik,403598,4
+843,Arisen Flame,Explorer - Original Mix,2014,0.534,0.996,0,-2.593,0.0655,0.000879,0.955,0.17,0.153,134.021,0R2BQmqtNBaajKeO9qU6sB,spotify:track:0R2BQmqtNBaajKeO9qU6sB,469370,4
+842,ALPHA 9,Dreams - Extended Mix,2020,0.683,0.825,9,-7.002,0.0681,0.0131,0.159,0.0899,0.0583,130.021,0N7uGstUue5kWw6X1oNL4B,spotify:track:0N7uGstUue5kWw6X1oNL4B,391370,4
+841,Astrix,Deep Jungle Walk,2016,0.618,0.885,6,-8.347,0.0454,0.000658,0.502,0.37,0.105,138.029,5gXKDmafOQ8i4lYr62wxTk,spotify:track:5gXKDmafOQ8i4lYr62wxTk,555705,4
+840,Sodality,Challenger - Extended Mix,2018,0.59,0.851,1,-4.991,0.0987,0.0016,0.00149,0.672,0.186,128.048,4pfjpigH1s7Ix1nxsSNiKk,spotify:track:4pfjpigH1s7Ix1nxsSNiKk,350772,4
+839,Ferry Corsten,Blueprint - Extended Mix,2018,0.574,0.787,9,-8.707,0.0373,0.00038,0.893,0.0979,0.386,129.988,5hiRFq1bMfEf05ashnEmHB,spotify:track:5hiRFq1bMfEf05ashnEmHB,284766,4
+838,Above & Beyond & Oceanlab,Beautiful Together - Signum Extended Mix,2020,0.486,0.937,4,-7.054,0.0566,1.88e-05,0.682,0.116,0.413,138.998,7e0GZBhmcIlDVelgARxHfc,spotify:track:7e0GZBhmcIlDVelgARxHfc,495387,4
+837,Sebastian Brandt,Ashes - Original Mix,2011,0.537,0.995,5,-5.681,0.101,0.00237,0.87,0.931,0.321,138.004,21KciQARcxrdutUcLI2tLH,spotify:track:21KciQARcxrdutUcLI2tLH,515843,4
+836,Allen Watts & Gid Sedgwick,Another You - Extended Mix,2020,0.47,0.991,10,-5.846,0.121,0.00247,0.685,0.854,0.0785,137.985,2b2aRoa2mFXlodF0k5qRix,spotify:track:2b2aRoa2mFXlodF0k5qRix,368696,4
+835,Kamaya Painters,Endless Wave,2000,0.69,0.952,3,-6.75,0.0405,8.58e-05,0.905,0.371,0.907,138.014,1RztZ8mTPuibGbMI8zF5yo,spotify:track:1RztZ8mTPuibGbMI8zF5yo,364133,4
+834,Hazem Beltagui & Allan V.,We Are - Original Mix,2013,0.77,0.805,9,-8.245,0.203,0.0355,0.0887,0.91,0.108,133.998,52pwA1iU52tQgGMlZDAsNI,spotify:track:52pwA1iU52tQgGMlZDAsNI,472836,4
+833,Above & Beyond,Walter White - Original Mix,2013,0.744,0.514,8,-7.067,0.0515,0.000194,0.892,0.0839,0.166,127.999,0Z03QN7vDo9vFZEEqr2tT3,spotify:track:0Z03QN7vDo9vFZEEqr2tT3,428947,4
+832,Laura Jansen,Use Somebody - Armin van Buuren Rework,2011,0.597,0.907,10,-5.788,0.0415,0.000344,0.763,0.0589,0.0376,136.0,1qPhzT0e9RtbMmgzF63u5q,spotify:track:1qPhzT0e9RtbMmgzF63u5q,515294,4
+831,Andrew Rayel & David Gravell,Trance ReBorn (FYH100 Anthem) - Extended Mix,2018,0.548,0.919,2,-5.949,0.113,0.000545,0.92,0.657,0.0998,131.988,6KETWZrxKsE9YCXmB6HJsy,spotify:track:6KETWZrxKsE9YCXmB6HJsy,333374,4
+830,3LAU & XIRA & Fatum,Tokyo (feat. XIRA) - Fatum Remix,2020,0.603,0.95,2,-6.046,0.064,0.00421,0.452,0.0203,0.414,126.011,6sskRCrAsP937sxflAhwu7,spotify:track:6sskRCrAsP937sxflAhwu7,225714,4
+829,Ashley Wallbridge & Evan Henzi,Still Alive,2020,0.458,0.977,1,-4.453,0.122,0.00095,0.000776,0.359,0.202,138.101,4lRyDKi6tPsPneyhoT3wo6,spotify:track:4lRyDKi6tPsPneyhoT3wo6,203098,4
+828,The Space Brothers & Jorn Van Deynhoven,Shine - Jorn van Deynhoven Extended Remix,2017,0.472,0.995,9,-7.543,0.0751,0.000197,0.737,0.359,0.0736,137.969,2iADz4eSSEZ05F7edbRtl0,spotify:track:2iADz4eSSEZ05F7edbRtl0,408792,4
+827,Bart Claessen,Playmo - 1st Play,2005,0.577,0.991,7,-8.63,0.0574,0.00138,0.824,0.11,0.362,139.005,0IrUGoktePgy98A5nM8A5r,spotify:track:0IrUGoktePgy98A5nM8A5r,431373,4
+826,Armin van Buuren,Precious,2003,0.575,0.755,10,-13.914,0.0499,0.00191,0.927,0.283,0.329,137.012,1denQKmQv1dCz6JIphRbug,spotify:track:1denQKmQv1dCz6JIphRbug,418427,4
+825,Dimension,Origami - Radio Edit,2015,0.482,0.923,6,-7.529,0.0444,0.000926,0.935,0.714,0.109,131.979,5EJ2Y3o4Nfz4N3MXBfudxO,spotify:track:5EJ2Y3o4Nfz4N3MXBfudxO,240000,4
+824,Giuseppe Ottaviani & Sue McLaren,Not One Goodbye - Extended Mix,2020,0.539,0.823,1,-8.497,0.0425,0.000106,0.129,0.461,0.131,131.999,4Wgz1dwWIp5OCT0QWC2Hl9,spotify:track:4Wgz1dwWIp5OCT0QWC2Hl9,398182,4
+823,Armin van Buuren & Christian Burns & Bagga Bownz,Neon Hero - Original Mix,2010,0.623,0.714,1,-9.047,0.0359,0.000393,0.429,0.178,0.264,135.996,3EBTdBKOUPG5T9eGEVaLt3,spotify:track:3EBTdBKOUPG5T9eGEVaLt3,501870,4
+822,Ferry Corsten's Countdown & Stoneface & Terminal,More Than Anything (Listener's Choice) (CC489) - Stoneface & Terminal Remix,2016,0.596,0.901,7,-7.675,0.0707,0.000243,0.00357,0.204,0.0374,136.062,5HiuKJucaEWcwKj4db1OSi,spotify:track:5HiuKJucaEWcwKj4db1OSi,292532,4
+821,Simon O'Shine & Adam Navel,Marathon - Simon O'Shine Mix,2014,0.544,0.969,0,-6.765,0.04,2.15e-05,0.806,0.284,0.0753,138.012,2UbMB64x9jcNvYHNmGiYTg,spotify:track:2UbMB64x9jcNvYHNmGiYTg,530095,4
+820,Ilan Bluestone & EL Waves,Mama Africa - Extended Mix,2019,0.597,0.861,11,-6.895,0.0422,8.59e-05,0.376,0.304,0.781,127.015,3s1peb6PnHB240NkbR80Vv,spotify:track:3s1peb6PnHB240NkbR80Vv,438348,4
+819,Humate & Paul van Dyk,Love Stimulation - Love-Club-Mix,2011,0.549,0.652,7,-9.902,0.0464,3.4e-05,0.96,0.093,0.122,133.997,5ToEKCGYeJO4YqkAXFTyOO,spotify:track:5ToEKCGYeJO4YqkAXFTyOO,451133,4
+818,Andrew Rayel & HALIENE,In The Dark - Extended Mix,2018,0.732,0.88,4,-4.125,0.104,0.000927,0.000158,0.157,0.04,129.989,7fxtp0dy7mxfE0fqOgG6gI,spotify:track:7fxtp0dy7mxfE0fqOgG6gI,395814,4
+817,Ralphie B,Icarus - Original Mix,2012,0.576,0.974,11,-4.121,0.0747,0.00472,0.63,0.711,0.109,135.97,1YRAeHDnX2fY7NdkCt5ijY,spotify:track:1YRAeHDnX2fY7NdkCt5ijY,534895,4
+816,Sander van Doorn,Riff,2008,0.7,0.643,7,-9.984,0.164,0.000207,0.92,0.0564,0.0358,134.997,0SnNCtdKvmfQcH8HvnYbse,spotify:track:0SnNCtdKvmfQcH8HvnYbse,424387,4
+815,Aly & Fila & Jaren,For All Time - Extended Mix,2014,0.494,0.986,3,-5.471,0.07,0.000226,0.245,0.0886,0.414,139.993,4xDtFd5cMMRVTUP0xGxJES,spotify:track:4xDtFd5cMMRVTUP0xGxJES,447429,4
+814,Daniel Kandi & Ferry Tayle,Flying Blue - Original Mix,2012,0.545,0.927,5,-5.913,0.0477,0.000155,0.851,0.0725,0.0617,138.013,6acBgrFyiFTlDMZdtnF68X,spotify:track:6acBgrFyiFTlDMZdtnF68X,459130,4
+813,A & Z & Leolani,Fleeting Moments - Original Mix,2015,0.517,0.986,11,-7.215,0.0847,0.00576,0.138,0.537,0.0399,137.986,2PKYdXs9Xnkc4z9ilZpnHj,spotify:track:2PKYdXs9Xnkc4z9ilZpnHj,465625,4
+812,Mike Foyle,Firefly - Original Mix,2007,0.66,0.928,1,-7.053,0.0482,0.000246,0.863,0.112,0.398,138.002,1YtkMWzAioyzvtyIVjDmwY,spotify:track:1YtkMWzAioyzvtyIVjDmwY,452053,4
+811,Ferry Corsten,Feel It - Original Extended,2011,0.708,0.882,7,-5.832,0.0594,0.00096,0.905,0.0615,0.192,128.011,3hP6UCCQDAZfC79wl5j62R,spotify:track:3hP6UCCQDAZfC79wl5j62R,377003,4
+810,Abstract Vision & Elite Electronic,Conqueror - Original Mix,2013,0.593,0.964,8,-7.574,0.086,0.00191,0.752,0.214,0.575,138.008,45ElwPMeCsQHv5e8KfjIE0,spotify:track:45ElwPMeCsQHv5e8KfjIE0,427831,4
+809,Gareth Emery & Evan Henzi & Cosmic Gate,Call To Arms - Cosmic Gate Extended Remix,2018,0.595,0.915,0,-6.464,0.0341,0.0033,0.48,0.0592,0.199,130.024,7kPa44fWW9s9ZDpndM59ar,spotify:track:7kPa44fWW9s9ZDpndM59ar,415440,4
+808,BT,Dreaming,2010,0.566,0.923,0,-7.609,0.0418,0.055,0.0483,0.0781,0.354,136.008,5tG0QxkDDJPQHkR6I4gHee,spotify:track:5tG0QxkDDJPQHkR6I4gHee,555640,4
+807,Markus Schulz,Do You Dream - Uplifting Vocal Mix,2010,0.56,0.928,11,-7.885,0.0436,0.000388,0.812,0.0991,0.0343,134.992,5LdaKmQ4rg5py2NGegkRQg,spotify:track:5LdaKmQ4rg5py2NGegkRQg,456827,4
+806,Cosmic Gate & Denise Rivera,Body Of Conflict - Cosmic Gate Club Mix,2006,0.661,0.798,1,-10.174,0.0853,0.000868,0.657,0.0457,0.107,132.971,4AHnPcoUJcbXEft4cLPkBP,spotify:track:4AHnPcoUJcbXEft4cLPkBP,520150,4
+805,Andy Duguid & Jaren,7even,2013,0.499,0.689,1,-7.972,0.0647,0.0036,0.721,0.376,0.0737,127.95,29ancNNn2qjHj1NsVqTajS,spotify:track:29ancNNn2qjHj1NsVqTajS,453514,4
+804,Ilan Bluestone & EL Waves,We Are The Universe - Extended Mix,2019,0.752,0.58,11,-6.158,0.0431,0.000598,0.109,0.135,0.308,130.006,5X9uQEWx0JEfljOHz3ckVp,spotify:track:5X9uQEWx0JEfljOHz3ckVp,368320,4
+803,Cosmic Gate,The Wave 2.0 - Extended Mix,2019,0.629,0.813,5,-7.508,0.0516,0.00227,0.609,0.0556,0.0388,130.009,5pIzJSUwghw5ThOB5YxBlj,spotify:track:5pIzJSUwghw5ThOB5YxBlj,419077,4
+802,Orjan Nilsen,So Long Radio - Original Mix,2010,0.734,0.892,10,-5.446,0.0546,0.00322,0.859,0.42,0.181,125.972,5VXjn0eAOSU8GCPm1sAszX,spotify:track:5VXjn0eAOSU8GCPm1sAszX,483815,4
+801,Agnelli & Nelson & The Burn & John O'Callaghan,Shivver (John O'Callaghan Mix),2011,0.505,0.924,7,-8.226,0.0454,3.76e-05,0.513,0.0594,0.126,139.977,2f2YU3YlacJpGAmvkFNPNw,spotify:track:2f2YU3YlacJpGAmvkFNPNw,526320,4
+800,Shogun & Emma Lock,Save Me - Original Mix,2010,0.675,0.764,1,-5.284,0.0596,0.0175,0.336,0.261,0.354,131.984,1tjKSY1PwexDy2jQNeP6xx,spotify:track:1tjKSY1PwexDy2jQNeP6xx,465000,4
+799,Solid Globe,Sahara - Original Mix (Remastering 2014),2014,0.606,0.981,2,-3.998,0.067,0.000914,0.859,0.104,0.56,134.995,6tgL45yUaOILSvoTjUdedi,spotify:track:6tgL45yUaOILSvoTjUdedi,484800,4
+798,Arctic Quest,Renaissance - Original Mix,2006,0.542,0.876,10,-9.894,0.0395,0.00554,0.909,0.0695,0.202,139.998,2xXRuPv5VEHNBOwmPCOxlw,spotify:track:2xXRuPv5VEHNBOwmPCOxlw,592766,4
+797,K90 & Allen Watts,Red Snapper - Allen Watts Extended Remix,2020,0.458,0.978,0,-5.865,0.0411,0.000265,0.846,0.488,0.324,140.008,5W28mEycxWtN91EFNeeJHg,spotify:track:5W28mEycxWtN91EFNeeJHg,390964,4
+796,Ali Wilson,Pandora - Original,2010,0.58,0.905,1,-5.118,0.0411,4.46e-05,0.742,0.066,0.277,131.982,17eAzIqFQCskhxeGqaX0oq,spotify:track:17eAzIqFQCskhxeGqaX0oq,530000,4
+795,Simon Patterson & Lucy Pullin,Now I Can Breathe Again - Extended Mix,2016,0.631,0.862,1,-6.197,0.0532,0.00309,0.726,0.61,0.334,134.021,2wwvaBvncQQBFmovuoSX9B,spotify:track:2wwvaBvncQQBFmovuoSX9B,412000,4
+794,John O'Callaghan & Lo-Fi Sugar & Andy Duguid,Never Fade Away - Andy Duguid Extended Remix,2010,0.658,0.796,6,-9.391,0.0487,0.0106,0.773,0.158,0.393,130.042,2ZmW7Fk0ViBTN1JTrFD3Bs,spotify:track:2ZmW7Fk0ViBTN1JTrFD3Bs,432000,4
+793,Aly & Fila,Mesca Beach - Extended Mix,2020,0.523,0.968,11,-5.745,0.0549,5.81e-05,0.923,0.0601,0.0389,139.998,1ltSaR5JDCklAV6VcGxNv7,spotify:track:1ltSaR5JDCklAV6VcGxNv7,522857,4
+792,Dimension,Mangata,2016,0.535,0.982,6,-7.09,0.0511,0.00218,0.797,0.566,0.186,132.053,2OILwVcSPPmaBjiCW4Qj8p,spotify:track:2OILwVcSPPmaBjiCW4Qj8p,207676,4
+791,MaRLo & Emma Chatt,Leave My Hand - Extended Mix,2016,0.649,0.811,1,-5.047,0.0498,0.00018,0.0811,0.0773,0.268,131.996,2lZzKKgZuuShB5SxLUT6RV,spotify:track:2lZzKKgZuuShB5SxLUT6RV,340312,4
+790,Fragile & Alex Lemon,Inertia - Armin Van Buuren Remix,2005,0.653,0.948,9,-7.626,0.0341,3.1e-05,0.688,0.121,0.49,140.904,6EFFe9EkDlUX3citk8TYyP,spotify:track:6EFFe9EkDlUX3citk8TYyP,577945,4
+789,Driftmoon & Solarstone,Howl At the Moon - Solarstone Retouch,2014,0.482,0.851,9,-8.028,0.0425,5.97e-05,0.858,0.113,0.191,138.018,7erAIecYrbde90ic2cKKFK,spotify:track:7erAIecYrbde90ic2cKKFK,529043,4
+788,Super8,Get Off - Extended Mix,2006,0.461,0.997,5,-5.756,0.055,0.000739,0.105,0.0828,0.396,138.015,7u0rQxwidOtXVOE4wsEwog,spotify:track:7u0rQxwidOtXVOE4wsEwog,555453,4
+787,Kyau & Albert,Velvet Morning - Mirco de Govia Remix,2004,0.589,0.955,1,-7.742,0.0537,0.000373,0.838,0.179,0.592,137.978,5RcNCCdYW1Z3inQJ4M7thg,spotify:track:5RcNCCdYW1Z3inQJ4M7thg,519345,4
+786,Fisherman & Hawkins & Gal Abutbul,United,2015,0.586,0.916,6,-3.506,0.305,0.000448,0.917,0.0786,0.43,131.981,1BYOO4VoK18IwyVmLuGhxT,spotify:track:1BYOO4VoK18IwyVmLuGhxT,372727,4
+785,Gareth Emery & Ashley Wallbridge,Amber Sun - Extended Mix,2019,0.592,0.839,8,-6.908,0.034,0.000195,0.573,0.293,0.348,133.996,4LWH4dLNkCsANAmZksbO83,spotify:track:4LWH4dLNkCsANAmZksbO83,352836,4
+784,Chicane & Walsh & McAuley,What Am I Doing Here? Prt 1 - Walsh & McAuley Remix,2011,0.66,0.535,10,-8.607,0.0481,0.0107,0.0973,0.0726,0.325,129.967,4Pb7Mg18H4S0jCGgH6bIIq,spotify:track:4Pb7Mg18H4S0jCGgH6bIIq,524537,4
+783,Audien,Wayfarer - Original Mix,2013,0.725,0.95,7,-3.568,0.096,0.000258,0.775,0.178,0.281,127.986,6gdsl8u2tQ12yhwYRMB12T,spotify:track:6gdsl8u2tQ12yhwYRMB12T,360000,4
+782,Solarstone & Robert Nickson,Voyager II - Extended Mix,2020,0.647,0.703,5,-6.819,0.0355,0.0187,0.0724,0.155,0.215,130.008,2RwZZWM5etkWMawplnJX4u,spotify:track:2RwZZWM5etkWMawplnJX4u,546795,4
+781,The Thrillseekers & Fisher,The Last Time - Club Mix,2008,0.603,0.718,7,-7.358,0.0398,0.000242,0.453,0.0997,0.429,132.004,30lChacPKpnettEidBerpk,spotify:track:30lChacPKpnettEidBerpk,480973,4
+780,Three Drives On A Vinyl,Sunset On Ibiza - Original Mix,2000,0.718,0.778,5,-14.544,0.0483,9.48e-05,0.886,0.134,0.314,135.562,4DQEgewQDuJuhPVXSHHJnN,spotify:track:4DQEgewQDuJuhPVXSHHJnN,477490,4
+779,Aalto,Rush - Super 8 vs Orkidea Remix,2002,0.579,0.952,11,-5.893,0.0454,2.98e-05,0.906,0.276,0.587,138.016,075Lu2YqoUCE3guPofRxuc,spotify:track:075Lu2YqoUCE3guPofRxuc,473493,4
+778,Holden,Nothing - 93 Returning Remix,2003,0.648,0.955,4,-8.756,0.05,0.0344,0.658,0.3,0.173,130.008,4TQYdxl102w78iCxRIRZxb,spotify:track:4TQYdxl102w78iCxRIRZxb,482360,4
+777,Art Of Trance & Ferry Corsten,Madagascar - Ferry Corsten Remix,2009,0.632,0.946,6,-9.323,0.0522,1.69e-05,0.625,0.154,0.116,136.99,3x55ruWsb6QtuufuCTxymf,spotify:track:3x55ruWsb6QtuufuCTxymf,361133,4
+776,Kyau & Albert,Memory Lane - Album Rework,2017,0.454,0.87,9,-4.383,0.0385,0.0159,0.0233,0.112,0.166,131.982,6oz4C8W5Z2mVdsZW9tFQKp,spotify:track:6oz4C8W5Z2mVdsZW9tFQKp,433946,4
+775,Jochen Miller,Lost Connection - Original,2008,0.614,0.611,1,-16.197,0.0499,0.000854,0.855,0.0955,0.618,134.995,4qDPQH9Dfp7A1uu37zjysA,spotify:track:4qDPQH9Dfp7A1uu37zjysA,422222,4
+774,Simon Patterson & Lucy Pullin,Fall For You - Extended Mix,2018,0.647,0.965,6,-6.436,0.0533,0.00244,0.709,0.0725,0.563,133.997,5XdDIlIqPOjs4Aeva2je2D,spotify:track:5XdDIlIqPOjs4Aeva2je2D,450517,4
+773,Synergy,Hello Strings - Original Mix,2005,0.578,0.695,0,-10.086,0.0382,0.00551,0.91,0.287,0.346,130.001,1Qglx6Hu16uEcwJOqAE115,spotify:track:1Qglx6Hu16uEcwJOqAE115,696520,4
+772,Roman Messer & Christina Novelli & Jorn Van Deynhoven,Fireflies - Jorn van Deynhoven Extended Remix,2018,0.542,0.971,11,-5.229,0.0698,0.000483,0.398,0.136,0.293,138.004,35WbNTnluUh6G9S5b0NOgj,spotify:track:35WbNTnluUh6G9S5b0NOgj,413043,4
+771,Jase Thirlwall & Victoriya,Dust - Extended Mix,2019,0.447,0.991,2,-6.106,0.108,0.00336,0.579,0.415,0.211,137.988,4eNDlbG4ifriKDRQvU1CUN,spotify:track:4eNDlbG4ifriKDRQvU1CUN,450870,4
+770,Antillas & Fiora,Damaged - Main Mix,2012,0.423,0.649,7,-6.444,0.114,0.0549,3.95e-05,0.096,0.232,130.022,3MF18NG64RyY9qnrHZZSlw,spotify:track:3MF18NG64RyY9qnrHZZSlw,411688,4
+769,Stoneface & Terminal,Venus - 2015 Rework,2015,0.706,0.736,11,-6.393,0.0625,0.000981,0.862,0.0762,0.41,134.984,3XWLxjFW3eSvmSoPtENUhn,spotify:track:3XWLxjFW3eSvmSoPtENUhn,435816,4
+768,Coast 2 Coast & Discovery,Home - Original Mix,2001,0.606,0.903,0,-9.322,0.0465,0.000222,0.752,0.109,0.125,134.996,22AFDxIMbAD9EB2x0Amxaa,spotify:track:22AFDxIMbAD9EB2x0Amxaa,485827,4
+767,Super8 & Tab,Suru - Original Mix,2007,0.547,0.944,8,-7.473,0.0415,0.000221,0.881,0.0605,0.457,137.991,5jiUDV48uIPBc0kMiHL57V,spotify:track:5jiUDV48uIPBc0kMiHL57V,567240,4
+766,Kirsty Hawkshaw & Tenishia,Outsiders - Cosmic Gate Remix,2007,0.655,0.71,9,-10.273,0.0709,0.00143,0.547,0.109,0.224,133.985,3UjDqHYC2ynSxkPCkl6TTV,spotify:track:3UjDqHYC2ynSxkPCkl6TTV,517333,4
+765,Markus Schulz & Justine Suissa,Perception - Original Mix,2010,0.672,0.701,7,-7.992,0.0463,0.000228,0.808,0.612,0.264,133.992,797AL4PTAgNqomKBmtLtjG,spotify:track:797AL4PTAgNqomKBmtLtjG,728118,4
+764,John O'Callaghan & Josie & Stoneface & Terminal,Out Of Nowhere - Stoneface & Terminal Vocal Remix,2010,0.557,0.948,0,-6.367,0.0562,1.07e-05,0.655,0.0647,0.212,135.98,5ORo2F8zMyvbctQJIIO9Wj,spotify:track:5ORo2F8zMyvbctQJIIO9Wj,544736,4
+763,Alex M.O.R.P.H.,Not All Superheroes Wear Capes - Extended Mix,2016,0.492,0.981,0,-6.036,0.0543,9.56e-05,0.924,0.0536,0.467,137.999,0SNNtCi6YXrc9b4A49WYGb,spotify:track:0SNNtCi6YXrc9b4A49WYGb,429718,4
+762,Aly & Fila & Ferry Tayle,Napoleon - Original Mix,2015,0.484,0.974,9,-5.074,0.0521,9.42e-05,0.898,0.616,0.225,137.984,7ns0hyJXSPKhDuMv9PuWW9,spotify:track:7ns0hyJXSPKhDuMv9PuWW9,535652,4
+761,DJ Eco,Lost Angeles - Breakfast Remix,2009,0.478,0.929,2,-5.528,0.042,7.36e-05,0.28,0.436,0.274,140.011,7b6vEfi1DJ9E5HkyG2sNfi,spotify:track:7b6vEfi1DJ9E5HkyG2sNfi,495429,4
+760,Hammer & BENNETT,Language - Santiago Nino Dub Tech Mix,2005,0.599,0.98,10,-2.995,0.0503,0.000311,0.718,0.283,0.592,130.003,1E8uHhbPcJpk7t88KkQzK1,spotify:track:1E8uHhbPcJpk7t88KkQzK1,581538,4
+759,Nuera,Green Cape Sunset - Original Mix,2011,0.69,0.936,0,-7.672,0.0524,0.0333,0.903,0.316,0.362,132.009,53FSRCsrCy9I2cs20df77d,spotify:track:53FSRCsrCy9I2cs20df77d,396364,4
+758,Ruben de Ronde & Roxanne Emery & Richard Durand,Gold - Richard Durand Extended Remix,2020,0.35,0.922,1,-6.044,0.042,0.00358,0.578,0.48,0.17,138.018,0eqSAPj25ty7hqlo79Ir9L,spotify:track:0eqSAPj25ty7hqlo79Ir9L,424348,4
+757,Armin van Buuren & System F,From The Heart,2003,0.644,0.504,3,-16.309,0.0457,0.00744,0.869,0.104,0.133,137.994,4nr7ndQga9lroSeBjQBiFu,spotify:track:4nr7ndQga9lroSeBjQBiFu,450867,4
+756,Ben Nicky & STANDERWICK,Drop - Original Mix,2014,0.61,0.921,8,-7.553,0.0875,0.000298,0.903,0.13,0.282,140.003,1ibzbXc9frI8bsjTgQlPj8,spotify:track:1ibzbXc9frI8bsjTgQlPj8,468000,4
+755,Simon Patterson,Brush Strokes - Original Mix,2013,0.547,0.934,6,-5.911,0.0526,0.0011,0.868,0.0534,0.363,140.003,72TIjAW11mnWHTGGGbkRch,spotify:track:72TIjAW11mnWHTGGGbkRch,521143,4
+754,Armin van Buuren & Fiora,Breathe In Deep [Bonus Track],2010,0.644,0.693,10,-7.973,0.0431,0.000142,0.777,0.102,0.265,132.003,7GWIyXGf8u97sYUZTrqnWv,spotify:track:7GWIyXGf8u97sYUZTrqnWv,369560,4
+753,Purple Haze,Bergen - Extended Mix,2018,0.672,0.856,5,-2.738,0.0829,0.00121,0.00619,0.635,0.168,128.065,3s8BbIQN7by3SoTFuM3Ndx,spotify:track:3s8BbIQN7by3SoTFuM3Ndx,325630,4
+752,The Thrillseekers & Stine Grove & Solarstone,Anywhere With You - Solarstone Pure Mix,2016,0.655,0.791,6,-7.364,0.0721,0.00158,0.00441,0.107,0.294,136.004,4AMlvhGdATpEEIzwB0zTfz,spotify:track:4AMlvhGdATpEEIzwB0zTfz,544950,4
+751,Above & Beyond & Jerome Isma-Ae,Anjunabeach - Jerome Isma-Ae Remix,2009,0.442,0.856,10,-9.002,0.0572,5.69e-05,0.805,0.152,0.382,130.001,0Hnm7y19vetNGpBApuQFMY,spotify:track:0Hnm7y19vetNGpBApuQFMY,466992,4
+750,Ferry Corsten & Paul Oakenfold,A Slice Of Heaven - Extended Mix,2018,0.587,0.997,7,-7.099,0.0525,0.0015,0.879,0.148,0.387,134.994,6WD08JNFxt0lRFX1cpXrHb,spotify:track:6WD08JNFxt0lRFX1cpXrHb,420114,4
+749,Solarstone,4Ever - Pure Retouch,2014,0.537,0.782,2,-7.718,0.0333,0.000227,0.837,0.0779,0.297,136.014,0pqJfG9Kso0BRd1OmzUCG4,spotify:track:0pqJfG9Kso0BRd1OmzUCG4,516694,4
+748,Riva & Armin van Buuren,Time Is The Healer - Armin van Buuren Extended Dub,2002,0.593,0.851,5,-10.498,0.0528,5.43e-05,0.76,0.0798,0.656,138.005,1j16DrcqwqTrfOQY5BcT1j,spotify:track:1j16DrcqwqTrfOQY5BcT1j,419213,4
+747,Joop,The Future - Original Mix,2007,0.591,0.845,7,-8.2,0.0666,0.000123,0.91,0.552,0.0395,138.011,5OT05fCsD04uyZsAL4gBvB,spotify:track:5OT05fCsD04uyZsAL4gBvB,457762,4
+746,Markus Schulz,The New World - Original Mix,2009,0.692,0.637,11,-9.805,0.0672,0.00151,0.863,0.1,0.0377,135.997,7HQ3aCTbdzdg62cJowcGUV,spotify:track:7HQ3aCTbdzdg62cJowcGUV,459093,4
+745,Push,Till We Meet Again,2007,0.677,0.924,10,-9.672,0.0487,0.00235,0.712,0.0631,0.31,140.042,3JV2K1C2Bd9JD8zjoqeZ49,spotify:track:3JV2K1C2Bd9JD8zjoqeZ49,513160,4
+744,Envio,Time To Say Goodbye - Passiva Remix,2004,0.484,0.853,9,-8.507,0.0333,0.000113,0.814,0.0734,0.246,137.999,0t12bk2op5w6GLo3FJw6ze,spotify:track:0t12bk2op5w6GLo3FJw6ze,563781,4
+743,4 Strings,Sunrise,2006,0.528,0.764,2,-8.465,0.0393,3.29e-05,0.905,0.0634,0.181,138.009,5e5I3LPLDrazXcdKraPElw,spotify:track:5e5I3LPLDrazXcdKraPElw,466227,4
+742,Cosmic Gate & Arnej,Sometimes They Come Back for More - Extended Mix,2012,0.717,0.703,1,-9.428,0.0756,0.0011,0.904,0.0755,0.106,132.003,4jtwevAhHXJtRdRQcHocZ5,spotify:track:4jtwevAhHXJtRdRQcHocZ5,467987,4
+741,Andrew Bayer,Once Lydian - Original Mix,2014,0.826,0.591,6,-5.873,0.0764,0.00176,0.211,0.0877,0.236,127.995,3wBvIPL1ZkVIlM20xGrZ6n,spotify:track:3wBvIPL1ZkVIlM20xGrZ6n,383640,4
+740,Gareth Emery,Mezzanine,2019,0.546,0.855,8,-4.849,0.04,0.00193,0.105,0.283,0.116,129.944,6fr1oGWhDjazOV7gEAKZlh,spotify:track:6fr1oGWhDjazOV7gEAKZlh,270000,4
+739,Sebastian Brandt,Mana - Original Mix,2012,0.543,0.993,3,-6.787,0.0815,0.000545,0.91,0.837,0.21,137.98,0vEV6pR0OVFJ95LW1bMqRr,spotify:track:0vEV6pR0OVFJ95LW1bMqRr,483471,4
+738,Gareth Emery & Janet Devlin,Lost,2016,0.558,0.917,11,-5.691,0.0915,0.132,3.13e-05,0.235,0.484,127.975,3sQBMQEMd8YKcTVWfsXhcb,spotify:track:3sQBMQEMd8YKcTVWfsXhcb,271081,4
+737,W&W,Lift Off! - Original Mix,2012,0.702,0.818,8,-5.261,0.0935,0.00137,0.218,0.0655,0.372,128.006,5HZQipw98poTN9zRpZIkQO,spotify:track:5HZQipw98poTN9zRpZIkQO,300000,4
+736,Orjan Nilsen,The Late Anthem - Way Too Late Mix,2014,0.677,0.942,5,-3.745,0.0538,0.00141,0.901,0.0617,0.702,127.976,5t9DC2OzPcp4HlJsXOnvbh,spotify:track:5t9DC2OzPcp4HlJsXOnvbh,335494,4
+735,Way Out West & Orkidea,Killa - Orkidea Mix,2005,0.566,0.916,4,-8.396,0.0718,0.000215,0.891,0.0762,0.782,135.007,40BsEMOHVy6DAjofndUQ6x,spotify:track:40BsEMOHVy6DAjofndUQ6x,558222,4
+734,MaRLo & Chloe,You And Me - Extended Mix,2016,0.693,0.874,9,-5.262,0.0553,6.53e-05,0.00964,0.0676,0.229,132.022,2y7YJZCUabTfkf7yAJYB9i,spotify:track:2y7YJZCUabTfkf7yAJYB9i,343000,4
+733,Jeremy Vancaulart & Danyka Nadeau,Hurt - Extended Mix,2018,0.694,0.654,6,-5.11,0.0457,0.000139,0.0408,0.0542,0.309,131.968,5cqXUv2kcFEhGgY3Nwhszy,spotify:track:5cqXUv2kcFEhGgY3Nwhszy,276673,4
+732,Ruben de Ronde & Louise Rademakers & Giuseppe Ottaviani,Games - Giuseppe Ottaviani Extended Remix,2019,0.53,0.979,0,-5.76,0.0451,0.00104,0.735,0.629,0.532,138.005,3AOAS3ocSHPaHXvhe3eiWt,spotify:track:3AOAS3ocSHPaHXvhe3eiWt,401739,4
+731,ReOrder & STANDERWICK & Sky Patrol,Folding Your Universe - Original Mix,2013,0.662,0.972,11,-6.984,0.0993,0.0115,0.911,0.1,0.147,138.003,3wCVr33GXo4EqA98K1UXpi,spotify:track:3wCVr33GXo4EqA98K1UXpi,422609,4
+730,Cosmic Gate & Eric Lumiere,Falling Back - Extended Mix,2014,0.694,0.828,0,-4.25,0.111,0.000731,0.00197,0.108,0.278,127.98,3Vq3v1yVcp5FpQ8tSn2GMd,spotify:track:3Vq3v1yVcp5FpQ8tSn2GMd,420029,4
+729,Andy Moor,Fake Awake - The Blizzard Remix,2008,0.595,0.875,9,-8.797,0.0544,0.000443,0.788,0.457,0.504,130.52,6kOsU1Ladx0RsWOr9E1lPk,spotify:track:6kOsU1Ladx0RsWOr9E1lPk,518293,4
+728,Andrew Rayel,Dark Side Of The Harmony (FYH 200 Anthem) - Extended Mix,2020,0.688,0.995,2,-3.533,0.229,0.000795,0.5,0.296,0.0604,139.971,35fyG2ZCN0ijlNiBbJ3n9l,spotify:track:35fyG2ZCN0ijlNiBbJ3n9l,347250,4
+727,GAIA,Crossfire - Extended Mix,2017,0.441,0.672,7,-4.017,0.0729,0.000895,0.895,0.0752,0.211,132.043,00u2onQrvoz0VBJjMJDj48,spotify:track:00u2onQrvoz0VBJjMJDj48,382500,4
+726,Fisherman & Hawkins,Apache - Original Mix,2013,0.64,0.954,6,-1.968,0.0612,0.000507,0.592,0.193,0.344,131.001,2EJZYwvixuanC3vhK36ibW,spotify:track:2EJZYwvixuanC3vhK36ibW,480556,4
+725,DJ Eco,And We Flew Away,2010,0.678,0.651,6,-5.011,0.0585,9.09e-05,0.589,0.279,0.387,136.977,5jOblsQvs6QTw1nS6jn0kN,spotify:track:5jOblsQvs6QTw1nS6jn0kN,504798,4
+724,Aly & Fila & Luke Bond & Audrey Gallagher,Million Voices - Extended Mix,2016,0.484,0.937,6,-4.69,0.0712,0.000122,0.278,0.177,0.399,139.986,4vPJXzwWlLjYser0Qcmv49,spotify:track:4vPJXzwWlLjYser0Qcmv49,458000,4
+723,Andy Moor & Orkidea & A. Moor,YearZero - Andy Moor's First Light Remix,2011,0.568,0.89,7,-8.626,0.0471,8.55e-06,0.896,0.317,0.149,131.009,5L78F8C7dYWDzHFcNk4amq,spotify:track:5L78F8C7dYWDzHFcNk4amq,573130,4
+722,Alexander Popov,Revolution In You - Main Mix,2011,0.634,0.91,2,-7.003,0.0461,0.000174,0.867,0.109,0.169,134.017,6GgMexp5oD2pre2xZb1O6c,spotify:track:6GgMexp5oD2pre2xZb1O6c,442404,4
+721,Max Graham & Neev Kennedy,Sun In The Winter - Alex M.O.R.P.H. Remix,2010,0.479,0.997,6,-5.691,0.0692,0.000119,0.818,0.848,0.188,136.987,46b9z0oabOT8z9vlCrXPNX,spotify:track:46b9z0oabOT8z9vlCrXPNX,561169,4
+720,Plastic Boy,Silver Bath,2011,0.636,0.596,1,-11.729,0.0559,0.00758,0.901,0.111,0.603,137.995,594GxAJXqgQC38BRZu8RG4,spotify:track:594GxAJXqgQC38BRZu8RG4,467827,4
+719,Fatum & Genix & Jaytech & Judah,We're All In This Together - Above & Beyond Respray,2020,0.527,0.786,0,-6.236,0.0295,0.00244,0.0295,0.105,0.126,128.003,3eiXrec24mFTStJH5YqRGV,spotify:track:3eiXrec24mFTStJH5YqRGV,266472,4
+718,Aly & Fila & Deirdre McLaughlin,Gravity - Extended Mix,2019,0.5,0.99,5,-4.264,0.0449,1.86e-05,0.753,0.498,0.371,139.98,6OO96onEJl8PYH3pihJTnI,spotify:track:6OO96onEJl8PYH3pihJTnI,499130,4
+717,Craig Connelly & Cate Kanell,Shipwreck - Original Mix,2015,0.515,0.897,0,-6.654,0.045,0.000389,0.326,0.53,0.0369,134.985,2OsHcxAE4E9n7z57yN5VAl,spotify:track:2OsHcxAE4E9n7z57yN5VAl,483549,4
+716,Armin van Buuren & Alexander Popov,Popcorn - Extended Mix,2018,0.4,0.969,1,-4.433,0.0696,0.00242,0.574,0.234,0.0362,94.915,3XnpAbd219zgPyZGPfn8HC,spotify:track:3XnpAbd219zgPyZGPfn8HC,316163,5
+715,Airwave,Ladyblue - 1992 Flight,2004,0.496,0.88,3,-11.499,0.0351,0.00405,0.889,0.0936,0.618,136.006,0sdhm9lOWy4WqYYdKm48uh,spotify:track:0sdhm9lOWy4WqYYdKm48uh,642600,4
+714,Randy Katana,In Silence - Txitxarro Mix,2004,0.612,0.972,11,-10.189,0.0435,0.000392,0.897,0.574,0.355,139.997,6Pvaumhcu0gyXzQ4XT26sf,spotify:track:6Pvaumhcu0gyXzQ4XT26sf,564507,4
+713,Andrew Rayel & Lola Blanc,Horizon - Extended Mix,2018,0.624,0.912,5,-2.426,0.0427,0.000901,1.87e-05,0.669,0.327,132.023,7mV8UxnLFInQTaDrsXvfDF,spotify:track:7mV8UxnLFInQTaDrsXvfDF,298182,4
+712,London Grammar,Hey Now - Arty Remix,2014,0.741,0.794,5,-4.093,0.174,0.0104,0.283,0.104,0.202,128.015,3LsiTVim2hBRogdJxiJ3Ry,spotify:track:3LsiTVim2hBRogdJxiJ3Ry,355078,4
+711,Parker & Hanson,Gravity - Original Mix,2014,0.787,0.518,11,-10.057,0.0516,0.0304,0.894,0.0865,0.085,123.993,6HYJDIhyNPECOOhaEueoTF,spotify:track:6HYJDIhyNPECOOhaEueoTF,493576,4
+710,Claudia Cazacu & Audrey Gallagher,Freefalling - Original Mix,2009,0.505,0.899,2,-7.871,0.0507,0.00166,0.0876,0.763,0.342,138.016,1dRok3FKQlhYlzxs1bSiM6,spotify:track:1dRok3FKQlhYlzxs1bSiM6,486314,4
+709,Dutch Force,Deadline - Original Mix,2013,0.616,0.912,5,-8.273,0.0482,0.00471,0.916,0.0759,0.214,137.056,5PRUaswJTNpb3KbtPoWhju,spotify:track:5PRUaswJTNpb3KbtPoWhju,453587,4
+708,Gareth Emery & Ashley Wallbridge & CVNT5,CVNT5,2016,0.524,0.924,7,-4.768,0.0441,0.00129,0.00946,0.0991,0.201,127.994,7FfO0eblBYav0SsthnzT64,spotify:track:7FfO0eblBYav0SsthnzT64,277090,4
+707,ATB & Andrew Rayel,Connected - Extended Mix,2017,0.803,0.481,2,-5.022,0.0514,0.0335,0.899,0.097,0.291,127.985,34ZFbpUbQmy4En7xohEaCG,spotify:track:34ZFbpUbQmy4En7xohEaCG,311191,4
+706,DJ Shah & Adrina Thorpe & Aly & Fila,Back To You - Aly & Fila Remix,2008,0.481,0.978,6,-7.383,0.0568,0.000359,0.827,0.32,0.377,139.983,6Ao4cbmrJ6omlpO6lm8yLX,spotify:track:6Ao4cbmrJ6omlpO6lm8yLX,588374,4
+705,ReOrder & Bo Bruce,We Are The World - Extended Mix,2020,0.556,0.949,0,-4.758,0.0392,0.000161,0.167,0.16,0.337,137.974,5H3KxHrcRFMyQ6o2dNxOvk,spotify:track:5H3KxHrcRFMyQ6o2dNxOvk,342934,4
+704,Armin van Buuren & Victoria Horn,Wait for You - Song For The Ocean,2003,0.525,0.771,9,-11.85,0.0294,0.0134,0.325,0.867,0.614,135.986,0OtmhC4G6HVXSstkVCPRmL,spotify:track:0OtmhC4G6HVXSstkVCPRmL,432533,4
+703,Fragma & Inpetto,Toca Me - Inpetto 2008 Mix,2008,0.807,0.616,0,-9.56,0.0763,0.00271,0.86,0.042,0.583,130.009,5aUNkxpVzl9aBMTVimODhL,spotify:track:5aUNkxpVzl9aBMTVimODhL,496769,4
+702,James Dymond & Chris Schweizer,Spectrum - Extended Mix,2017,0.466,0.982,4,-7.059,0.0789,0.000324,0.757,0.464,0.315,137.998,1Vd0WyAomJGTU7b6Z46W03,spotify:track:1Vd0WyAomJGTU7b6Z46W03,454044,4
+701,DRYM & Jennifer Rene,Smile - Extended Mix,2016,0.527,0.936,0,-4.775,0.0417,0.00273,0.376,0.316,0.387,130.019,6TOavBVFezinsiymjiqAlI,spotify:track:6TOavBVFezinsiymjiqAlI,331846,4
+700,First State,Sierra Nevada - Extended Mix,2009,0.559,0.873,11,-9.224,0.0559,0.000216,0.868,0.377,0.255,138.032,3CYL4xHDrpMI1SEohE6P5H,spotify:track:3CYL4xHDrpMI1SEohE6P5H,544426,4
+699,Andy Moor & Carrie Skipper,She Moves - Original Mix,2010,0.58,0.818,7,-5.404,0.033,4.5e-05,0.389,0.225,0.571,134.99,5WID4Dm1MktMmsnGksMeSz,spotify:track:5WID4Dm1MktMmsnGksMeSz,550833,4
+698,Peter Martin & Anthanasia,Perfect Wave - Original Mix,2004,0.593,0.95,2,-10.214,0.0479,0.00522,0.859,0.0782,0.82,135.009,0Y95OEnDP4zgxW7A5NPoKN,spotify:track:0Y95OEnDP4zgxW7A5NPoKN,620205,4
+697,Alexander Popov,Lost Language - Original Mix,2013,0.651,0.851,6,-8.5,0.052,0.000496,0.892,0.307,0.0957,133.981,6TmQxKR3UmBESjB3ZVXH6R,spotify:track:6TmQxKR3UmBESjB3ZVXH6R,415522,4
+696,Active Sight,Out Of Our Lives - Original Mix,2003,0.571,0.655,6,-10.051,0.0426,0.000105,0.887,0.0918,0.62,138.008,4jFabatgq4SjS27krYiXV1,spotify:track:4jFabatgq4SjS27krYiXV1,501973,4
+695,Chris Schweizer,Near The End - Extended Mix,2019,0.61,0.935,11,-6.826,0.056,0.00202,0.859,0.295,0.141,137.985,4ncMuUQQnnHGEZMSUjyVru,spotify:track:4ncMuUQQnnHGEZMSUjyVru,460634,4
+694,Glenn Morrison,Contact,2018,0.901,0.532,10,-8.515,0.143,0.0807,0.896,0.565,0.861,128.023,0mtIQKs3F9vlofkBKP6bgx,spotify:track:0mtIQKs3F9vlofkBKP6bgx,400000,4
+693,Armin van Buuren,Last Stop Before Heaven,2013,0.434,0.843,11,-6.984,0.0438,0.00845,0.935,0.329,0.0429,132.009,5dlmVFEhswX1I0704LlyiX,spotify:track:5dlmVFEhswX1I0704LlyiX,387320,3
+692,Maarten de Jong & Allen Watts,Hatseflats - Extended Mix,2020,0.518,0.924,11,-5.261,0.0468,8.25e-05,0.891,0.202,0.123,135.997,0yqZTUdL0Mse0Vl30i5Syr,spotify:track:0yqZTUdL0Mse0Vl30i5Syr,392034,4
+691,Lost Witness & Lange,Happiness Happening - Lange Remix,1999,0.652,0.567,3,-9.117,0.0365,0.0141,0.135,0.105,0.0397,141.85,3WO5OSp8pvBtdzVjnO3GHI,spotify:track:3WO5OSp8pvBtdzVjnO3GHI,556566,4
+690,Giuseppe Ottaviani,Follow The White Rabbit - Extended Mix,2019,0.559,0.959,6,-7.47,0.0501,0.000341,0.896,0.0796,0.433,138.003,5d3bfM0AJpimbL5CF2OXyO,spotify:track:5d3bfM0AJpimbL5CF2OXyO,379434,4
+689,Simon Patterson & Magnus,Evoke - Extended Mix,2016,0.537,0.993,7,-4.154,0.0584,0.000141,0.864,0.224,0.303,139.988,0QuJBEhGVYcxIkCqE9aCSC,spotify:track:0QuJBEhGVYcxIkCqE9aCSC,398000,4
+688,Ferry Corsten & Arkham Knights,Eternity - Arkham Knights Remix,2018,0.253,0.991,1,-5.116,0.0732,0.00057,0.899,0.701,0.138,133.003,3hQlz2fgNZRcFTzttrKnbc,spotify:track:3hQlz2fgNZRcFTzttrKnbc,235046,4
+687,Zirenz & Whiteroom,Edge of Space Ultimate - Whiteroom Remix,2020,0.576,0.968,2,-7.904,0.0396,0.00369,0.884,0.107,0.161,134.995,37NSuJjlVpHVLzsczJ1fe2,spotify:track:37NSuJjlVpHVLzsczJ1fe2,509987,4
+686,Solid Globe,North Pole - Original Mix (Remastering 2014),2014,0.49,0.916,10,-5.595,0.0429,0.000169,0.822,0.352,0.179,134.999,1vldQihMz6A5SpCCFP8pjo,spotify:track:1vldQihMz6A5SpCCFP8pjo,478320,4
+685,Lange & Skye,Drifting Away - Lange's Sunset Mix,2001,0.585,0.922,4,-8.342,0.0482,0.00275,0.863,0.176,0.0404,135.964,5d0mx2RZ6Wwi9jNjGdBz1y,spotify:track:5d0mx2RZ6Wwi9jNjGdBz1y,433262,4
+684,7 Skies & Static Blue,Central Park - Original Mix,2009,0.466,0.949,0,-7.428,0.048,8.77e-05,0.776,0.791,0.435,137.995,4ixQnZ2bnKKqPSQRNGX23v,spotify:track:4ixQnZ2bnKKqPSQRNGX23v,544375,4
+683,Filo & Peri & Eric Lumiere,Anthem - Original Radio Version,2013,0.545,0.966,6,-4.778,0.0513,0.00298,0.00031,0.368,0.444,136.015,5UhpYsnGYN3UleqcuwtICA,spotify:track:5UhpYsnGYN3UleqcuwtICA,202533,4
+682,Carl B,All Day - Original,2005,0.517,0.872,7,-9.884,0.0442,0.000188,0.921,0.0579,0.574,138.011,212tQ3HolstaFcd78jpjrO,spotify:track:212tQ3HolstaFcd78jpjrO,514656,4
+681,Super8 & P.O.S. & Aalto,5 - Original Mix,2006,0.68,0.613,1,-10.61,0.0951,0.000583,0.777,0.0914,0.475,133.996,1y5vlU9pxaDI3HyjP17wSU,spotify:track:1y5vlU9pxaDI3HyjP17wSU,458920,4
+680,A.r.d.i. & Cari,These Words - Original Mix,2015,0.502,0.978,0,-6.434,0.0591,8.31e-05,0.61,0.149,0.315,138.041,1avv7iCleXPpbccQzP7tfO,spotify:track:1avv7iCleXPpbccQzP7tfO,428229,4
+679,Ana Criado & A.r.d.i.,Still There's You - A.R.D.I. Remix,2017,0.444,0.995,4,-5.81,0.08,6.22e-05,0.386,0.499,0.386,139.977,58UBXVPmrWoPdruRqvNReu,spotify:track:58UBXVPmrWoPdruRqvNReu,382287,4
+678,Dimitri Vegas & Like Mike & Armin van Buuren & W&W,Repeat After Me - Extended Mix,2019,0.392,0.753,8,-3.901,0.058,0.000251,0.661,0.128,0.407,132.034,05aWwGFiy56ROICYyAMLe5,spotify:track:05aWwGFiy56ROICYyAMLe5,310909,4
+677,W&W,Moscow - Original Mix,2012,0.757,0.602,2,-6.453,0.0513,0.000311,0.143,0.0382,0.362,130.041,1r2tEsqmp0N1izLkYpa1ro,spotify:track:1r2tEsqmp0N1izLkYpa1ro,320308,4
+676,Andrew Rayel,Light Side Of The Harmony (FYH 200 Anthem) - Extended Mix,2020,0.654,0.906,5,-2.855,0.13,0.00487,0.0166,0.0985,0.251,129.973,2CpM7jfaQNmgjNQxEzIEVy,spotify:track:2CpM7jfaQNmgjNQxEzIEVy,353000,4
+675,Simon Patterson & Sarah Howells,Dissolve - Original Mix,2014,0.61,0.812,7,-5.42,0.0805,0.00177,0.677,0.134,0.127,132.025,2rXHDN2W5Jl3xRkhUSvS9i,spotify:track:2rXHDN2W5Jl3xRkhUSvS9i,481932,4
+674,Photographer & Susana,Find A Way,2015,0.537,0.942,0,-6.268,0.0431,0.000377,0.819,0.622,0.172,136.015,4NtIJlZ1npk0JUEtWSbPYg,spotify:track:4NtIJlZ1npk0JUEtWSbPYg,444000,4
+673,Ruben de Ronde & Jessika Dawn,Escape,2019,0.657,0.776,8,-4.087,0.0378,0.15,0.91,0.501,0.121,126.014,2uqc2BZtZXkeo6O8AUGmmd,spotify:track:2uqc2BZtZXkeo6O8AUGmmd,207017,4
+672,Aria,Dido - Armin Van Buuren's Universal Religion Mix,2000,0.491,0.938,5,-9.575,0.0437,8.26e-05,0.812,0.33,0.0763,139.972,1bo1YUmaRWQMBYPoLZcfty,spotify:track:1bo1YUmaRWQMBYPoLZcfty,688933,4
+671,System F,Cry - Original Extended,2000,0.608,0.782,10,-7.497,0.0365,0.000161,0.411,0.101,0.453,135.986,6oBCORvGD16mZ9bGOcLtXj,spotify:track:6oBCORvGD16mZ9bGOcLtXj,440253,4
+670,Perry O'Neil,Wave Force - Original Mix,2004,0.754,0.606,10,-9.179,0.0666,0.000301,0.939,0.0958,0.815,132.016,47wAu2rJmKwCHulpcrRvYP,spotify:track:47wAu2rJmKwCHulpcrRvYP,583053,4
+669,Dumonde,Never Look Back - Full On Vocal Mix,2013,0.511,0.868,7,-7.912,0.0636,0.0307,0.504,0.108,0.248,140.009,62Mx86q5VEiqqw0Hnjtupl,spotify:track:62Mx86q5VEiqqw0Hnjtupl,561747,4
+668,Denis Kenzo & Alexandra Badoi,More Time - Original Mix,2016,0.565,0.907,4,-5.162,0.0938,0.00112,0.00175,0.345,0.393,132.011,0qk7e4VAnp4YSnfN5b03GX,spotify:track:0qk7e4VAnp4YSnfN5b03GX,349091,4
+667,Super8 & Tab,Irufushi - Original Mix,2009,0.631,0.781,7,-7.393,0.0493,0.0254,0.82,0.0707,0.347,133.985,2t1rAU9tswttJrABhJyCql,spotify:track:2t1rAU9tswttJrABhJyCql,412396,4
+666,GAIA,In Principio - Original Mix,2015,0.562,0.936,11,-5.413,0.039,0.00798,0.649,0.885,0.0832,135.006,6TgiMaBO0HIoeOhUlEvAxs,spotify:track:6TgiMaBO0HIoeOhUlEvAxs,325270,4
+665,Jon O'Bir & FISHER & John O'Callaghan,Found A Way (feat. Fisher) - Joint Operations Centre Remix,2010,0.554,0.991,1,-3.629,0.104,0.000191,0.121,0.0835,0.14,136.99,1JKBybDRR1ugiaW5GhCufk,spotify:track:1JKBybDRR1ugiaW5GhCufk,497159,4
+664,Kamaya Painters,Far From Over,2000,0.765,0.697,11,-12.857,0.0507,1.24e-05,0.901,0.639,0.255,139.023,04RGASAXqnt4YtPf4K1lyY,spotify:track:04RGASAXqnt4YtPf4K1lyY,354293,4
+663,HALIENE & Ruben de Ronde,Dream In Color - Ruben de Ronde Remix,2018,0.687,0.786,8,-4.589,0.0839,0.01,0.0924,0.659,0.41,128.02,60UKKwL6Y75Q7puBqptFSD,spotify:track:60UKKwL6Y75Q7puBqptFSD,379000,4
+662,Aly & Fila & Jwaydan,Coming Home - Original Mix,2012,0.557,0.933,1,-5.547,0.066,0.00072,0.0539,0.0826,0.334,139.995,0tRQ1KKKRgAJxAQfE8b6nW,spotify:track:0tRQ1KKKRgAJxAQfE8b6nW,504000,4
+661,Zedd & Foxes,Clarity,2012,0.509,0.781,8,-3.48,0.072,0.0398,0,0.0749,0.176,128.0,60wwxj6Dd9NJlirf84wr2c,spotify:track:60wwxj6Dd9NJlirf84wr2c,271427,4
+660,Orjan Nilsen,Arctic Globe - Original Mix,2006,0.482,0.917,10,-9.768,0.0515,0.000156,0.902,0.309,0.202,138.015,23PHD3dgAmNpfg5xGxMg6T,spotify:track:23PHD3dgAmNpfg5xGxMg6T,482702,4
+659,Fabio XB & Ronnie Play & Gabriel Cage,Inside Of You - Cosmic Gate Remix,2009,0.778,0.503,1,-13.544,0.0814,0.015,0.89,0.0843,0.11,131.968,131SCKxgT2Rf5pVXoK2DGv,spotify:track:131SCKxgT2Rf5pVXoK2DGv,492727,4
+658,Ben Gold,Where Life Takes Us - Original Mix,2012,0.509,0.948,0,-5.165,0.0367,0.00015,0.921,0.0469,0.686,132.0,1tFejokZE7vIS0BzQaj4RX,spotify:track:1tFejokZE7vIS0BzQaj4RX,445455,4
+657,Cressida & Kyau & Albert,6AM - Kyau & Albert Update,2017,0.613,0.9,9,-4.259,0.0609,9.74e-05,0.835,0.037,0.523,133.995,31PWf9xgBHWEgVz2RceNRA,spotify:track:31PWf9xgBHWEgVz2RceNRA,453184,4
+656,Jorn Van Deynhoven,We Can Fly - Extended Mix,2016,0.643,0.933,11,-6.697,0.0858,0.0014,0.817,0.559,0.0722,136.0,650IoSOmTWS33SCkKkQBd1,spotify:track:650IoSOmTWS33SCkKkQBd1,412001,4
+655,Zoo Brazil & Leah,You Can Have It All - George Acosta Remix,2010,0.69,0.698,8,-7.103,0.0474,0.00156,0.345,0.0899,0.206,128.006,60ZFa4LqJ8WhjWuCuQA0Fw,spotify:track:60ZFa4LqJ8WhjWuCuQA0Fw,507499,4
+654,Cygnus X,The Orange Theme - Ferry Corsten's Moonman Orange Juice Remix,2001,0.623,0.976,8,-10.469,0.0487,8.71e-05,0.706,0.111,0.275,144.988,27fAWLPNIku5blqTmLv8bE,spotify:track:27fAWLPNIku5blqTmLv8bE,420827,4
+653,Giuseppe Ottaviani & Ferry Corsten,Magenta - Extended Mix,2013,0.607,0.705,2,-7.814,0.0301,0.000306,0.935,0.0885,0.294,131.989,0q4FZtQHF56LqkIRLPdY2Q,spotify:track:0q4FZtQHF56LqkIRLPdY2Q,442087,4
+652,Roman Messer & Roxanne Emery,Lullaby,2017,0.531,0.858,8,-5.599,0.0532,0.00288,0.00144,0.336,0.112,131.929,0oWtPDUbrZY1idnbq70ioi,spotify:track:0oWtPDUbrZY1idnbq70ioi,236373,4
+651,Sander van Doorn & Carol Lee,Love Is Darkness (feat. Carol Lee),2011,0.766,0.74,0,-4.257,0.0447,0.00152,0.0114,0.0518,0.27,129.999,1L8tRYYrbpVSKwP6ZjYozy,spotify:track:1L8tRYYrbpVSKwP6ZjYozy,461538,4
+650,PRAANA & Matt Fax & HALIENE,Kaleidoscope - Extended Mix,2019,0.651,0.881,9,-5.736,0.0395,0.00514,0.0851,0.093,0.209,121.983,0XuN6E7e5LmS3g8mS7iEmV,spotify:track:0XuN6E7e5LmS3g8mS7iEmV,420984,4
+649,Tenishia & Tiff Lacey,Burning From The Inside - Original Mix,2009,0.686,0.784,5,-7.907,0.0345,0.0446,0.366,0.424,0.266,132.003,3Wvw6sieM2VgKsWZfoqt3F,spotify:track:3Wvw6sieM2VgKsWZfoqt3F,418646,4
+648,Heatbeat,Paradise Garage - Piano Mix,2008,0.565,0.859,10,-8.062,0.0482,0.000485,0.786,0.069,0.552,130.001,6atYClF2HaaJl3tPhzv0K6,spotify:track:6atYClF2HaaJl3tPhzv0K6,450466,4
+647,Bedrock,Heaven Scent - Original Mix,1999,0.657,0.866,7,-15.268,0.058,0.00108,0.871,0.729,0.666,134.988,5lLpIhfhPGiU45tA5dYyH5,spotify:track:5lLpIhfhPGiU45tA5dYyH5,630354,4
+646,Andrew Rayel & Olivia Sebastianelli,Everything Everything - Extended Mix,2020,0.724,0.71,5,-5.118,0.0663,0.007,0.078,0.215,0.2,127.981,4enpm6PXOBLhWasBJQW8vR,spotify:track:4enpm6PXOBLhWasBJQW8vR,474000,4
+645,Nifra,Dark Harbour - Original Mix,2012,0.778,0.779,4,-7.832,0.452,0.00215,0.344,0.738,0.132,132.003,75d3gjlNm66KV3dxWtNFB7,spotify:track:75d3gjlNm66KV3dxWtNFB7,461283,4
+644,Sunlounger,Another Day On The Terrace - Intro Club Mix,2007,0.663,0.489,8,-10.109,0.0396,0.0464,0.928,0.362,0.522,130.001,3ZP89Ai0wNkdPAdi47FvCs,spotify:track:3ZP89Ai0wNkdPAdi47FvCs,526186,4
+643,Eco,|A Million Sounds, A Thousand Smiles - Original Mix|,2012,0.563,0.95,0,-6.081,0.0783,0.000745,0.93,0.889,0.295,137.994,3ZkxTid37K0Rb9hmujJaGI,spotify:track:3ZkxTid37K0Rb9hmujJaGI,457391,4
+642,Simon O'Shine,Wuthering Heights - Original Mix,2014,0.436,0.981,6,-6.661,0.0518,0.000102,0.912,0.345,0.289,138.018,3RxRPp05RBBWqDBYhduXBk,spotify:track:3RxRPp05RBBWqDBYhduXBk,566386,4
+641,Ultra Shock & Jorn Van Deynhoven,The Sound Of E - Jorn van Deynhoven Extended Remix,2018,0.62,0.863,7,-6.679,0.0503,0.00053,0.917,0.65,0.075,138.003,3UmyCiYdT5KjSL4PPpPmJp,spotify:track:3UmyCiYdT5KjSL4PPpPmJp,401840,4
+640,Armin van Buuren & Richard Bedford,Love Never Came,2013,0.588,0.903,6,-8.045,0.0613,0.00867,0.193,0.102,0.224,135.997,0ZwOZYhdYelmk0aoqa8pC9,spotify:track:0ZwOZYhdYelmk0aoqa8pC9,420667,4
+639,GAIA,Inyathi - Extended Mix,2016,0.593,0.889,7,-4.231,0.0585,0.0013,0.905,0.0252,0.606,134.989,3zESfsToBJ6R10OCHafF2n,spotify:track:3zESfsToBJ6R10OCHafF2n,442667,4
+638,Agnelli & Nelson,El Niño,1998,0.82,0.619,9,-9.081,0.263,0.0541,0.228,0.0764,0.339,135.038,6uT5ik8y32xN2bUfbUqC3w,spotify:track:6uT5ik8y32xN2bUfbUqC3w,616240,4
+637,Blank & Jones & Elles & Hiver & Hammer,Mind of the Wonderful - Hiver & Hammer Remix,2004,0.712,0.808,3,-10.912,0.0428,0.0417,0.806,0.0852,0.553,133.99,4k6qsy24rYLjnWlRpqzXwJ,spotify:track:4k6qsy24rYLjnWlRpqzXwJ,435288,4
+636,Adam White & Martin Grech,Ballerina [ASOT 165] - Original Mix,2004,0.368,0.995,1,-6.641,0.0629,3.85e-05,0.244,0.185,0.265,137.901,4a5J1g4h83VeYWXcl87ob3,spotify:track:4a5J1g4h83VeYWXcl87ob3,433328,4
+635,Ilse DeLange,The Great Escape,2006,0.328,0.7,2,-4.758,0.0342,0.359,5.65e-05,0.238,0.447,98.69,1fiBNt0Yu1UaSw0JRSZbms,spotify:track:1fiBNt0Yu1UaSw0JRSZbms,240893,4
+634,Gabriel & Dresden,Arcadia - Original Mix,2005,0.675,0.707,3,-11.596,0.0633,0.00294,0.82,0.0285,0.222,128.02,6MAH0HSyD0kYB431snWiL6,spotify:track:6MAH0HSyD0kYB431snWiL6,593041,4
+633,The Thrillseekers & Hydra,Affinity - The Thrillseekers Remix,2010,0.669,0.589,5,-10.772,0.0478,0.00152,0.887,0.0815,0.489,137.999,7e9U7kfPg5fv1MPXhDkO6G,spotify:track:7e9U7kfPg5fv1MPXhDkO6G,458247,4
+632,Way Out West & Tricia Lee Kelshall & Gabriel & Dresden,Mindcircus - Gabriel & Dresden Club Mix,2002,0.685,0.654,0,-6.235,0.0499,0.00279,0.127,0.0796,0.279,135.995,0CHIXgrfCIEAaIZgoRn5xx,spotify:track:0CHIXgrfCIEAaIZgoRn5xx,630760,4
+631,Alex M.O.R.P.H. & Paul van Dyk,We Are,2016,0.522,0.987,1,-4.878,0.0945,0.00111,0.883,0.215,0.467,134.007,2VwiHVZSISNB2SpGPAYCyt,spotify:track:2VwiHVZSISNB2SpGPAYCyt,439935,4
+630,MaRLo & Jano,The Dreamers - Original Mix,2015,0.658,0.783,6,-5.4,0.0416,0.000363,0.217,0.0831,0.0365,134.002,4JG4L8G6qhHIi6KTe1KhVi,spotify:track:4JG4L8G6qhHIi6KTe1KhVi,386500,4
+629,Matt Darey & Li Kwan & Carlos Martz,Point Zero - Matt Darey & Carlos Martz Remix,2018,0.608,0.592,11,-6.75,0.0394,0.000314,0.863,0.643,0.131,138.003,3sucihA4j5mHvk8BWcsD0P,spotify:track:3sucihA4j5mHvk8BWcsD0P,478261,4
+628,Armin van Buuren & Cosmic Gate,Embargo,2015,0.56,0.831,8,-7.02,0.0456,8.54e-05,0.962,0.0971,0.146,127.983,7vUwNqZYKChb2nHBVAJB43,spotify:track:7vUwNqZYKChb2nHBVAJB43,319467,4
+627,4 Strings,Catch A Fall - Club Mix,2010,0.557,0.823,10,-8.378,0.0442,0.000805,0.862,0.766,0.176,137.996,1mkUa7lMonClanW7Bas5kI,spotify:track:1mkUa7lMonClanW7Bas5kI,423573,4
+626,Jochen Miller,Brace Yourself - Extended Mix,2009,0.73,0.647,6,-8.841,0.0509,0.00291,0.773,0.122,0.166,129.997,6Amd8NHguAMZvMbqNQicVH,spotify:track:6Amd8NHguAMZvMbqNQicVH,495993,4
+625,Andy Duguid & Leah,Wasted,2009,0.787,0.753,8,-5.778,0.0419,0.000276,0.848,0.615,0.121,127.002,4RKeLXUWpRHzCKEYJPJRq6,spotify:track:4RKeLXUWpRHzCKEYJPJRq6,503124,4
+624,Gareth Emery & Ben Gold,Until We Meet Again - Extended Mix,2016,0.459,0.978,2,-4.637,0.0559,0.00038,0.905,0.164,0.359,131.989,5EJQKvwyzFxpXF63DV7fRs,spotify:track:5EJQKvwyzFxpXF63DV7fRs,383000,4
+623,Andrew Bayer & Alison May,Open End Resource - In My Next Life Mix,2018,0.685,0.365,11,-6.854,0.0697,0.00584,0.00756,0.0767,0.239,127.979,5CaX8GidvchhUq9sUXSrlO,spotify:track:5CaX8GidvchhUq9sUXSrlO,459609,4
+622,Allen Watts & Christina Novelli,My Gravity - Extended Mix,2019,0.457,0.995,2,-6.055,0.0518,0.000392,0.171,0.175,0.494,135.987,0GWupOjU1HEqQJKhXxNzLu,spotify:track:0GWupOjU1HEqQJKhXxNzLu,314241,4
+621,Mauro Picotto & Cosmic Gate,Lizard - Cosmic Gate Extended Remix,2019,0.655,0.757,4,-7.889,0.0579,0.00219,0.784,0.116,0.0371,129.979,6M15ZFsGMZ7Y1zGRKupbXS,spotify:track:6M15ZFsGMZ7Y1zGRKupbXS,405231,4
+620,Armin van Buuren & Cathy Burton,I Surrender [Bonus Track],2010,0.492,0.842,7,-7.54,0.0399,0.000146,0.731,0.0375,0.114,133.032,3GhJlyYAPPAaMwDLufPx9k,spotify:track:3GhJlyYAPPAaMwDLufPx9k,485440,4
+619,Andy Blueman,Florescence - Epic Mix,2017,0.413,0.97,0,-8.654,0.0462,2.33e-05,0.931,0.343,0.101,138.006,4xIohXSM3xApohFJLlvetk,spotify:track:4xIohXSM3xApohFJLlvetk,537391,4
+618,Lange & Gareth Emery,Another You Another Me - Original Mix,2006,0.674,0.797,5,-9.986,0.0511,2.71e-05,0.921,0.0339,0.488,134.994,3GIFgBK7JIjgE84W3wTBtD,spotify:track:3GIFgBK7JIjgE84W3wTBtD,469298,4
+617,Andrew Rayel,Aether,2011,0.604,0.872,7,-6.751,0.0473,0.0173,0.934,0.178,0.225,135.0,1lR1ESl8VGyocVfCQvkOHW,spotify:track:1lR1ESl8VGyocVfCQvkOHW,471125,4
+616,GAIA,4 Elements - Original Mix,2006,0.522,0.919,6,-9.798,0.0401,0.000125,0.862,0.186,0.0655,135.246,224kcwSPnyHuAUuv6Xl48y,spotify:track:224kcwSPnyHuAUuv6Xl48y,558613,4
+615,Faithless,We Come 1 2.0 (Armin Van Buuren Remix),2015,0.584,0.9,8,-6.855,0.0629,0.00314,0.664,0.17,0.163,131.985,7v6zA8UquijCr6gSjkASRS,spotify:track:7v6zA8UquijCr6gSjkASRS,326162,4
+614,Mark Otten,Tranquility - Original Mix,2004,0.555,0.718,7,-11.728,0.034,0.0127,0.721,0.0603,0.393,134.999,13cTM1aVZ075aa83jw2Lq8,spotify:track:13cTM1aVZ075aa83jw2Lq8,566369,4
+613,Carrie Skipper,Time Goes By - Super8 Deep Mix,2005,0.363,0.778,2,-6.891,0.0358,0.000147,0.392,0.0694,0.309,138.0,661azEeGCiEfYaGba0xQWN,spotify:track:661azEeGCiEfYaGba0xQWN,510627,4
+612,Monolink & ARTBAT,Return to Oz - ARTBAT Remix,2019,0.854,0.93,2,-7.528,0.0439,0.563,0.697,0.0815,0.192,123.998,0gwNGHcBRYtF7mvgUczVo1,spotify:track:0gwNGHcBRYtF7mvgUczVo1,480000,4
+611,Cosmic Gate & Emma Hewitt,Not Enough Time - Club Mix,2009,0.741,0.405,8,-10.194,0.136,0.00916,0.658,0.0319,0.465,131.993,7CRPl0UWfYKx1wIg4SGrax,spotify:track:7CRPl0UWfYKx1wIg4SGrax,516402,4
+610,Denis Kenzo & Sarah Lynn,Ashes,2015,0.645,0.89,3,-3.742,0.0998,0.00557,0.044,0.286,0.275,130.009,4pg6dmWxleGubWbzyEFAPl,spotify:track:4pg6dmWxleGubWbzyEFAPl,413538,4
+609,MaRLo & Roxanne Emery,A Thousand Seas - Extended Mix,2018,0.76,0.671,1,-4.53,0.0524,0.00888,0.0109,0.146,0.0921,131.995,1siwsM6k9QqUyq3un6QpYf,spotify:track:1siwsM6k9QqUyq3un6QpYf,378174,4
+608,Darren Porter,Spellbound - Original Mix,2013,0.486,0.842,6,-9.252,0.0477,0.00334,0.883,0.675,0.538,139.974,2MQyraAUFSQgd7ihiCiL7j,spotify:track:2MQyraAUFSQgd7ihiCiL7j,445753,4
+607,Karen Overton,Your Loving Arms - Club Mix,2013,0.783,0.689,2,-8.283,0.0675,0.00662,0.478,0.0865,0.544,126.013,6ANV9yQe68Q3BTRyGNFFKh,spotify:track:6ANV9yQe68Q3BTRyGNFFKh,533354,4
+606,Hardwell,Spaceman,2012,0.599,0.763,3,-3.727,0.0553,0.000262,0.794,0.241,0.118,127.997,1Ca2ELRlvACAeI7xz9c9jR,spotify:track:1Ca2ELRlvACAeI7xz9c9jR,379261,4
+605,Mike Koglin & DJ Uto,Yoake - Original Mix,2013,0.52,0.991,7,-7.387,0.0601,4.31e-05,0.829,0.144,0.456,138.034,21ZPATK1enCzi85mjJ5yh8,spotify:track:21ZPATK1enCzi85mjJ5yh8,484604,4
+604,Mike Foyle,Shipwrecked - Mike Foyle Vs John O'Callaghan Club Mix,2006,0.666,0.928,1,-7.505,0.0457,3.4e-05,0.812,0.131,0.939,132.006,0RgluFQ8GoufKe9uTM43Hb,spotify:track:0RgluFQ8GoufKe9uTM43Hb,468520,4
+603,Protoculture,Pegasus - Original Mix,2015,0.489,0.977,0,-7.316,0.0442,0.00164,0.938,0.0932,0.219,127.995,3fwk6GboaPdndWyXbsOelV,spotify:track:3fwk6GboaPdndWyXbsOelV,315000,4
+602,Armin van Buuren,Old Skool,2015,0.688,0.946,0,-5.694,0.0637,0.000646,0.171,0.35,0.51,131.994,2GhizOuKvp1ERczYqHmhkH,spotify:track:2GhizOuKvp1ERczYqHmhkH,236587,4
+601,Orjan Nilsen,Iconic - Extended Mix,2016,0.627,0.795,8,-4.308,0.148,0.0135,0.184,0.0823,0.36,127.981,1WUNnzoLAlFbMaWnhZ0ZAO,spotify:track:1WUNnzoLAlFbMaWnhZ0ZAO,337707,4
+600,Above & Beyond & Richard Bedford,Happiness Amplified - Above & Beyond Club Mix,2018,0.667,0.642,1,-7.092,0.0348,0.00177,0.0481,0.0806,0.129,125.984,338tJEQIJudIjGlgnYLjQu,spotify:track:338tJEQIJudIjGlgnYLjQu,407619,4
+599,Paul van Dyk & Aly & Fila & Sue McLaren,Guardian,2014,0.576,0.915,9,-6.122,0.0621,0.000194,0.494,0.131,0.147,137.994,7sx0a1dJE8esc838EfqdYM,spotify:track:7sx0a1dJE8esc838EfqdYM,478159,4
+598,Armin van Buuren,Face To Face,2008,0.548,0.754,11,-11.709,0.0348,0.0326,0.824,0.0788,0.0483,133.993,106dqdybZoV7maWIsMIqrh,spotify:track:106dqdybZoV7maWIsMIqrh,449627,4
+597,Gareth Emery,Exposure - Original Mix,2009,0.566,0.821,7,-7.99,0.0339,0.000103,0.656,0.615,0.425,135.006,4PqNOSX9jJWLuMo6kc1HMA,spotify:track:4PqNOSX9jJWLuMo6kc1HMA,457624,4
+596,Primer,Everlast - Original Mix,2004,0.616,0.96,7,-9.68,0.0367,1.05e-05,0.868,0.0951,0.391,138.998,6sBe0isyyjR85tdeMpnzBs,spotify:track:6sBe0isyyjR85tdeMpnzBs,547339,4
+595,Ruben de Ronde,Forever In Our Hearts - Spotlighted By Jorn van Deynhoven,2012,0.563,0.973,5,-5.429,0.0751,6.07e-05,0.833,0.316,0.0406,135.999,7I9Yt1KadJlRkMVAFouMvu,spotify:track:7I9Yt1KadJlRkMVAFouMvu,546218,4
+594,Bryan Kearney & Deirdre McLaughlin,Open My Mind,2018,0.555,0.988,10,-4.686,0.0456,0.00011,0.463,0.0446,0.148,137.996,0TYNOnVNvj87M2vy9yDltE,spotify:track:0TYNOnVNvj87M2vy9yDltE,431304,4
+593,Andrew Rayel,Epiphany - Extended Mix,2016,0.616,0.966,8,-3.16,0.242,0.000497,0.0322,0.117,0.135,129.972,2nrBBrKqsndpIkKxCtqjzp,spotify:track:2nrBBrKqsndpIkKxCtqjzp,292500,4
+592,A.r.d.i.,Beyond The Time - Original Mix,2013,0.542,0.894,3,-9.848,0.0706,0.00272,0.76,0.0737,0.128,140.033,62Hfuc7127M5ShdSSeSckm,spotify:track:62Hfuc7127M5ShdSSeSckm,450916,4
+591,Paul van Dyk,Another Way - Club Mix,2016,0.707,0.883,9,-11.724,0.0493,0.00109,0.848,0.0638,0.627,135.969,5VQMGQwcNIpDegZRG43S8f,spotify:track:5VQMGQwcNIpDegZRG43S8f,439547,4
+590,Above & Beyond,Anjunafamily - Extended Mix,2019,0.681,0.706,5,-6.144,0.0403,0.00202,0.567,0.114,0.181,130.005,1AWIH8gKJnD0gxDv3eIixY,spotify:track:1AWIH8gKJnD0gxDv3eIixY,398907,4
+589,Super8,Alba - Extended Mix,2018,0.504,0.989,0,-6.75,0.055,0.000128,0.922,0.234,0.687,138.007,5ACw0ufKYcsYYoTLcZf0Ga,spotify:track:5ACw0ufKYcsYYoTLcZf0Ga,529482,4
+588,Kyau & Albert,What It Takes - DJ Version,2020,0.735,0.68,7,-5.484,0.032,0.00156,0.718,0.0915,0.0384,126.017,3znO5HNP9kq2iBxzmStf64,spotify:track:3znO5HNP9kq2iBxzmStf64,392105,4
+587,Age Of Love & Jam & Spoon,The Age Of Love - Jam & Spoon Watch Out For Stella Mix,2009,0.737,0.469,1,-15.214,0.057,0.0131,0.821,0.0776,0.0956,130.001,0rgQp5Pi4C2G8vQrhaTS7b,spotify:track:0rgQp5Pi4C2G8vQrhaTS7b,408773,4
+586,Denis Kenzo & Sveta B.,Sunshine Blue - Extended Mix,2016,0.535,0.856,10,-5.687,0.0742,0.0122,0.00173,0.156,0.224,129.96,4SB8qaZNfbaslX3x43Pwvk,spotify:track:4SB8qaZNfbaslX3x43Pwvk,404308,4
+585,Jorn Van Deynhoven,Spotlight - Original Mix,2011,0.581,0.858,1,-6.016,0.057,0.000611,0.809,0.385,0.297,136.027,4k41X0DibqIjjz0fRChqE0,spotify:track:4k41X0DibqIjjz0fRChqE0,522519,4
+584,Ascension & Giuseppe Ottaviani,Someone - Giuseppe Ottaviani Extended Remix,2019,0.601,0.844,7,-6.698,0.0605,0.000865,0.481,0.0555,0.372,137.997,1diYeyhFzuVttzygCGcZva,spotify:track:1diYeyhFzuVttzygCGcZva,352525,4
+583,Masters & Nickson & Justine Suissa & Robert Nickson,Out There - Robert Nickson 2016 Extended Remix,2016,0.458,0.907,9,-6.593,0.036,8.21e-05,0.719,0.0613,0.282,138.017,3hNbNNSbSL3oTL601g4eIe,spotify:track:3hNbNNSbSL3oTL601g4eIe,450000,4
+582,Susana,Only Summer Knows - Original Mix,2017,0.529,0.99,4,-4.939,0.108,9.72e-05,0.824,0.556,0.11,139.992,54ijugTRoKuW1OYNFY6xgu,spotify:track:54ijugTRoKuW1OYNFY6xgu,444000,4
+581,GTR,Mistral,2010,0.504,0.905,11,-9.028,0.0284,0.0032,0.855,0.311,0.153,139.988,6QGEdxGcAUeor8Dz1wHe1y,spotify:track:6QGEdxGcAUeor8Dz1wHe1y,559670,4
+580,Tim Berg & Tim Bergling & Ash Pournouri & Avicii,Bromance - Avicii’s Arena Mix,2010,0.725,0.649,11,-11.269,0.0509,0.11,0.877,0.109,0.0353,126.018,74XMUtCLLEudJtL8r5Jt6K,spotify:track:74XMUtCLLEudJtL8r5Jt6K,495375,4
+579,Allen Watts,Blackout - Original Mix,2013,0.397,0.998,3,-3.188,0.0843,0.000246,0.918,0.951,0.755,138.007,5GNpH5NqK2Qb8P10IPh9zT,spotify:track:5GNpH5NqK2Qb8P10IPh9zT,446000,4
+578,Marco V,GODD - Original,2005,0.639,0.984,6,-5.499,0.0645,5.89e-05,0.362,0.451,0.151,139.991,2KSmanGYxEH2lstIlbU36t,spotify:track:2KSmanGYxEH2lstIlbU36t,374520,4
+577,Above & Beyond,Another Angel - Extended Mix,2019,0.661,0.614,11,-6.667,0.0457,0.000287,0.42,0.0767,0.245,128.005,3spXiW7K26TPCYr5hVJ8u3,spotify:track:3spXiW7K26TPCYr5hVJ8u3,345059,4
+576,Jorn Van Deynhoven & Christina Novelli,Waiting On The Other Side - Extended Club Mix,2020,0.512,0.989,5,-3.981,0.0765,0.000638,0.116,0.251,0.156,135.921,3LDUEKrp7pBlDxChjwaAiG,spotify:track:3LDUEKrp7pBlDxChjwaAiG,347674,4
+575,Giuseppe Ottaviani & Marc Van Linden,Until Monday - Original Mix,2006,0.651,0.835,2,-11.442,0.0599,0.00336,0.808,0.516,0.962,139.997,4aLHnUEKJKhmsjtzpWT2Pm,spotify:track:4aLHnUEKJKhmsjtzpWT2Pm,463187,4
+574,Tenishia,|Always Loved, Never Forgotten - The Day Will Come - Original Mix|,2012,0.571,0.979,8,-5.886,0.054,0.00123,0.894,0.237,0.443,132.977,4w9tva5F5XUdT6oMWZyvnr,spotify:track:4w9tva5F5XUdT6oMWZyvnr,478196,4
+573,Airwave & Rising Star,Sunspot - Album DCML Long Mix,2007,0.502,0.924,2,-9.711,0.0443,0.000154,0.889,0.306,0.707,129.982,3eVMqQIkT9oaJBspAtxZIz,spotify:track:3eVMqQIkT9oaJBspAtxZIz,544080,4
+572,Aly & Fila & Karim Youssef,Laily - Photographer Remix,2014,0.574,0.962,10,-5.711,0.0683,0.00509,0.843,0.0618,0.0631,137.996,4ags8SIP4c8bDlXSrBoy3L,spotify:track:4ags8SIP4c8bDlXSrBoy3L,417391,4
+571,Jan Johnston,Flesh - DJ Tiesto Mix,2001,0.544,0.884,7,-8.682,0.0362,4.99e-05,0.603,0.108,0.586,138.033,79y44pQ5wSmf3QIpjEOy5U,spotify:track:79y44pQ5wSmf3QIpjEOy5U,478173,4
+570,Arnej,They Always Come Back - Original Mix,2008,0.778,0.535,10,-8.968,0.0413,0.00239,0.954,0.0914,0.132,127.978,6IGZyProzZ6B71Tx2YQhGr,spotify:track:6IGZyProzZ6B71Tx2YQhGr,406880,4
+569,Above & Beyond & Gemma Hayes,Counting Down The Days - Above & Beyond Club Mix,2015,0.716,0.581,8,-5.29,0.0601,0.00373,0.0511,0.0856,0.331,128.011,5ptWvEd6ldRH8FP0vsKj31,spotify:track:5ptWvEd6ldRH8FP0vsKj31,421133,4
+568,ALPHA 9,Come Home - Extended Mix,2010,0.48,0.49,4,-7.092,0.0649,0.00764,0.889,0.12,0.0909,128.03,6dJxZxcSOMRZ42zKUoZHwC,spotify:track:6dJxZxcSOMRZ42zKUoZHwC,369413,4
+567,Artento Divini & Davey Asprey,A.D.D.A. - Extended Mix,2019,0.48,0.983,6,-5.132,0.0552,1.54e-05,0.925,0.145,0.0343,138.002,4uOv1HYqgEYrRWLoS4vGw6,spotify:track:4uOv1HYqgEYrRWLoS4vGw6,332142,4
+566,Freefall,Skydive,1998,0.672,0.729,9,-10.963,0.0438,0.0742,0.813,0.126,0.721,135.031,4Z25mFQyUa92qFElKTNvzA,spotify:track:4Z25mFQyUa92qFElKTNvzA,532760,4
+565,Mike Foyle,Pandora - The Blizzard Remix,2008,0.664,0.901,3,-8.817,0.0754,0.0568,0.023,0.1,0.395,129.008,6YfnR3EDTUTModq6qbTPnW,spotify:track:6YfnR3EDTUTModq6qbTPnW,587222,4
+564,Dash Berlin & Christina Novelli,Jar Of Hearts - Club Mix,2013,0.652,0.644,3,-5.829,0.0323,0.0216,0.0155,0.141,0.0729,128.013,7CxTPdTpJ35o9cfH8RUW1w,spotify:track:7CxTPdTpJ35o9cfH8RUW1w,363750,4
+563,Sarah McLachlan & Josh Gabriel & Dave Dresden,Fallen - Gabriel & Dresden Anti-Gravity Mix,2005,0.668,0.613,5,-12.142,0.0378,0.0308,0.762,0.0959,0.176,136.964,320AudJ754jC8BQAcLvipn,spotify:track:320AudJ754jC8BQAcLvipn,476613,4
+562,Jono Grant & Mike Koglin,Circuits - Original Mix,2004,0.547,0.823,7,-7.644,0.0445,0.00227,0.909,0.675,0.143,138.002,3OmkIqq10pCtRzCghdOdNK,spotify:track:3OmkIqq10pCtRzCghdOdNK,516387,4
+561,ARTY,Zara - Original Mix,2011,0.641,0.728,11,-5.966,0.0538,6.07e-05,0.881,0.67,0.1,132.005,1JfzeIQSkETo9z7UO3XooK,spotify:track:1JfzeIQSkETo9z7UO3XooK,444550,4
+560,Andain,Summer Calling - Airwave Club Mix,2002,0.566,0.795,10,-9.388,0.0394,0.00044,0.637,0.0777,0.0924,134.008,7AJghm2FBTe1uwAem7tcrO,spotify:track:7AJghm2FBTe1uwAem7tcrO,547333,4
+559,Markus Schulz,Remember This - Original Mix,2013,0.636,0.776,7,-6.873,0.0486,0.00262,0.85,0.183,0.0801,129.982,4m12uprXedxP1nqotRkayx,spotify:track:4m12uprXedxP1nqotRkayx,389915,4
+558,ARTY & Nadia Ali & BT,Must Be The Love - Original Mix,2012,0.718,0.555,6,-6.826,0.0412,0.007,0.198,0.0988,0.246,127.992,785v758iYH7Rh8JqGN16Ct,spotify:track:785v758iYH7Rh8JqGN16Ct,469966,4
+557,Orjan Nilsen,Lovers Lane - Original Mix,2010,0.576,0.597,7,-10.869,0.0444,3.82e-05,0.891,0.349,0.0778,129.991,0UdvNn02V4S7qvLBcYa6fn,spotify:track:0UdvNn02V4S7qvLBcYa6fn,465514,4
+556,Gareth Emery,Laserface 01 (Aperture) - Extended Mix,2019,0.674,0.708,9,-7.755,0.0485,0.000776,0.882,0.0617,0.137,135.988,4lJ6XAp7xBsfLz7F0Cp0vI,spotify:track:4lJ6XAp7xBsfLz7F0Cp0vI,238530,4
+555,Airwave,Alone In The dark,2015,0.564,0.831,3,-12.146,0.0543,0.00338,0.943,0.081,0.873,134.999,4BKVKOwyrvp0X9urGV6kq5,spotify:track:4BKVKOwyrvp0X9urGV6kq5,604373,4
+554,Beatsole,Before I Wake - Extended Mix,2017,0.579,0.918,5,-5.249,0.0792,0.00667,0.755,0.156,0.369,132.007,7l9jMtm6iJlJ0yCZ6BAE90,spotify:track:7l9jMtm6iJlJ0yCZ6BAE90,414555,4
+553,The Noble Six,Firewalker - Extended Mix,2017,0.437,0.989,6,-7.113,0.0415,0.000636,0.905,0.347,0.235,138.017,1caoG8pmCMz2dykdWH9U6B,spotify:track:1caoG8pmCMz2dykdWH9U6B,497311,4
+552,Orjan Nilsen,Legions - Original Mix,2012,0.655,0.756,7,-4.496,0.0532,8.47e-05,0.816,0.0818,0.21,132.015,7BOlfxjvfRwaDFvaYiloeI,spotify:track:7BOlfxjvfRwaDFvaYiloeI,451441,4
+551,Markus Schulz & Lachi & Fisherman,Far - Fisherman Extended Festival Mix,2019,0.634,0.826,4,-5.497,0.0676,0.000149,0.00285,0.234,0.0701,130.029,7rRBAR8QXGndi6kdcd5cpA,spotify:track:7rRBAR8QXGndi6kdcd5cpA,343385,4
+550,Dogzilla & Simon Patterson & Richie Kayvan,Dogzilla - Simon Patterson & Richie Kayvan Extended Mix,2003,0.514,0.919,1,-9.003,0.0496,0.00179,0.923,0.591,0.644,135.003,2hTBdWTGhi2LVITIeP7UZG,spotify:track:2hTBdWTGhi2LVITIeP7UZG,507712,4
+549,Electrovoya,Effervesce,2004,0.497,0.784,10,-12.185,0.0351,1.65e-05,0.434,0.0552,0.139,139.996,5caZQQ6esr4pn8Ds5hUV7R,spotify:track:5caZQQ6esr4pn8Ds5hUV7R,476571,4
+548,Daniel Kandi,Child - Original Mix,2007,0.596,0.874,7,-10.504,0.0642,0.00509,0.877,0.373,0.299,138.035,27066e9HNQWrqn4isUlcYz,spotify:track:27066e9HNQWrqn4isUlcYz,462187,4
+547,Alex M.O.R.P.H. & Protoculture,Waking Up The Stars - Original Mix,2012,0.558,0.885,6,-5.467,0.0531,0.000396,0.894,0.0285,0.568,131.977,30M6jv8Dq9wZNxiJsZ0z3r,spotify:track:30M6jv8Dq9wZNxiJsZ0z3r,496978,4
+546,Armin van Buuren & Rising Star,Touch Me - Original Vocal Mix,2001,0.584,0.852,7,-7.741,0.0325,0.0026,0.691,0.219,0.583,133.256,1FLW7yV6JFwdxPkk5GItpS,spotify:track:1FLW7yV6JFwdxPkk5GItpS,549667,4
+545,Ashley Wallbridge,Vision - Original Mix,2011,0.586,0.631,1,-9.017,0.0464,0.00169,0.879,0.0921,0.228,125.976,7vX4FFlvvU8Zyvdi8hDBi4,spotify:track:7vX4FFlvvU8Zyvdi8hDBi4,388095,4
+544,deadmau5 & Chris James,The Veldt - Original Mix,2012,0.678,0.756,9,-9.106,0.0299,0.118,0.547,0.0656,0.259,128.028,14HVpSRZSmH2T9p6Wba7EH,spotify:track:14HVpSRZSmH2T9p6Wba7EH,694427,4
+543,Inertia,The Chamber - Original Mix,2005,0.54,0.985,1,-8.202,0.0648,0.000173,0.787,0.348,0.392,138.985,390ES4GmUxLoNc6QRWarR5,spotify:track:390ES4GmUxLoNc6QRWarR5,520747,4
+542,Tillmann Uhrmacher,On the Run - Ocean to Shore Club Extended,2007,0.683,0.736,2,-7.242,0.0427,0.136,0.662,0.31,0.644,138.015,4kF2ybdVVoV4Gmfh0JVWUW,spotify:track:4kF2ybdVVoV4Gmfh0JVWUW,449956,4
+541,Armin van Buuren & Ana Criado & Albert & Kyau,Down To Love - Kyau & Albert Remix,2010,0.732,0.579,6,-9.086,0.0658,0.000117,0.755,0.0848,0.0796,132.008,7hGBbltJI6Gmq9YbbNvAzo,spotify:track:7hGBbltJI6Gmq9YbbNvAzo,454116,4
+540,Mark Sixma,Character - Original Mix,2013,0.651,0.831,8,-5.939,0.0463,0.00199,0.233,0.287,0.261,132.012,0vQFYw65QtzqA3WmEYrbiA,spotify:track:0vQFYw65QtzqA3WmEYrbiA,411364,4
+539,Sunlounger & Zara Taylor,Try To Be Love - Roger Shah Naughty Love Mix,2012,0.817,0.627,5,-6.466,0.315,0.00124,0.00175,0.0779,0.383,128.007,6pQGNENI5RC1apeOU67xxI,spotify:track:6pQGNENI5RC1apeOU67xxI,436875,4
+538,Chakra,Home - Above & Beyond Mix,2011,0.642,0.824,11,-8.402,0.0511,0.00301,0.877,0.289,0.35,137.991,7mNMMConZ5LWk8hcGPQTKJ,spotify:track:7mNMMConZ5LWk8hcGPQTKJ,431040,4
+537,John O'Callaghan,Stresstest - John Askew Remix,2012,0.576,0.994,10,-4.233,0.142,0.000196,0.928,0.154,0.163,139.989,4G04e7ISu8f8VBncBBIRU0,spotify:track:4G04e7ISu8f8VBncBBIRU0,507429,4
+536,Ruben de Ronde & Elevven & Lara,Shadow Of Us (Electronic Family 2019 Anthem) - Extended Mix,2019,0.66,0.806,5,-6.029,0.0545,0.00207,0.00834,0.0679,0.531,127.991,3366Rs3H8aJKRmURrUxTxe,spotify:track:3366Rs3H8aJKRmURrUxTxe,279959,4
+535,Armin van Buuren & Garibay & Jorn Van Deynhoven,Phone Down - Jorn van Deynhoven Extended Remix,2019,0.34,0.909,10,-5.864,0.0726,0.000394,0.57,0.56,0.233,138.024,6CDMNTY68bb57NeP6GvO7s,spotify:track:6CDMNTY68bb57NeP6GvO7s,372119,4
+534,Nu NRG,Dreamland,2014,0.625,0.873,6,-14.691,0.0421,0.00112,0.87,0.0347,0.602,138.955,3F3uo36lS4ebfhpxqeZFZW,spotify:track:3F3uo36lS4ebfhpxqeZFZW,484733,4
+533,Ilan Bluestone & Giuseppe De Luca,Bigger Than Love - Extended Mix,2020,0.701,0.787,10,-6.988,0.224,0.00698,0.0601,0.05,0.34,130.025,55paRlRdoV3G2sN3csToBc,spotify:track:55paRlRdoV3G2sN3csToBc,399240,4
+532,Members Of Mayday,10 In 01 - Paul Van Dyk Club Mix,2001,0.729,0.888,0,-13.237,0.0514,0.0005,0.744,0.341,0.639,138.0,3VSHHPLmNx9zEXWuxtWjrh,spotify:track:3VSHHPLmNx9zEXWuxtWjrh,540120,4
+531,Kyuss,Yeah,1992,0,0.0017,5,-30.227,0,0.793,0.253,0,0,0,0s6BnZCanXlkFA3xb9WRT1,spotify:track:0s6BnZCanXlkFA3xb9WRT1,3576,0
+530,Kensington,Sorry,2016,0.461,0.409,4,-8.479,0.0315,0.502,0,0.0979,0.0895,133.956,07uuo1yEND3oinbFZnYOvx,spotify:track:07uuo1yEND3oinbFZnYOvx,227440,4
+529,Ferry Corsten & Gouryella,Neba - Extended Mix,2016,0.446,0.945,7,-6.116,0.0365,1.56e-05,0.923,0.039,0.296,131.993,4GGrrmPZCPoe5Zq09kNuEf,spotify:track:4GGrrmPZCPoe5Zq09kNuEf,496992,4
+528,Airbase,Modus Operandi - Original Mix,2013,0.562,0.83,5,-8.188,0.049,0.014,0.933,0.661,0.444,129.975,42b0hEkbq4ftRW1NyNWN7g,spotify:track:42b0hEkbq4ftRW1NyNWN7g,472733,4
+527,Denis Kenzo & Sveta B.,Lullaby Lonely - Progressive Mix,2013,0.506,0.886,0,-6.763,0.213,0.381,0.93,0.115,0.0976,129.994,3cyIi4nnhw2hDyvwWmzgFb,spotify:track:3cyIi4nnhw2hDyvwWmzgFb,356308,4
+526,Ohmna & Nurlaila,Key Of Life - MaRLo Remix,2009,0.695,0.806,7,-8.147,0.0685,0.00113,0.155,0.338,0.212,132.002,6AVA0ZUmMS9NAPHv26Y25B,spotify:track:6AVA0ZUmMS9NAPHv26Y25B,500000,4
+525,Agnelli & Nelson & Aureus,Holding on to Nothing,2003,0.586,0.874,7,-9.51,0.0492,0.00126,0.82,0.271,0.339,140.002,7yU0CVzxfsw51AxA4x19f3,spotify:track:7yU0CVzxfsw51AxA4x19f3,672880,4
+524,Jorn Van Deynhoven,Headliner - Original Mix,2012,0.574,0.966,7,-3.871,0.171,0.000631,0.89,0.344,0.193,134.992,4KBNXYXJrD4LRNPnPDFesr,spotify:track:4KBNXYXJrD4LRNPnPDFesr,448000,4
+523,Cosmic Gate,Fire Wire - Club Mix,2000,0.78,0.949,8,-8.781,0.16,0.000521,0.839,0.101,0.0373,138.005,0fMz3bjORj7lIagRiVVPXj,spotify:track:0fMz3bjORj7lIagRiVVPXj,493467,4
+522,Super8 & Tab,Elektra - Original Mix,2008,0.565,0.701,9,-7.242,0.0446,9.82e-05,0.89,0.106,0.198,134.0,1iPCmoZjFScgrE2DuszIq4,spotify:track:1iPCmoZjFScgrE2DuszIq4,494853,4
+521,Above & Beyond,Surrender - Original Mix,2014,0.696,0.907,7,-8.699,0.0415,0.00992,0.911,0.123,0.186,140.006,544RqpJzs54nrlCU5NzvvS,spotify:track:544RqpJzs54nrlCU5NzvvS,454107,4
+520,Safri Duo,Played-A-Live (The Bongo Song),2001,0.634,0.97,8,-9.585,0.0569,0.0156,0.88,0.34,0.202,137.997,7uuo02BIR76qZ6ZXQhz7Ys,spotify:track:7uuo02BIR76qZ6ZXQhz7Ys,405693,4
+519,Above & Beyond & Zoë Johnston,Peace Of Mind - Extended Mix,2015,0.716,0.471,0,-6.553,0.0923,0.00777,0.000305,0.135,0.172,130.015,42Re1RR3ne5v07iVbpyEpW,spotify:track:42Re1RR3ne5v07iVbpyEpW,395707,4
+518,Marcel Woods,Advanced - Original Mix,2006,0.666,0.983,6,-6.282,0.0442,0.000644,0.874,0.111,0.207,138.021,65Lz9YUH6JX0gd5AymVnUo,spotify:track:65Lz9YUH6JX0gd5AymVnUo,437880,4
+517,Gareth Emery & Ashley Wallbridge & PollyAnna,Lionheart - Extended Mix,2019,0.536,0.786,1,-6.69,0.0434,0.000636,0.419,0.0963,0.175,132.003,0o21PxyY8Q6csa4u5SCnr6,spotify:track:0o21PxyY8Q6csa4u5SCnr6,327358,4
+516,Airscape & Armin van Buuren,L'esperanza - Armin van Buuren's Rising Star Remix,2009,0.627,0.871,8,-10.384,0.0448,0.0145,0.933,0.128,0.238,140.299,4ZxdFs9sqj4Qv1z7bSn9WM,spotify:track:4ZxdFs9sqj4Qv1z7bSn9WM,676667,4
+515,Omnia & Tilde & Ben Gold,For The First Time - Ben Gold Extended Remix,2018,0.508,0.959,2,-4.167,0.0317,0.000284,0.0354,0.0554,0.613,131.986,75QvbqqwBdutdwFEjAnp5U,spotify:track:75QvbqqwBdutdwFEjAnp5U,338917,4
+514,Driftmoon & Andy Blueman & DSharp,Exodus - Original Mix,2013,0.504,0.716,6,-8.804,0.036,0.000363,0.415,0.122,0.0383,131.992,5YNIkQE3T4rmHaFNbcirrY,spotify:track:5YNIkQE3T4rmHaFNbcirrY,400000,4
+513,Sean Tyas & Logistic,One More Night Out - Original Mix,2007,0.485,0.992,6,-6.905,0.0624,3.13e-05,0.784,0.353,0.373,139.99,4kiDT8CcP42aUPA3yn18z0,spotify:track:4kiDT8CcP42aUPA3yn18z0,531667,4
+512,Above & Beyond,Hello - Original Mix,2014,0.69,0.763,7,-7.063,0.0843,0.00313,0.762,0.0539,0.065,128.004,4Ah1Q2XyMj7VDJQ0ClJILl,spotify:track:4Ah1Q2XyMj7VDJQ0ClJILl,408547,4
+511,Chris Lake & Emma Hewitt,Carry Me Away (feat. Emma Hewitt),2007,0.808,0.728,0,-6.728,0.107,0.0352,0.768,0.425,0.307,125.997,2RdgQmyKRicDL1VuAuWPhU,spotify:track:2RdgQmyKRicDL1VuAuWPhU,498507,4
+510,Armin van Buuren & VanVelzen & Alex M.O.R.P.H.,Broken Tonight - Alex M.O.R.P.H. Remix,2009,0.58,0.984,4,-7.458,0.0783,9.94e-05,0.0793,0.385,0.293,135.99,5KujIWxd2NDdsIV3qDO3Sb,spotify:track:5KujIWxd2NDdsIV3qDO3Sb,547945,4
+509,Omnia & Everything By Electricity,Bones - Original Mix,2013,0.606,0.802,11,-4.975,0.046,0.00831,0.00861,0.0572,0.171,126.991,4WZd7tTKHnZN1tmGYR1CZz,spotify:track:4WZd7tTKHnZN1tmGYR1CZz,333164,4
+508,Ayla & Luke Bond & Ben Nicky,Ayla - Ben Nicky & Luke Bond Remix,2017,0.781,0.849,9,-4.871,0.0438,0.0137,0.773,0.0819,0.493,135.008,0eCD59q6r8y02UibR8vQqj,spotify:track:0eCD59q6r8y02UibR8vQqj,263111,4
+507,Michael Dow,Ascent,2007,0.588,0.935,8,-10.735,0.0411,0.000245,0.908,0.135,0.551,138.017,6P1HIDEMW7bMEHXGBiTyYY,spotify:track:6P1HIDEMW7bMEHXGBiTyYY,572747,4
+506,Dart Rayne & Yura Moonlight & Katty Heath & Allen & Envy,Stole The Sun - Allen & Envy Remix,2014,0.564,0.945,0,-6.698,0.0473,0.00328,0.419,0.691,0.0554,137.99,5lGlRgFZZ7sFQcgOutUzVT,spotify:track:5lGlRgFZZ7sFQcgOutUzVT,441753,4
+505,Afternova,Serenity - Andy Blueman Remix,2010,0.472,0.939,6,-7.334,0.0385,4.09e-05,0.827,0.334,0.215,137.979,2MaULagt5qaXtf7o2zPkdb,spotify:track:2MaULagt5qaXtf7o2zPkdb,570427,4
+504,Andrew Rayel & Emma Hewitt,My Reflection - Extended Mix,2017,0.633,0.687,2,-4.528,0.0401,0.000659,0.00265,0.602,0.188,128.036,4EjfhM51SWFnq7PYA4Regw,spotify:track:4EjfhM51SWFnq7PYA4Regw,373500,4
+503,Ahmed Romel & Simon O'Shine & Aly & Fila,The Love Potion - Aly & Fila Rework,2019,0.417,0.992,0,-6.018,0.0808,0.00762,0.947,0.384,0.0386,139.987,1SMzMmZxhhXZmJN1FB4j1a,spotify:track:1SMzMmZxhhXZmJN1FB4j1a,214286,4
+502,Armin van Buuren & Audrey Gallagher,Hold On To Me,2008,0.553,0.549,5,-11.435,0.0478,0.0205,0.774,0.142,0.0791,135.001,3sOJM1K9oi1dbht9Vzjpib,spotify:track:3sOJM1K9oi1dbht9Vzjpib,436013,4
+501,Lange & The Morrighan,Follow Me - Lange's Club Mix,2003,0.557,0.908,0,-8.494,0.0443,0.00017,0.747,0.183,0.498,139.854,7bbY135gafWRikvA2f9jjA,spotify:track:7bbY135gafWRikvA2f9jjA,392560,4
+500,Dennis Sheperd & Cold Blue & Ana Criado,Fallen Angel - Album Extended Mix,2011,0.628,0.787,8,-7.625,0.0531,0.000461,0.133,0.124,0.837,128.009,4sQwAHMbVCr0Tcumwx0cq7,spotify:track:4sQwAHMbVCr0Tcumwx0cq7,398031,4
+499,York,The Reachers of Civilisation,1999,0.64,0.622,11,-11.606,0.0424,0.0927,0.826,0.481,0.132,133.33,3UGF4JeUd4bjLBKDiDSMEr,spotify:track:3UGF4JeUd4bjLBKDiDSMEr,331440,4
+498,NWYR,Dragon,2017,0.428,0.886,2,-3.908,0.208,0.0122,0.779,0.272,0.108,132.176,3nClnL9F0yg0sn5T5N5FBo,spotify:track:3nClnL9F0yg0sn5T5N5FBo,216364,4
+497,Above & Beyond & Oceanlab,Another Chance - Above & Beyond Club Mix,2016,0.629,0.438,10,-6.084,0.049,0.00265,0.00826,0.0491,0.039,125.979,77yzD9sTjM8FykboWPs4WS,spotify:track:77yzD9sTjM8FykboWPs4WS,433500,4
+496,Ben Gold & Audrey Gallagher,There Will Be Angels - Extended Mix,2018,0.62,0.848,1,-6.496,0.0585,0.00161,8.14e-05,0.0777,0.195,133.958,7mfShPmOwZa6tsRnTnvQ7V,spotify:track:7mfShPmOwZa6tsRnTnvQ7V,343993,4
+495,Blank & Jones,The Nightfly,2000,0.639,0.793,5,-8.176,0.0508,0.000631,0.893,0.056,0.458,140.052,3GzzfSQHq6svBDd05ub4To,spotify:track:3GzzfSQHq6svBDd05ub4To,543486,4
+494,Paul van Dyk & Starkillers & Austin Leeds & Ashley Tomberlin,New York City - Original Mix,2015,0.628,0.826,10,-9.46,0.0464,0.00363,0.463,0.0716,0.204,135.087,79lY7HfbLHmjFvs1YI2otX,spotify:track:79lY7HfbLHmjFvs1YI2otX,325053,4
+493,Mark Otten,Mushroom Therapy - Armin Van Buuren Remix,2003,0.622,0.899,2,-10.701,0.0426,4.05e-05,0.847,0.214,0.19,132.995,3UDQlSwFRs9KGBQtUKq8Jr,spotify:track:3UDQlSwFRs9KGBQtUKq8Jr,579338,4
+492,Above & Beyond,Black Room Boy - Above & Beyond Club Mix,2013,0.75,0.497,10,-7.681,0.41,0.0583,0.124,0.0667,0.0788,127.996,3rej7c2ZJ1iaYpmNVDcwT0,spotify:track:3rej7c2ZJ1iaYpmNVDcwT0,443607,4
+491,Gareth Emery & Gavrielle & Craig Connelly,Far From Home - Craig Connelly Extended Remix,2016,0.478,0.989,1,-4.809,0.0466,0.00015,0.664,0.357,0.15,138.0,3KUKagIVDfdvvKG0cKh76o,spotify:track:3KUKagIVDfdvvKG0cKh76o,475185,4
+490,Andrew Rayel & Jwaydan,Until The End - Original Mix,2013,0.758,0.771,8,-4.531,0.0859,0.00994,0.00216,0.163,0.218,130.025,0WVzZSMwXxAlbyg4PwEN1A,spotify:track:0WVzZSMwXxAlbyg4PwEN1A,406154,4
+489,Ruben de Ronde & HALIENE,The Hardest Part - Extended Mix,2019,0.731,0.794,6,-4.808,0.0721,0.00227,0.00403,0.119,0.432,127.988,5PHzodSIIweH3PKlxx1ws1,spotify:track:5PHzodSIIweH3PKlxx1ws1,368000,4
+488,Conjure One & Tiësto,Tears From The Moon - Tiësto In Search Of Sunrise Remix,2002,0.635,0.888,11,-7.794,0.0458,0.000235,0.718,0.533,0.35,136.998,5gljjiXpHLgN2g3hc4QJvm,spotify:track:5gljjiXpHLgN2g3hc4QJvm,489880,4
+487,Armin van Buuren & Susana,If You Should Go - Original Mix,2008,0.572,0.898,2,-10.532,0.0368,1.44e-05,0.812,0.0535,0.868,138.002,4wVi2ta9VVXhyrEyJBfx08,spotify:track:4wVi2ta9VVXhyrEyJBfx08,466087,4
+486,Max Graham & Neev Kennedy,So Caught Up - Original Mix,2011,0.644,0.922,4,-7.318,0.0707,0.000134,0.504,0.102,0.398,132.022,7ISp1nhEWhfQET3oE7i8Pt,spotify:track:7ISp1nhEWhfQET3oE7i8Pt,446271,4
+485,Paul Webster & Angelic Amanda,Time - Sean Tyas Dub Mix,2009,0.509,0.952,6,-7.582,0.0591,0.000505,0.879,0.531,0.485,138.014,17dMAOIxr4gUKKdddaCDYF,spotify:track:17dMAOIxr4gUKKdddaCDYF,539130,4
+484,Armin van Buuren & W&W,D# Fat - Original Mix,2013,0.65,0.896,5,-4.068,0.0419,0.00388,0.865,0.108,0.203,127.977,1RDSc1VEq75TxyFOMgtWTu,spotify:track:1RDSc1VEq75TxyFOMgtWTu,328594,4
+483,Nic Chagall & Jonathan Mendelsohn,This Moment - Prog Mix,2009,0.704,0.572,11,-8.288,0.0509,0.0277,0.748,0.074,0.143,130.02,5bGX5s3GRgWFRPO3WTZjHQ,spotify:track:5bGX5s3GRgWFRPO3WTZjHQ,519942,4
+482,Ferry Corsten & The Thrillseekers,Sweet Sorrow - Thrillseekers Remix,2011,0.613,0.724,1,-10.87,0.0464,0.0283,0.943,0.0774,0.692,138.0,2QF8thttdKZEmy0uJLNTSy,spotify:track:2QF8thttdKZEmy0uJLNTSy,423485,4
+481,3rd Moon,Monsun - Original Mix,2009,0.571,0.994,8,-5.544,0.0609,0.000267,0.939,0.0411,0.297,139.994,5MXtI8ozZvcdsz5vVFn9OS,spotify:track:5MXtI8ozZvcdsz5vVFn9OS,510807,4
+480,Solid Sessions & Armin van Buuren,Janeiro - Armin van Buuren Remix,2002,0.541,0.897,1,-8.669,0.0403,0.000113,0.722,0.112,0.318,135.468,5KuYsjjGr3K2wSyNUxLbO5,spotify:track:5KuYsjjGr3K2wSyNUxLbO5,577413,4
+479,Jonas Steur & Jennifer Rene,Fall to Pieces,2007,0.68,0.807,0,-8.158,0.0364,0.0116,0.487,0.616,0.625,131.986,2A4krn27X5nwYJ4khnUuBD,spotify:track:2A4krn27X5nwYJ4khnUuBD,502006,4
+478,Quench & Nicholson,Dreams - Nicholson's Extended Cathedral Remix,2018,0.572,0.939,5,-4.021,0.0506,3.24e-05,0.899,0.0975,0.258,138.008,2JQhcavFjkLO5qtNA5891J,spotify:track:2JQhcavFjkLO5qtNA5891J,456004,4
+477,Armin van Buuren,We Are Here To Make Some Noise - Extended Mix,2012,0.639,0.765,11,-5.957,0.163,0.000876,0.865,0.0946,0.636,130.023,66tlojc0D8Z4hK2PAJMLiN,spotify:track:66tlojc0D8Z4hK2PAJMLiN,312715,4
+476,Solarstone & Aly & Fila,Touchstone - Aly & Fila Remix,2010,0.515,0.975,9,-5.051,0.0569,8.88e-05,0.838,0.105,0.166,139.99,232Mu7Ow1Mnk6PfQkd76Ha,spotify:track:232Mu7Ow1Mnk6PfQkd76Ha,482151,4
+475,Bogdan Vix & Renee Stahl,Forever - Original Mix,2014,0.558,0.935,7,-5.528,0.044,0.000376,0.744,0.0749,0.417,134.002,4SL4q1IARNLFEppPUSOzw6,spotify:track:4SL4q1IARNLFEppPUSOzw6,419216,4
+474,Gareth Emery,Sansa,2016,0.517,0.964,11,-5.402,0.0495,0.0104,0.775,0.269,0.0674,128.01,6gRY4HZcHxx1QWIEpvdAxm,spotify:track:6gRY4HZcHxx1QWIEpvdAxm,511143,4
+473,Aly & Fila & Ahmed Romel,Rebirth - Ahmed Romel Extended Remix,2018,0.514,0.912,0,-6.973,0.0388,0.000298,0.941,0.0967,0.228,137.996,6kaBZSxp4fakla0jFqgxiQ,spotify:track:6kaBZSxp4fakla0jFqgxiQ,549375,4
+472,Insigma,Open Our Eyes - Original Mix,2009,0.609,0.934,1,-11.137,0.0417,0.00745,0.832,0.0455,0.938,138.006,31UOp6cnFzwptyB7qEk351,spotify:track:31UOp6cnFzwptyB7qEk351,450573,4
+471,Above & Beyond & Spencer Brown & RBBTS,Long Way From Home - Extended Mix,2018,0.729,0.8,0,-7.193,0.0733,0.00519,0.439,0.0912,0.0636,128.011,2KOV2QovyeyB893fIjAChi,spotify:track:2KOV2QovyeyB893fIjAChi,382506,4
+470,First State & Anita Kelsey,Falling - Extended Version,2007,0.786,0.505,11,-8.585,0.0678,0.00226,0.658,0.255,0.399,129.974,42IFvIVqx82W4Tb1W2uKLo,spotify:track:42IFvIVqx82W4Tb1W2uKLo,602893,4
+469,The Thrillseekers & Hydra,Amber - Extended Mix,2016,0.615,0.727,7,-13.379,0.0322,0.00156,0.88,0.121,0.179,133.992,7EE127g0p8YQOS7rJ9Qj9p,spotify:track:7EE127g0p8YQOS7rJ9Qj9p,579500,4
+468,Zedd & Matthew Koma,Spectrum - Armin Van Buuren Remix,2012,0.676,0.711,0,-8.086,0.0545,0.0011,0.515,0.0895,0.325,129.978,2dxQ1qIFDkfbyBI82A56lQ,spotify:track:2dxQ1qIFDkfbyBI82A56lQ,388347,4
+467,VER:WEST & Tiësto,5 Seconds Before Sunrise,2020,0.648,0.824,3,-8.283,0.03,0.00769,0.946,0.381,0.425,121.997,0hz9lCgIKOtZthsP2JTPAL,spotify:track:0hz9lCgIKOtZthsP2JTPAL,275437,3
+466,Armin van Buuren,Save My Night - Extended Mix,2013,0.641,0.712,1,-5.698,0.0401,0.000733,0.863,0.058,0.565,129.99,74MlRjmOVEmnmSzMwFhsYb,spotify:track:74MlRjmOVEmnmSzMwFhsYb,337483,4
+465,Moogwai & Armin van Buuren,Viola - Armin van Buuren Remix,2013,0.533,0.746,4,-9.764,0.0446,1.16e-05,0.837,0.531,0.0696,139.28,5dhRNQ6FsqjzhxgxTzHKui,spotify:track:5dhRNQ6FsqjzhxgxTzHKui,599267,4
+464,Tiësto & Allure & Julie Thompson & Andy Duguid,Somewhere Inside - Andy Duguid Remix,2007,0.802,0.386,0,-10.824,0.063,0.0108,0.517,0.0872,0.137,131.996,5VoCPwyzxdP48QweshNvYo,spotify:track:5VoCPwyzxdP48QweshNvYo,483800,4
+463,Andain & Myon & Shane 54,Promises - Myon & Shane 54 Summer of Love Mix,2011,0.738,0.724,1,-7.672,0.0426,0.00114,0.483,0.0618,0.526,131.988,0W5JmbmuyZoFs31aw7Lj9J,spotify:track:0W5JmbmuyZoFs31aw7Lj9J,398852,4
+462,Armin van Buuren & Mark Sixma,Panta Rhei (Classic Bonus Track) - Original Mix,2015,0.618,0.875,6,-5.105,0.0664,0.000188,0.803,0.223,0.246,130.008,59X7mCBxVdrNp5iYZXfXzp,spotify:track:59X7mCBxVdrNp5iYZXfXzp,289002,4
+461,Sander van Doorn & Purple Haze & Frederick,Timezone (feat. Frederick) - Extended Mix,2011,0.664,0.691,7,-6.556,0.0489,0.0122,0.104,0.0815,0.148,128.016,0wlvGF0fmZrC26FGir7dcb,spotify:track:0wlvGF0fmZrC26FGir7dcb,474375,4
+460,Giuseppe Ottaviani & Stephen Pickup,No More Alone - Original Mix,2008,0.504,0.935,7,-6.344,0.0368,4e-06,0.765,0.196,0.26,139.998,52MzDJpa0ZEF6iiTr5F0M2,spotify:track:52MzDJpa0ZEF6iiTr5F0M2,528480,4
+459,ARTY,Kate - 2015 Remix,2015,0.6,0.741,7,-5.913,0.0323,0.288,0.756,0.0842,0.301,128.01,773VsaXBfxGYzEcoYkRDE7,spotify:track:773VsaXBfxGYzEcoYkRDE7,244229,3
+458,Albert Vorne,Formentera What - Gareth Emery Remix,2007,0.706,0.75,1,-7.815,0.0591,0.000145,0.778,0.283,0.561,134.988,0qY2uGVTzIuaTeaGdrREoG,spotify:track:0qY2uGVTzIuaTeaGdrREoG,480267,4
+457,Vast Vision & Fisher,Everything - Aly & Fila Remix,2009,0.555,0.982,2,-4.415,0.0547,3.23e-05,0.695,0.104,0.209,139.989,6P2xbyuzhrnkPmvceGuIFM,spotify:track:6P2xbyuzhrnkPmvceGuIFM,569143,4
+456,Armin van Buuren & Human Resource,Dominator - Extended Mix,2016,0.638,0.965,9,-3.525,0.437,0.00471,0.0155,0.152,0.11,131.983,4txAP9uHWwuq72U6MQLBOE,spotify:track:4txAP9uHWwuq72U6MQLBOE,262000,4
+455,W&W,Mainstage - Original Mix,2009,0.613,0.642,7,-8.734,0.0409,0.000305,0.813,0.671,0.0729,136.009,1B3xKD3HsH8LDeCLT1BHbe,spotify:track:1B3xKD3HsH8LDeCLT1BHbe,377647,4
+454,ARTY,Tim - Extended Mix,2018,0.504,0.824,4,-6.105,0.037,0.0102,0.882,0.0862,0.199,127.974,1odkKVWMA79nrKBrjIkEHL,spotify:track:1odkKVWMA79nrKBrjIkEHL,285469,4
+453,Breakfast,The Sunlight - Extended Mix,2007,0.547,0.742,9,-10.624,0.032,0.000299,0.958,0.0788,0.04,136.007,6simdlWUaDGgYStdOUPbss,spotify:track:6simdlWUaDGgYStdOUPbss,573152,4
+452,Ana Criado & Omnia,No One Home - Original Mix,2015,0.636,0.811,9,-5.421,0.0467,0.00495,0.692,0.896,0.535,132.995,6tgYzomLol3vpQQRKo1Pcb,spotify:track:6tgYzomLol3vpQQRKo1Pcb,399790,4
+451,Phynn,Lucid,2009,0.627,0.898,9,-6.646,0.0496,2.65e-05,0.92,0.172,0.684,136.977,7fFlhYQqTPH8CwdaYDA3Op,spotify:track:7fFlhYQqTPH8CwdaYDA3Op,445253,4
+450,Aly & Fila & Roger Shah & Sylvia Tosun,Eye 2 Eye [FSOE 350 Anthem] - Extended Mix,2014,0.488,0.983,0,-5.725,0.0491,3.3e-05,0.842,0.451,0.315,138.006,2M52EXrWpt43tFfb23Zlak,spotify:track:2M52EXrWpt43tFfb23Zlak,464348,4
+449,MaRLo,Enough Echo - Extended Mix,2018,0.603,0.947,4,-4.518,0.07,0.00388,0.658,0.687,0.093,135.023,3exVd4ZKDRczT27hDFlD97,spotify:track:3exVd4ZKDRczT27hDFlD97,356538,4
+448,4 Strings & Hiver & Hammer,Diving - Hiver & Hammer's Different Gear Remix,2002,0.534,0.777,1,-10.189,0.0452,0.00556,0.913,0.414,0.0465,140.004,3rCyyomNfjYdcRv7vEiEeJ,spotify:track:3rCyyomNfjYdcRv7vEiEeJ,562773,4
+447,Sander van Doorn & Purple Haze,Bliksem,2009,0.773,0.77,10,-4.923,0.0732,0.000668,0.892,0.124,0.0778,130.007,1n6ASprka5pSvL9jDTGkka,spotify:track:1n6ASprka5pSvL9jDTGkka,406907,4
+446,Above & Beyond & Zoë Johnston & Kyau & Albert,You Got To Go - Kyau & Albert Extended Mix,2020,0.711,0.618,5,-6.616,0.0423,0.000115,0.514,0.0716,0.384,132.01,5CgUkgzaO5ITSK6WW8SNu1,spotify:track:5CgUkgzaO5ITSK6WW8SNu1,407606,4
+445,Armin van Buuren,Stickup - Extended Mix,2019,0.753,0.886,11,-3.91,0.0479,0.0121,0.676,0.105,0.334,138.008,0A4ETy7ZUr3UUISHS7e6AW,spotify:track:0A4ETy7ZUr3UUISHS7e6AW,384349,4
+444,System F,Solstice - Original Extended,2011,0.462,0.944,9,-7.672,0.0472,1.17e-05,0.9,0.0866,0.217,138.029,4E7YADHh5xUMZ4LH1SspIa,spotify:track:4E7YADHh5xUMZ4LH1SspIa,523542,4
+443,Above & Beyond & Zoë Johnston,My Own Hymn - Extended Mix,2017,0.605,0.477,0,-13.496,0.0354,0.00137,0.027,0.0408,0.116,128.004,5TO2LbHv1kI0xjuSiRgpxH,spotify:track:5TO2LbHv1kI0xjuSiRgpxH,363750,4
+442,Alex M.O.R.P.H. & Natalie Gioia,Dreams - Original Club Mix,2013,0.713,0.727,3,-6.797,0.074,0.00222,0.823,0.104,0.33,131.981,13e0lX5D6zlz5zYJlEVwdU,spotify:track:13e0lX5D6zlz5zYJlEVwdU,523789,4
+441,Cosmic Gate,Exploration of Space - Extended Mix,2001,0.693,0.792,11,-7.303,0.0443,0.0016,0.833,0.109,0.207,138.011,2ESmL5hAN0USlS1PxWKAmb,spotify:track:2ESmL5hAN0USlS1PxWKAmb,495867,4
+440,Fred Baker & Nyram,Confirmation,2004,0.61,0.617,8,-9.402,0.0482,0.0143,0.921,0.0691,0.303,140.002,5xFtstTBrThJj0i8mzG4uQ,spotify:track:5xFtstTBrThJj0i8mzG4uQ,569280,4
+439,Tiësto,Nyana,2010,0.63,0.781,8,-10.064,0.0403,0.00149,0.878,0.103,0.304,140.02,16WulAQCJiM7GISjqpYOx0,spotify:track:16WulAQCJiM7GISjqpYOx0,404320,4
+438,Tilt,The World Doesn't Know - Original Mix,2005,0.615,0.835,10,-8.311,0.0374,0.00264,0.878,0.133,0.631,132.005,0OLfZRLQSI6FPIAngfHvVS,spotify:track:0OLfZRLQSI6FPIAngfHvVS,614560,4
+437,Hardwell & Armin van Buuren,Off The Hook - Original Mix,2015,0.6,0.987,11,-4.28,0.0507,0.000316,0.794,0.543,0.0337,129.995,3CVRNBEgjmTIPwxBnXqCpl,spotify:track:3CVRNBEgjmTIPwxBnXqCpl,345998,4
+436,Armin van Buuren & BT & Nation Of One,Always - Extended Mix,2019,0.639,0.844,11,-5.946,0.0409,0.000332,0.147,0.708,0.0616,126.986,3XJri9vONfk6hAbAJOqwh5,spotify:track:3XJri9vONfk6hAbAJOqwh5,342520,4
+435,|Cerf, Mitiska & Jaren & Dash Berlin|,You Never Said - Dash Berlin Remix,2008,0.799,0.398,7,-10.441,0.0595,0.00632,0.0868,0.305,0.572,131.995,1Ck4aPR4FM5iIYumtdLi63,spotify:track:1Ck4aPR4FM5iIYumtdLi63,560344,4
+434,Triple A,Winter Stayed - Armin van Buuren's On the Beach Mix,2011,0.603,0.787,2,-7.656,0.0352,0.000102,0.808,0.168,0.299,132.012,1FKou5UB9rOqfS6ry7DT3v,spotify:track:1FKou5UB9rOqfS6ry7DT3v,544644,4
+433,XiJaro & Pitch & LightControl,Whispers Of Time - Extended Mix,2019,0.415,0.977,10,-6.763,0.0815,7.57e-05,0.923,0.659,0.119,139.982,7sRx6dI9egHNPCxQZF8id8,spotify:track:7sRx6dI9egHNPCxQZF8id8,415071,4
+432,Will Atkinson,Telescope - Extended Mix,2020,0.499,0.947,8,-4.034,0.0626,0.000848,0.692,0.109,0.427,142.002,14EXFl8xx9q4JWryfgDl64,spotify:track:14EXFl8xx9q4JWryfgDl64,537465,4
+431,Andrew Rayel & Jonathan Mendelsohn,One In A Million - Original Mix,2014,0.78,0.587,2,-4.399,0.0516,0.00601,4.31e-05,0.107,0.385,128.025,2PkYMUUjACVGLsDVjMfUgY,spotify:track:2PkYMUUjACVGLsDVjMfUgY,277500,4
+430,Denis Kenzo & Alexandra Badoi,Lifetime Change - Original Mix,2014,0.594,0.871,8,-8.148,0.234,0.00396,0.518,0.256,0.452,131.497,6UaG2T7ZXW3K3SbttX1FLY,spotify:track:6UaG2T7ZXW3K3SbttX1FLY,383281,4
+429,Markus Schulz & Departure & Gabriel & Dresden,Without You Near - Gabriel & Dresden Remix,2005,0.719,0.382,1,-10.416,0.0322,0.000272,0.0186,0.66,0.216,134.009,6HYNL17hBc4oeQ8rvRiGaz,spotify:track:6HYNL17hBc4oeQ8rvRiGaz,669133,4
+428,Eric Prydz,Generate,2016,0.64,0.873,11,-5.142,0.0267,0.00813,0.0595,0.483,0.201,127.0,4Dg0FSovv3n8IBS9QMezTp,spotify:track:4Dg0FSovv3n8IBS9QMezTp,431107,4
+427,Envio,Touched By The Sun - Original Mix,2003,0.535,0.948,9,-9.041,0.0359,4.87e-05,0.845,0.11,0.277,137.831,04sOIvNuZeyvMCQaByhM1a,spotify:track:04sOIvNuZeyvMCQaByhM1a,515947,4
+426,Darren Porter,Terraforming - Original Mix,2013,0.456,0.964,6,-4.943,0.0763,0.000188,0.812,0.607,0.0407,140.005,0FcKmnVbJgs5c1jr6fWrHM,spotify:track:0FcKmnVbJgs5c1jr6fWrHM,399427,4
+425,Aly & Fila & Ahmed Romel,Kingdoms - Extended Mix,2016,0.434,0.979,0,-4.446,0.0479,5.13e-05,0.883,0.793,0.203,137.974,5uHu31z3icbLoFMtVx2zHD,spotify:track:5uHu31z3icbLoFMtVx2zHD,498000,4
+424,Armin van Buuren & Arkham Knights,This Is A Test - Arkham Knights Extended Remix,2017,0.742,0.867,7,-6.614,0.11,0.00265,0.772,0.0822,0.187,130.003,0M762QCUiiiae48VvJKbti,spotify:track:0M762QCUiiiae48VvJKbti,430867,4
+423,Allen Watts & Steve Dekay,Hologram - Extended Mix,2019,0.554,0.982,2,-5.875,0.131,0.000262,0.945,0.0561,0.314,139.965,3u1v2YwHnphIid70gxcdrW,spotify:track:3u1v2YwHnphIid70gxcdrW,348065,4
+422,Jerome Isma-Ae & Charlotte de Witte,Hold That Sucker Down - Charlotte de Witte Trance Remix,2020,0.761,0.845,7,-11.924,0.0626,0.00354,0.913,0.0884,0.0569,132.993,6lfGYkgOdM4AawLmFnbNgK,spotify:track:6lfGYkgOdM4AawLmFnbNgK,485419,4
+421,Armin van Buuren,Hystereo - Original Mix,2014,0.628,0.818,7,-4.985,0.0448,0.000145,0.498,0.0472,0.332,132.014,6fOgavsEFtpC17AEDXToEF,spotify:track:6fOgavsEFtpC17AEDXToEF,305690,4
+420,Cosmic Gate & Orjan Nilsen,Fair Game - Album Mix,2014,0.615,0.971,5,-4.456,0.0507,0.00942,0.916,0.0509,0.338,127.964,4QYkHH3E4GgJ1POePYNFcr,spotify:track:4QYkHH3E4GgJ1POePYNFcr,296250,4
+419,W&W,Arena - Original Mix,2008,0.794,0.486,8,-7.446,0.0742,0.00821,0.862,0.0994,0.192,127.993,1JCYIgK2lWNAfqOsfsp4MY,spotify:track:1JCYIgK2lWNAfqOsfsp4MY,438750,4
+418,FEEL & Alexandra Badoi & Frainbreeze,Did We Feel - Frainbreeze Progressive Dub Mix,2016,0.493,0.988,7,-4.653,0.0551,0.00194,0.911,0.137,0.221,130.007,6IaXc6pc1WCoacWQax07EB,spotify:track:6IaXc6pc1WCoacWQax07EB,279250,4
+417,16BL,Chant A Tune - Jeremy Olander Remix,2013,0.695,0.815,7,-7.784,0.0566,0.0486,0.81,0.373,0.158,125.003,1xnngJBD8y9YpPK4Inrxn8,spotify:track:1xnngJBD8y9YpPK4Inrxn8,422400,4
+416,Jonas Steur,Castamara - Original Mix,2005,0.528,0.642,10,-10.808,0.0395,0.000109,0.899,0.14,0.276,137.985,1N56dlFMVP5UBqUvzA4yFW,spotify:track:1N56dlFMVP5UBqUvzA4yFW,435000,4
+415,Armin van Buuren & Orjan Nilsen,Belter - Original Mix,2012,0.646,0.927,10,-4.387,0.109,0.00212,0.436,0.051,0.264,129.995,3PVFDK42hk5vxBM1yjii3A,spotify:track:3PVFDK42hk5vxBM1yjii3A,467588,4
+414,Faithless & Rollo Armstrong & Sister Bliss,Insomnia,1996,0.785,0.579,7,-10.069,0.0356,0.18,0.543,0.168,0.262,127.003,5z5wYWL1IO6y2yEFBOiGt0,spotify:track:5z5wYWL1IO6y2yEFBOiGt0,527240,4
+413,Solarstone & Scott Bond,3rd Earth - Original Mix,2004,0.589,0.953,11,-11.17,0.0534,0.00301,0.888,0.31,0.0591,137.022,2I0W1HmR7B1bBFoWi7LSfa,spotify:track:2I0W1HmR7B1bBFoWi7LSfa,533240,4
+412,Craig Connelly & Roxanne Emery,This Life - Extended Mix,2018,0.54,0.929,10,-5.959,0.072,0.000227,0.603,0.0867,0.102,137.956,68lCf0TiD9UfhfsgMvsjob,spotify:track:68lCf0TiD9UfhfsgMvsjob,414783,4
+411,MaRLo & Jano,Haunted - Original Mix,2014,0.662,0.744,11,-4.971,0.0516,0.00299,0.0672,0.406,0.21,131.997,4qGZja0cZLWR7ILYEKMzgq,spotify:track:4qGZja0cZLWR7ILYEKMzgq,403750,4
+410,Above & Beyond & Oceanlab,Lonely Girl - Gareth Emery Remix,2009,0.629,0.799,7,-6.658,0.0418,0.0238,0.692,0.912,0.805,133.981,1fY8JSIwCf26Ed87vdDnQI,spotify:track:1fY8JSIwCf26Ed87vdDnQI,468394,4
+409,Luke Bond & Roxanne Emery,On Fire - Aly & Fila Remix,2014,0.566,0.948,9,-6.166,0.0673,0.00184,0.411,0.241,0.303,139.993,52AVPKYmddHclPYUB3yWPY,spotify:track:52AVPKYmddHclPYUB3yWPY,496125,4
+408,Armin van Buuren & AVIRA & Be No Rain,Hollow - Extended Mix,2020,0.791,0.596,7,-10.047,0.0421,0.000731,0.799,0.181,0.173,126.003,4aIM1lEeUGHRHSzXtbogzL,spotify:track:4aIM1lEeUGHRHSzXtbogzL,369061,4
+407,Ilan Bluestone & Stoneblue & Emma Hewitt,Hypnotized - Extended Mix,2020,0.347,0.801,11,-5.419,0.105,0.000305,0.179,0.0852,0.367,137.988,0MOZDeAFFa6hyxuPFLbKcr,spotify:track:0MOZDeAFFa6hyxuPFLbKcr,342625,4
+406,Armin van Buuren & Sunnery James & Ryan Marciano,You Are,2017,0.754,0.86,1,-3.991,0.289,0.0992,0.00232,0.134,0.409,127.953,3d0pwyoTXmomnQXoVLhBQx,spotify:track:3d0pwyoTXmomnQXoVLhBQx,177250,4
+405,Omnia,CYBERPUNK - Extended Mix,2018,0.58,0.876,10,-3.915,0.0769,0.0019,0.000156,0.111,0.377,127.995,7gcvWV1PPh1TIll6ZrCc2y,spotify:track:7gcvWV1PPh1TIll6ZrCc2y,283724,4
+404,Armin van Buuren & BullySongs & Manse,Freefall - Manse Extended Remix,2017,0.46,0.814,2,-5.065,0.0429,0.222,1.11e-05,0.17,0.19,128.0,41oWHE2HBcBIsOeyG7WfkS,spotify:track:41oWHE2HBcBIsOeyG7WfkS,266250,4
+403,Orkidea & Solarstone,Unity - Solarstone Pure Mix,2011,0.63,0.829,5,-9.017,0.0513,0.000156,0.341,0.108,0.102,136.005,0ofKCZEmgla3AzpYiMBmeh,spotify:track:0ofKCZEmgla3AzpYiMBmeh,564052,4
+402,The Blizzard & Omnia,Metanoia - Original Club Mix,2010,0.551,0.962,7,-6.669,0.146,0.00951,0.457,0.355,0.437,133.977,3MxjlbCfKM9gry4ZvX8mRb,spotify:track:3MxjlbCfKM9gry4ZvX8mRb,453145,4
+401,Giuseppe Ottaviani,Keep Your Dreams Alive (A Dreamstate Anthem),2019,0.256,0.958,2,-7.63,0.0533,0.000871,0.683,0.13,0.264,137.978,5jKiLt943GZm2A8TpoeL7N,spotify:track:5jKiLt943GZm2A8TpoeL7N,212174,4
+400,Armin van Buuren & James Newman,Therapy - Extended Club Mix,2018,0.6,0.594,2,-8.222,0.0496,0.00496,0.107,0.0735,0.301,131.993,4MRMuTQwea3ZuzGbiLrvpc,spotify:track:4MRMuTQwea3ZuzGbiLrvpc,253667,4
+399,2nd Phase,Never Come Down - Norin & Rad Remix,2011,0.714,0.761,3,-6.672,0.0776,0.00276,0.913,0.574,0.645,131.994,7nymqBg7kNmliKzSJiDehh,spotify:track:7nymqBg7kNmliKzSJiDehh,470909,4
+398,Andrew Rayel,Musa - Original Mix,2013,0.759,0.908,0,-4.125,0.0809,0.0204,0.42,0.0963,0.261,133.987,1GQj703FQqeArbp0Q3ShGX,spotify:track:1GQj703FQqeArbp0Q3ShGX,472836,4
+397,Marcel Woods,Cherry Blossom,2005,0.652,0.958,4,-8.015,0.0547,0.000696,0.93,0.0796,0.0538,138.01,51XGLhfHsXcdPRujlfSZIT,spotify:track:51XGLhfHsXcdPRujlfSZIT,480947,4
+396,Fatum & Genix & Jaytech & Judah,All In - Extended Mix,2019,0.681,0.696,0,-7.043,0.0372,0.000477,0.00301,0.0632,0.162,128.0,7nNRO13w8UGcCCPtZ89waY,spotify:track:7nNRO13w8UGcCCPtZ89waY,380625,4
+395,Armin van Buuren & W&W,If It Ain't Dutch - Extended Mix,2016,0.639,0.952,11,-4.425,0.0953,0.00404,0.297,0.106,0.112,131.964,5AYy1twFqfOigMtCdG6vUr,spotify:track:5AYy1twFqfOigMtCdG6vUr,261000,4
+394,Armin van Buuren & Cathy Burton & Cosmic Gate,Rain - Cosmic Gate Remix,2008,0.694,0.513,6,-9.519,0.0481,0.00538,0.859,0.051,0.107,135.018,19W3KUD9P4i8CCEsOH6Pkk,spotify:track:19W3KUD9P4i8CCEsOH6Pkk,505067,4
+393,Gareth Emery,elise,2020,0.469,0.525,10,-12.986,0.0478,0.144,5.36e-05,0.101,0.14,129.967,7MPHgXUz1JtYD0ozqEQViw,spotify:track:7MPHgXUz1JtYD0ozqEQViw,234508,4
+392,Matlock & Luke Warner,Deep Psychosis - Daniel Kandi's Cure Mix,2008,0.64,0.954,4,-7.074,0.078,8.85e-05,0.722,0.283,0.0449,138.018,10VT1aW1WTPlPmk0IAHOjv,spotify:track:10VT1aW1WTPlPmk0IAHOjv,452325,4
+391,RAM & Arctic Moon & Stine Grove,A Billion Stars Above - Extended Mix,2017,0.525,0.996,11,-5.338,0.0902,0.000444,0.784,0.205,0.246,138.001,5bMusj4CzZw3wGt77QiTXy,spotify:track:5bMusj4CzZw3wGt77QiTXy,452040,4
+390,Armin van Buuren & Aruna & STANDERWICK,Won't Let You Go - STANDERWICK Remix,2013,0.535,0.913,6,-10.9,0.0839,0.00114,0.154,0.173,0.211,139.969,2daElxotFUUoT5NIbqEeMC,spotify:track:2daElxotFUUoT5NIbqEeMC,213143,4
+389,Ahmed Romel,Victory - Original Mix,2013,0.416,0.994,1,-5.447,0.074,0.000689,0.807,0.14,0.0681,137.977,24Pz2NWpxtj1ZjFn4bdMUp,spotify:track:24Pz2NWpxtj1ZjFn4bdMUp,619130,4
+388,Giuseppe Ottaviani,Tranceland - Extended Mix,2019,0.552,0.983,7,-7.257,0.0645,0.00406,0.903,0.388,0.526,137.99,7wcEYJ7dpPb7P99i8bJf6x,spotify:track:7wcEYJ7dpPb7P99i8bJf6x,375652,4
+387,Wiegel Meirmans Snitker & Armin van Buuren,Nova Zembla - Armin van Buuren Extended Remix,2011,0.591,0.87,11,-6.597,0.0402,0.00107,0.875,0.553,0.109,131.993,5oVMmBPj1rvtRzTpjYIShV,spotify:track:5oVMmBPj1rvtRzTpjYIShV,433872,4
+386,Graham Bell & SIVAN,The Sound Of Letting Go (Tribute To Yotam) - Extended Mix,2020,0.599,0.968,1,-5.977,0.0839,0.00335,0.092,0.121,0.197,134.98,4ZeQ8kzvv1nBBknlgeYSwe,spotify:track:4ZeQ8kzvv1nBBknlgeYSwe,448333,4
+385,Hans Zimmer & Klaus Badelt & Geoff Zanelli & Tiësto,He's A Pirate - Tiësto Orchestral Mix,2006,0.511,0.845,11,-9.143,0.0445,7.43e-05,0.869,0.331,0.615,139.982,1kQKvI4K3zmN1zI8ViSdeK,spotify:track:1kQKvI4K3zmN1zI8ViSdeK,423707,4
+384,Lange & Sarah Howells,Out Of The Sky ft. Sarah Howells - Kyau & Albert Mix,2008,0.668,0.884,0,-6.784,0.0469,0.000245,0.228,0.0987,0.366,132.006,7jlrYZaDZ0kziLxMt6H0rx,spotify:track:7jlrYZaDZ0kziLxMt6H0rx,441253,4
+383,Envio,For You - The Blizzard Remix,2008,0.59,0.92,0,-7.603,0.0484,0.000718,0.271,0.598,0.521,129.987,2DJD0GlnplgDevjBoDHrQv,spotify:track:2DJD0GlnplgDevjBoDHrQv,528865,4
+382,Armin van Buuren & Lauren Evans,Alone,2013,0.55,0.861,10,-6.526,0.0402,0.00592,0.00143,0.107,0.37,127.987,2N2Mp4HjnYcmrZ2YqrKedy,spotify:track:2N2Mp4HjnYcmrZ2YqrKedy,244067,4
+381,Andy Blueman,Time To Rest - Extended Mix,2017,0.44,0.82,10,-9.333,0.0366,2.88e-05,0.901,0.199,0.157,138.014,57VSH1HqKXmSTnv4N8hSzz,spotify:track:57VSH1HqKXmSTnv4N8hSzz,667826,4
+380,Atlantis & ReOrder,Fiji - ReOrder Extended Remix,2019,0.491,0.99,10,-5.755,0.0533,2.08e-05,0.821,0.405,0.282,137.997,410S92a759BdY9fLhfP0O2,spotify:track:410S92a759BdY9fLhfP0O2,361770,4
+379,Cosmic Gate & JES,Fall Into You - Extended Mix,2016,0.654,0.78,4,-5.979,0.242,0.00209,0.0504,0.074,0.172,127.962,476l2UIts2L4pzjGVfsQLN,spotify:track:476l2UIts2L4pzjGVfsQLN,394098,4
+378,Markus Schulz & Andy Moor,Daydream - Lemon and Einar K Uplifting Remix,2008,0.569,0.84,0,-8.775,0.0488,0.000228,0.797,0.6,0.379,134.007,0zi5ttm9AOOcMhuwNLjQQH,spotify:track:0zi5ttm9AOOcMhuwNLjQQH,446547,4
+377,Cold Blue & Del Mar & Sebastian Brandt,11 Days - Sebastian Brandt Remix,2015,0.496,0.839,8,-7.262,0.0402,0.00188,0.888,0.286,0.0407,138.001,2uiKNjQRlj90lR9Ms06NkD,spotify:track:2uiKNjQRlj90lR9Ms06NkD,506530,4
+376,Armin van Buuren,I Don't Own You,2010,0.569,0.664,3,-8.945,0.0293,0.0297,0.858,0.11,0.0483,134.99,18s5HkCmbwJm1UIkDQXJWG,spotify:track:18s5HkCmbwJm1UIkDQXJWG,405107,4
+375,Bobina & Betsie Larkin,You Belong To Me - Original Vox,2011,0.628,0.768,11,-7.638,0.0369,8.03e-05,0.00203,0.0549,0.259,134.982,0ZkhFENYKIm1ipxPVrkBQd,spotify:track:0ZkhFENYKIm1ipxPVrkBQd,510714,4
+374,Svenson & Gielen,Twisted - Original Mix,2001,0.613,0.972,9,-8.336,0.0439,0.000744,0.923,0.0267,0.376,139.996,7sxlsxI5x0g6bINKeJ0d2O,spotify:track:7sxlsxI5x0g6bINKeJ0d2O,529813,4
+373,Armin van Buuren & Sam Martin,Miles Away - Extended Mix,2019,0.525,0.98,5,-3.483,0.0518,0.000149,0.0452,0.113,0.119,139.982,1EDf7nLxhTvMRA9knxju96,spotify:track:1EDf7nLxhTvMRA9knxju96,349821,4
+372,Gareth Emery & Emma Hewitt,Take Everything - Extended Mix,2018,0.579,0.819,6,-5.94,0.0552,0.00933,0.00524,0.0659,0.363,133.919,5jLnmqmW9HxBEDX9bef8de,spotify:track:5jLnmqmW9HxBEDX9bef8de,268881,4
+371,Galen Behr & Hydroid & Orjan Nilsen,Carabella - Galen Behr vs Orjan Nilsen Extended Remix,2006,0.586,0.962,5,-6.681,0.0404,0.000143,0.894,0.674,0.119,137.997,3e3lM9qHJgVABWbO76Uf0Y,spotify:track:3e3lM9qHJgVABWbO76Uf0Y,468232,4
+370,8 Wonders,The Morning After - The Thrillseekers Remix,2007,0.666,0.726,1,-7.639,0.0371,0.00107,0.93,0.249,0.291,138.002,3mdhV5Un3XbY8fkNtxpA6X,spotify:track:3mdhV5Un3XbY8fkNtxpA6X,435907,4
+369,Basic Dawn & Nu NRG,Pure Thrust - NU NRG Remix,2012,0.597,0.94,9,-10.556,0.0729,7.26e-05,0.683,0.121,0.279,141.981,0uR8LuCtyxL0cDKk2Ru8gc,spotify:track:0uR8LuCtyxL0cDKk2Ru8gc,422150,4
+368,Solarstone & Aly & Fila,Fireisland - Aly & Fila Uplifting Mix,2012,0.476,0.914,7,-7.028,0.0718,0.00133,0.874,0.177,0.259,140.017,2dmqHXpJJOmSyyMIlruPeh,spotify:track:2dmqHXpJJOmSyyMIlruPeh,479016,4
+367,Protoculture,The Descent - Extended Mix,2017,0.5,0.932,1,-6.649,0.0526,1.23e-05,0.846,0.156,0.0333,128.056,42mEdJuHv27KrnjWYsOFp3,spotify:track:42mEdJuHv27KrnjWYsOFp3,380000,4
+366,Aly & Fila & Philippe El Sisi & Omar Sherif & Karim Youssef,The Chronicles - Extended Mix,2017,0.518,0.976,8,-4.761,0.0837,0.000103,0.686,0.39,0.508,138.007,07ECF7UKD6bznvzExSaL0F,spotify:track:07ECF7UKD6bznvzExSaL0F,514286,4
+365,Armin van Buuren & Mr. Probz & Mark Sixma,Another You - Mark Sixma Remix,2015,0.642,0.939,11,-3.41,0.0932,0.00531,0.0318,0.433,0.34,127.971,4V2zA8IDEMnU5PLdk88t3B,spotify:track:4V2zA8IDEMnU5PLdk88t3B,281719,4
+364,Armin van Buuren & HALIENE,Song I Sing - Extended Mix,2019,0.741,0.682,9,-5.398,0.0684,0.00676,0.00952,0.262,0.0778,129.965,6GGvjD0lesZnXP5uhQrbzQ,spotify:track:6GGvjD0lesZnXP5uhQrbzQ,428423,4
+363,Aly & Fila & Roger Shah & Adrina Thorpe,Perfect Love - Original Mix,2012,0.715,0.66,9,-6.825,0.0425,0.00288,0.0399,0.0494,0.633,131.993,4WDZOj8EVSmUhAtl5cJXhL,spotify:track:4WDZOj8EVSmUhAtl5cJXhL,394545,4
+362,JES & Will Atkinson,Imagination - Will Atkinson Extended Remix,2019,0.53,0.978,0,-5.174,0.0643,0.00301,0.315,0.275,0.336,139.984,5Ge0MqeTljiZ84X7sWpipK,spotify:track:5Ge0MqeTljiZ84X7sWpipK,531429,4
+361,Armin van Buuren & Rising Star,Clear Blue Moon - Original Mix,2002,0.557,0.946,10,-9.313,0.058,4.76e-05,0.825,0.115,0.153,136.97,39l0gBYeV7wAU6gS32r7Xn,spotify:track:39l0gBYeV7wAU6gS32r7Xn,447280,4
+360,Above & Beyond & Richard Bedford,Bittersweet & Blue - Above & Beyond Extended Club Mix,2020,0.652,0.543,10,-6.223,0.039,0.000506,0.127,0.155,0.154,127.981,5w9MjndiF9BC3TrssWWf4A,spotify:track:5w9MjndiF9BC3TrssWWf4A,376992,4
+359,Chicane & Justine Suissa & The Thrillseekers,Autumn Tactics - The Thrillseekers Remix,2000,0.588,0.648,2,-8.902,0.032,0.00744,0.707,0.0968,0.339,135.966,60iQ75aP8VjfQMInz1mBpw,spotify:track:60iQ75aP8VjfQMInz1mBpw,442517,4
+358,Armin van Buuren & Jennifer Rene,Fine Without You - Extended mix,2009,0.625,0.823,7,-9.91,0.0274,0.00365,0.352,0.286,0.714,133.981,1L2vPdMFAeLLDKwcU4Qqp1,spotify:track:1L2vPdMFAeLLDKwcU4Qqp1,399710,4
+357,Chicane,Offshore,2007,0.589,0.694,5,-9.043,0.0288,0.0568,0.866,0.18,0.44,127.886,59p0nAwXrILPtTa5SMtWub,spotify:track:59p0nAwXrILPtTa5SMtWub,417808,4
+356,Alex M.O.R.P.H. & Natalie Gioia,My Heaven - Original Mix,2014,0.573,0.738,6,-5.504,0.0438,0.000138,0.764,0.0763,0.182,132.002,6tr2SVCzTWv2rYelX3QT9z,spotify:track:6tr2SVCzTWv2rYelX3QT9z,393647,4
+355,Nalin & Kane,Beachball - Original Club Mix,1997,0.821,0.805,0,-8.766,0.0389,0.0239,0.926,0.083,0.403,133.992,1e7dNoyDnGH6QbR01djVGy,spotify:track:1e7dNoyDnGH6QbR01djVGy,622867,4
+354,Kyau & Albert,Made Of Sun - Kyau & Albert Hard Dub,2005,0.727,0.812,9,-8.146,0.0703,0.000292,0.455,0.18,0.119,138.005,2wTTkTaeLMczdFtPaWJVey,spotify:track:2wTTkTaeLMczdFtPaWJVey,432080,4
+353,Ferry Corsten & Ciaran McAuley,Mo Chara - Extended Mix,2020,0.518,0.92,1,-6.007,0.044,0.000121,0.866,0.0752,0.254,135.99,3FJ7I53vbPv35gUxevaPHH,spotify:track:3FJ7I53vbPv35gUxevaPHH,401602,4
+352,Armin van Buuren & Bonnie McKee & ReOrder,Lonely For You - ReOrder Extended Remix,2019,0.544,0.966,11,-5.681,0.0482,0.000419,0.614,0.048,0.319,137.986,7GGwVZuhTdBsPgJJKXOH6x,spotify:track:7GGwVZuhTdBsPgJJKXOH6x,368696,4
+351,Vincent de Moor & Cosmic Gate,Fly Away - Cosmic Gate Remix,2000,0.537,0.869,1,-10.364,0.04,0.00196,0.908,0.098,0.46,136.007,0mkU8U8ybevy4a1q5xDpfN,spotify:track:0mkU8U8ybevy4a1q5xDpfN,547348,3
+350,Aly & Fila & Ferry Tayle,Concorde - Extended Mix,2017,0.494,0.977,7,-4.966,0.0602,0.000195,0.862,0.0886,0.218,137.994,2xLurzWoeK0HfdtXUAxzxL,spotify:track:2xLurzWoeK0HfdtXUAxzxL,545143,4
+349,Marco V,Simulated - Original Mix,2001,0.67,0.977,6,-6.416,0.0869,0.000624,0.662,0.107,0.7,135.001,77d2Hrr6wDJ82Vfnq36ijE,spotify:track:77d2Hrr6wDJ82Vfnq36ijE,469787,4
+348,Chicane & Ferry Corsten,One Thousand Suns - Original Mix,2012,0.484,0.626,2,-9.114,0.0318,0.000214,0.927,0.0845,0.414,127.993,1lDmHiLgwQbRKfNtxlWVTg,spotify:track:1lDmHiLgwQbRKfNtxlWVTg,480650,4
+347,Armin van Buuren & Laura Jansen,Sound Of The Drums,2013,0.615,0.57,8,-8.975,0.0384,0.482,0.00146,0.146,0.312,131.855,7aM2uzoy4tcaELdvGLtsDZ,spotify:track:7aM2uzoy4tcaELdvGLtsDZ,235880,4
+346,Armin van Buuren & ARTY,Nehalennia - Original Mix,2013,0.598,0.76,4,-9.881,0.0693,0.000282,0.696,0.151,0.303,131.999,68vPrxwgb6ewsQ6BWybnEj,spotify:track:68vPrxwgb6ewsQ6BWybnEj,445455,4
+345,Chicane & Bryan Adams,Don't Give Up,2000,0.766,0.752,10,-9.023,0.0513,0.13,0.561,0.11,0.328,130.997,6xjHl59gsJXF03GgkBcv8e,spotify:track:6xjHl59gsJXF03GgkBcv8e,516640,4
+344,Armin van Buuren & Sander van Doorn,Control Freak - Sander van Doorn Remix,2006,0.646,0.769,6,-10.066,0.0512,0.0399,0.89,0.0479,0.158,136.024,27ZZH53psVHr4bRKrVICZ3,spotify:track:27ZZH53psVHr4bRKrVICZ3,438274,4
+343,Robert Nickson,Spiral,2010,0.507,0.635,9,-8.38,0.0433,2.37e-05,0.835,0.0519,0.149,137.0,4n5rZpRRb4rzRVRao6gm7a,spotify:track:4n5rZpRRb4rzRVRao6gm7a,554725,4
+342,Rex Mundi & Susana,Nothing At All - Original Mix,2009,0.656,0.529,10,-14.919,0.083,0.000861,0.121,0.658,0.362,127.976,4FGF6jhevD51g2g54l6zt8,spotify:track:4FGF6jhevD51g2g54l6zt8,517513,4
+341,Orjan Nilsen & Dennis Sheperd & Nifra & Estiva,Cabin Fever - Orjan Nilsen Extended Club Mix,2019,0.717,0.903,9,-3.481,0.0925,0.003,0.125,0.418,0.526,127.988,5MGCLDGDURTZhg97KyNgUq,spotify:track:5MGCLDGDURTZhg97KyNgUq,289697,4
+340,Armin van Buuren & Nadia Ali,Feels So Good - Armin van Buuren Club Mix,2011,0.774,0.736,10,-6.873,0.0819,0.000921,0.448,0.11,0.415,130.007,45xF9Aze9EnWu2FEAwqT0E,spotify:track:45xF9Aze9EnWu2FEAwqT0E,386102,4
+339,Dash Berlin & Jorn Van Deynhoven,Never Cry Again - Jorn van Deynhoven Remix,2010,0.464,0.906,5,-7.329,0.0453,0.000112,0.793,0.425,0.412,136.989,6bVMRYDQZlMc9a2YrIsly8,spotify:track:6bVMRYDQZlMc9a2YrIsly8,456983,4
+338,Andrew Bayer,Magitek - Extended Mix,2019,0.578,0.89,11,-6.971,0.0636,0.00684,0.209,0.0805,0.0916,128.044,708gKrtxgCnb2L5qhE20Af,spotify:track:708gKrtxgCnb2L5qhE20Af,421875,4
+337,Armin van Buuren,Together (In A State Of Trance) - Original Mix,2015,0.654,0.914,5,-5.109,0.0346,0.000539,0.816,0.0814,0.487,129.997,5hCPFtSkRr5R52NCxIQO4i,spotify:track:5hCPFtSkRr5R52NCxIQO4i,353477,4
+336,Oceanlab & Above & Beyond,Breaking Ties - Above & Beyond Analogue Haven Mix,2008,0.537,0.939,7,-8.653,0.0362,0.0642,0.811,0.149,0.239,138.02,5iYIXyhGscCWk6ztvVjI1A,spotify:track:5iYIXyhGscCWk6ztvVjI1A,487080,4
+335,Simon Patterson,Taxi,2010,0.595,0.863,0,-9.147,0.0616,0.00119,0.853,0.111,0.222,139.98,5O3BQ3WxGK7tmd0CrwYrE1,spotify:track:5O3BQ3WxGK7tmd0CrwYrE1,507429,4
+334,Jorn Van Deynhoven,101010 (The Perfect Ten) - Original Mix,2015,0.515,0.929,2,-4.273,0.0497,1.56e-05,0.954,0.274,0.422,133.978,0m5OVHB8GARCA36K8pKgR9,spotify:track:0m5OVHB8GARCA36K8pKgR9,357100,4
+333,Above & Beyond & Zoë Johnston,There's Only You - Above & Beyond Extended Club Mix,2019,0.583,0.849,5,-6.46,0.0417,0.00137,0.134,0.472,0.106,127.99,0KVOsDD049cZWWbq1uxNVk,spotify:track:0KVOsDD049cZWWbq1uxNVk,457500,4
+332,Alexander Popov & Attila Syah & Natalie Gioia,Nothing Is Over - Extended Mix,2018,0.503,0.903,9,-6.017,0.0742,0.000164,0.53,0.313,0.0522,131.99,2u8NXcZqsEpZ15lPW0ClvH,spotify:track:2u8NXcZqsEpZ15lPW0ClvH,385455,4
+331,Plumb,Need You Now (How Many Times) - Bryan Kearney Remix,2014,0.483,0.998,10,-5.748,0.0883,2.66e-05,0.745,0.906,0.152,139.986,6ffzu8r53hRRJdpGyNCvQz,spotify:track:6ffzu8r53hRRJdpGyNCvQz,445714,4
+330,Super8 & Tab & Julie Thompson,My Enemy - Rank 1 Remix,2011,0.669,0.788,1,-8.346,0.0533,0.00101,0.8,0.0933,0.149,130.987,09MGuL41ZLe9gzuMC4vgXe,spotify:track:09MGuL41ZLe9gzuMC4vgXe,516607,4
+329,BT & Adam K,Tomahawk - Original Mix,2011,0.748,0.745,10,-7.002,0.0483,0.00105,0.841,0.139,0.233,130.015,4WIXiJVpULdTIVDtOANKwG,spotify:track:4WIXiJVpULdTIVDtOANKwG,547057,4
+328,Matt Darey & Lost Tribe,Gamemaster - Original 1996 Mix,2018,0.57,0.991,4,-6.929,0.0514,0.00604,0.675,0.358,0.595,135.018,23AyySApyq5Dixm9367tup,spotify:track:23AyySApyq5Dixm9367tup,481013,4
+327,MaRLo,Visions - Original Mix,2013,0.774,0.948,4,-4.447,0.203,0.00176,0.086,0.114,0.2,133.985,0KZJ6ZJYKXbd6BoQARMesg,spotify:track:0KZJ6ZJYKXbd6BoQARMesg,316000,4
+326,Above & Beyond & Richard Bedford,On My Way To Heaven - Above & Beyond Club Mix,2012,0.744,0.515,10,-7.708,0.0446,0.00167,0.0667,0.0333,0.205,132.008,1kcBFIFeG8lPUV88o4ZNaT,spotify:track:1kcBFIFeG8lPUV88o4ZNaT,472685,4
+325,Andy Blueman,Sea Tides,2017,0.444,0.991,1,-6.567,0.0494,2.98e-05,0.831,0.359,0.261,138.015,78RifPofivahDctLwGxh7v,spotify:track:78RifPofivahDctLwGxh7v,526957,4
+324,Armin van Buuren,Rush Hour - Extended Mix,2007,0.65,0.756,6,-9.524,0.0738,0.00203,0.928,0.338,0.102,135.999,5Uwaj4i2hnGWAadzS30qxq,spotify:track:5Uwaj4i2hnGWAadzS30qxq,574013,4
+323,L.S.G.,Netherworld - Oliver Prime Remix,2009,0.633,0.981,5,-11.104,0.0581,0.0473,0.867,0.361,0.0858,138.011,3GOWlA87Hwm3LdhYZYe5jB,spotify:track:3GOWlA87Hwm3LdhYZYe5jB,667293,4
+322,Rank 1,Awakening - Original,2001,0.706,0.95,10,-8.215,0.0639,0.000715,0.9,0.0783,0.576,139.023,4UuIb3XPkOP1BfQ0QL8imD,spotify:track:4UuIb3XPkOP1BfQ0QL8imD,492440,4
+321,DJ's United,Remember Love - Original Mix,2011,0.569,0.78,1,-5.537,0.0384,0.000186,0.71,0.601,0.0873,137.992,1w0aVYpZ5YFGtoNgKxqTiP,spotify:track:1w0aVYpZ5YFGtoNgKxqTiP,450293,4
+320,Above & Beyond & Tranquility Base,Oceanic - Original Mix,2007,0.516,0.938,1,-7.141,0.044,0.000125,0.882,0.788,0.183,137.997,09d1QWH73sjjyKYc0Mu82I,spotify:track:09d1QWH73sjjyKYc0Mu82I,375493,4
+319,Solarstone & Clare Stagg,Jewel - Pure Mix,2013,0.559,0.775,6,-6.412,0.0428,0.000144,0.0306,0.378,0.153,136.001,5HT9h9cAbv9viqHNPR77sX,spotify:track:5HT9h9cAbv9viqHNPR77sX,554910,4
+318,GAIA,Stellar - Original Mix,2011,0.607,0.845,10,-7.835,0.0354,9.88e-05,0.896,0.655,0.04,131.995,5GMQERVSNWTlhZmYyzwOBs,spotify:track:5GMQERVSNWTlhZmYyzwOBs,454358,4
+317,Above & Beyond,Blue Monday - Extended Mix,2020,0.756,0.68,2,-5.478,0.051,0.00118,0.36,0.0731,0.402,130.018,4p8nSq1bAIIbhvUtgYTXZm,spotify:track:4p8nSq1bAIIbhvUtgYTXZm,416250,4
+316,Dash Berlin & Jonathan Mendelsohn,Better Half Of Me,2012,0.528,0.801,7,-6.664,0.044,0.0915,6.43e-05,0.186,0.225,133.977,1PY0gYjiCbwX6RZi0DsMLA,spotify:track:1PY0gYjiCbwX6RZi0DsMLA,411938,4
+315,Solarstone & Clare Stagg,The Spell - Solarstone Pure Mix,2012,0.699,0.697,2,-8.038,0.0368,4.67e-05,0.00769,0.231,0.307,135.983,1WMEEAXQ4mfzrplOFft7kZ,spotify:track:1WMEEAXQ4mfzrplOFft7kZ,521238,4
+314,Armin van Buuren & Markus Schulz,The Expedition (A State Of Trance 600 Anthem) - Original Mix,2013,0.541,0.916,0,-6.708,0.0404,0.000272,0.603,0.782,0.0564,132.994,5rYur3nFWrbtBwLy8IHZSv,spotify:track:5rYur3nFWrbtBwLy8IHZSv,422012,4
+313,Andrew Rayel & Robbie Seed & That Girl,Stars Collide - Extended Mix,2020,0.566,0.915,9,-5.527,0.0479,2.65e-05,0.114,0.105,0.259,137.982,06RxJMj46buoCSARBCAsSB,spotify:track:06RxJMj46buoCSARBCAsSB,373597,4
+312,Bryan Kearney & Christina Novelli,By My Side - Extended Mix,2016,0.557,0.963,8,-6.438,0.0459,8.93e-05,0.81,0.0451,0.308,140.004,5CJhK3Jl5pcZuetfVRngQd,spotify:track:5CJhK3Jl5pcZuetfVRngQd,388167,4
+311,Armin van Buuren & Jacqueline Govaert,Never Say Never - Extended Mix,2009,0.678,0.608,0,-9.092,0.0309,0.00545,0.341,0.123,0.0799,134.007,57sp216X7QhTDsEF96XjGK,spotify:track:57sp216X7QhTDsEF96XjGK,421707,4
+310,Bobina & Andrew Rayel,Sacramentum - Andrew Rayel Aether Mix,2013,0.72,0.83,7,-3.268,0.146,0.00632,0.0231,0.185,0.247,132.009,6HPGaHi7IfWXqHrvXzFcRl,spotify:track:6HPGaHi7IfWXqHrvXzFcRl,461818,4
+309,Ferry Corsten,Punk - Vocal Extended,2002,0.57,0.602,7,-10.565,0.0338,0.000494,0.89,0.118,0.191,135.02,1fVnmta1rPvcxwdEcL2ixF,spotify:track:1fVnmta1rPvcxwdEcL2ixF,458200,4
+308,Cerf & Mitiska & Jaren,Light The Skies - Retrobyte Classic Electrobounce Mix,2007,0.696,0.807,0,-6.104,0.0389,0.012,0.712,0.514,0.802,125.984,4hyuIfc2PG2BpEqtBpR2yl,spotify:track:4hyuIfc2PG2BpEqtBpR2yl,493067,4
+307,Dash Berlin & Emma Hewitt,Disarm Yourself,2012,0.507,0.928,6,-5.501,0.0931,0.109,0.000254,0.0812,0.0487,133.986,338rbjXJRO4KuEG4vmINW2,spotify:track:338rbjXJRO4KuEG4vmINW2,390447,4
+306,Above & Beyond & Seven Lions & Opposite the Other,See The End - Extended Mix,2019,0.571,0.707,7,-6.604,0.0518,0.00145,3.32e-05,0.0556,0.108,128.006,6AW2EpGhPMRuvo397iyP2r,spotify:track:6AW2EpGhPMRuvo397iyP2r,279093,4
+305,Armin van Buuren & Rising Star & Betsie Larkin,Again - Armin van Buuren Extended Remix,2016,0.531,0.847,9,-6.265,0.0369,0.000322,0.287,0.635,0.286,132.01,1kpcbgAjTu9J2mHbiO1vfw,spotify:track:1kpcbgAjTu9J2mHbiO1vfw,371000,4
+304,Armin van Buuren & Jaren,Unforgivable - Extended Mix,2009,0.707,0.51,7,-11.818,0.0451,0.00194,0.282,0.595,0.392,129.995,2xHT7SwVBVQuasDDqzU8EQ,spotify:track:2xHT7SwVBVQuasDDqzU8EQ,493973,4
+303,Above & Beyond,Is It Love? (1001),2018,0.657,0.486,6,-12.415,0.0344,0.202,0.916,0.0795,0.32,124.008,5atCrwrn8zo69is3zRIM3Z,spotify:track:5atCrwrn8zo69is3zRIM3Z,344027,4
+302,Assaf & Cassandra Grey,All Of You - Extended Mix,2019,0.771,0.576,0,-8.932,0.0904,0.00194,0.664,0.316,0.293,131.001,7wNcndETbMGceXa81F8TBq,spotify:track:7wNcndETbMGceXa81F8TBq,464970,4
+301,M.I.D.O.R. & Six4eight,No Man's Land,2005,0.724,0.908,11,-10.15,0.0552,0.00408,0.821,0.103,0.252,138.015,5HR0lSlfmpljt3BMMBkawJ,spotify:track:5HR0lSlfmpljt3BMMBkawJ,272213,4
+300,Daniel Kandi & Timmus,Symphonica,2010,0.563,0.95,7,-4.969,0.0445,6.31e-05,0.761,0.115,0.45,135.99,4CmBkPsdbA7ULIVoGC3MfJ,spotify:track:4CmBkPsdbA7ULIVoGC3MfJ,462412,4
+299,Ferry Corsten & HALIENE,Wherever You Are - Extended Mix,2018,0.587,0.459,2,-10.149,0.0414,0.000224,0.498,0.0967,0.0791,129.968,4qkVBJBifgwWIgvZkZdaUt,spotify:track:4qkVBJBifgwWIgvZkZdaUt,450703,4
+298,Craig Connelly & Jessica Lawrence & John O'Callaghan,How Can I - John O'Callaghan Extended Remix,2017,0.626,0.899,7,-6.772,0.0485,0.000589,0.575,0.65,0.0336,139.99,0URVVgGE7nml5poIL1ytge,spotify:track:0URVVgGE7nml5poIL1ytge,423956,4
+297,Armin van Buuren & Ray Wilson,Yet Another Day - Original Mix,2006,0.528,0.954,4,-9.241,0.0515,4.28e-05,0.627,0.1,0.422,133.982,5pOgi4TmVOfa0dP6TrRVbl,spotify:track:5pOgi4TmVOfa0dP6TrRVbl,620787,4
+296,RAM & Stine Grove,Forever and a Day - Original Mix,2016,0.546,0.97,1,-6.234,0.198,0.00277,0.218,0.118,0.0389,137.994,5Q9KffxzsfEnpruQVeRSdD,spotify:track:5Q9KffxzsfEnpruQVeRSdD,502666,4
+295,Dogzilla,Without You - Dogzilla Extended Dub Mix,2005,0.567,0.819,2,-8.174,0.0424,4.81e-05,0.789,0.9,0.286,138.016,7AWYwmoGI6j1wwIj5QJGaI,spotify:track:7AWYwmoGI6j1wwIj5QJGaI,422205,4
+294,KhoMha,Tierra - Extended Mix,2018,0.565,0.99,6,-4.359,0.063,0.000201,0.808,0.0798,0.04,128.007,72bj0Ky0yJYiaD9P2oA1up,spotify:track:72bj0Ky0yJYiaD9P2oA1up,308205,4
+293,Andrew Rayel & Jano,How Do I Know - Club Mix,2012,0.643,0.814,6,-4.318,0.0455,0.00469,0.46,0.0725,0.271,134.036,4TgCG8KJgFf3Tiaxo2ClRT,spotify:track:4TgCG8KJgFf3Tiaxo2ClRT,392239,4
+292,Armin van Buuren & Ana Criado,Suddenly Summer - Original Mix,2012,0.562,0.909,11,-6.507,0.0496,0.000524,0.534,0.0836,0.08,129.986,2h46kmf6QQms2HP9ezz8Rf,spotify:track:2h46kmf6QQms2HP9ezz8Rf,516923,4
+291,Susana & The Blizzard & Omnia,Closer - Extended Mix,2010,0.624,0.836,11,-8.951,0.0781,0.0205,0.034,0.328,0.424,130.991,7MAN3OauW7hyy1CmZFMqDL,spotify:track:7MAN3OauW7hyy1CmZFMqDL,472602,4
+290,Sean Tyas,Drop (Original Mix),2007,0.47,0.969,10,-7.195,0.0475,9.46e-05,0.862,0.35,0.31,139.988,2nSu86CgQ68RVUaF0gIvgu,spotify:track:2nSu86CgQ68RVUaF0gIvgu,530999,4
+289,Gabriel & Dresden,Tracking Treasure Down - Original Mix,2006,0.681,0.636,4,-7.114,0.0688,0.000847,0.0475,0.0891,0.191,135.017,6hYyiunELXzyWnhqJhpoHW,spotify:track:6hYyiunELXzyWnhqJhpoHW,621640,4
+288,Armin van Buuren & Photographer,Who's Afraid Of 138?! - Photographer Remix,2013,0.493,0.977,11,-7.606,0.0712,0.0002,0.938,0.39,0.464,140.011,3KBveZFn13Nh4A4PKO4ssA,spotify:track:3KBveZFn13Nh4A4PKO4ssA,516000,4
+287,W&W & Vini Vici,Chakra - Extended Mix,2017,0.405,0.983,0,-5.137,0.253,0.000375,0.154,0.3,0.0449,137.995,1YT5fAjwUFG0UGj3MTPLAJ,spotify:track:1YT5fAjwUFG0UGj3MTPLAJ,428500,4
+286,Rank 1,Breathing (Airwave) - Breaks Dub,2003,0.66,0.62,0,-9.438,0.044,0.0011,0.832,0.0209,0.484,136.988,5UljV7iP7jvL70uIpXGVZD,spotify:track:5UljV7iP7jvL70uIpXGVZD,397267,4
+285,NWYR & Andrew Rayel,The Melody - Extended Mix,2019,0.607,0.896,1,-2.524,0.166,0.00346,0.0109,0.0496,0.321,130.015,7vAUX4YyY4nOxyGmyvB559,spotify:track:7vAUX4YyY4nOxyGmyvB559,251077,4
+284,Markus Schulz & Delacey,Destiny - Extended Mix,2015,0.582,0.796,3,-5.443,0.0466,0.00258,0.0509,0.149,0.243,129.987,1ws9Ies6cq6Pol1zZyroKv,spotify:track:1ws9Ies6cq6Pol1zZyroKv,610351,4
+283,Factor B & Cat Martin,Crashing Over - Extended Mix,2019,0.488,0.958,0,-7.42,0.0709,0.00361,0.638,0.0654,0.14,137.985,4lWdJtiS7HjltLYvMwAAVG,spotify:track:4lWdJtiS7HjltLYvMwAAVG,563485,4
+282,Armin van Buuren & Garibay & Olaf Blackwood,I Need You (feat. Olaf Blackwood) - Extended Club Mix,2017,0.666,0.872,8,-6.497,0.0584,0.00151,0.137,0.0933,0.255,127.984,720pdK0SRtCaNRSvXykySd,spotify:track:720pdK0SRtCaNRSvXykySd,330360,4
+281,Gareth Emery & Christina Novelli & John O'Callaghan,Save Me - John O'Callaghan Extended Remix,2016,0.569,0.971,7,-7.138,0.0721,0.000321,0.755,0.404,0.153,138.024,3GMh4NZ72O8SA7gUsw6DZr,spotify:track:3GMh4NZ72O8SA7gUsw6DZr,470000,4
+280,Gabriel & Dresden & Sub Teal & Cosmic Gate,Only Road - Cosmic Gate Extended Mix,2018,0.6,0.703,7,-5.805,0.0448,0.00123,0.371,0.0863,0.163,128.021,2M8OpNoJ4uPJdUPZYbyKK7,spotify:track:2M8OpNoJ4uPJdUPZYbyKK7,401250,4
+279,Elevation,Biscayne - Lemon & Einar K Remix,2009,0.575,0.734,7,-13.249,0.0559,0.000647,0.88,0.396,0.322,137.003,03VJ1QqVWMmHvHH7OlSqVp,spotify:track:03VJ1QqVWMmHvHH7OlSqVp,472993,4
+278,Paul van Dyk & Sue McLaren,Lights (feat. Sue McLaren),2015,0.687,0.808,8,-6.079,0.0489,0.00826,0.318,0.148,0.233,132.007,3EwyZKjNZpZDEuRbQXh8AQ,spotify:track:3EwyZKjNZpZDEuRbQXh8AQ,380000,4
+277,Armin van Buuren & Cindy Alma,Beautiful Life,2013,0.64,0.745,8,-6.977,0.0394,0.0496,0.0128,0.0754,0.466,128.001,3lJbKB0A7wo8HbtlsQep76,spotify:track:3lJbKB0A7wo8HbtlsQep76,368640,4
+276,FEEL & Alexandra Badoi & Roman Messer,Born To Love - Roman Messer Extended Remix,2019,0.541,0.993,5,-4.15,0.118,0.00185,0.0747,0.334,0.405,137.996,51fQobmkGirDA5RG9Trnaq,spotify:track:51fQobmkGirDA5RG9Trnaq,382636,4
+275,Giuseppe Ottaviani,Till We Meet Again - Extended Mix,2020,0.463,0.938,9,-7.65,0.0442,0.000392,0.905,0.0553,0.552,137.991,1gtS2Kuil4CigcaDyrqUn4,spotify:track:1gtS2Kuil4CigcaDyrqUn4,335997,4
+274,Armin van Buuren & Rank 1,This World Is Watching Me - Original Mix,2008,0.588,0.882,1,-10.781,0.0464,9.76e-05,0.655,0.333,0.558,134.019,2jOPmnFgueII8c6StKgcNi,spotify:track:2jOPmnFgueII8c6StKgcNi,478413,4
+273,Jean-Michel Jarre & Armin van Buuren,Stardust,2015,0.489,0.922,11,-7.576,0.0367,0.121,0.851,0.267,0.104,132.011,1XEy5hPMYzpjpQ6Ib5GEnM,spotify:track:1XEy5hPMYzpjpQ6Ib5GEnM,276013,4
+272,Airborn & Bogdan Vix & KeyPlayer & Alexandra Badoi,Run Away - Extended Mix,2018,0.706,0.915,2,-3.259,0.0897,0.00147,0.276,0.117,0.224,132.008,5SiMTAUQbLFZr3vOxOHTJS,spotify:track:5SiMTAUQbLFZr3vOxOHTJS,382674,4
+271,DJ Aligator & Daniel Kandi,The Perfect Match - Club Mix,2012,0.524,0.957,8,-5.49,0.0516,0.000491,0.734,0.0923,0.294,138.0,4eyx7X9rlKPw9BJLaxmQcU,spotify:track:4eyx7X9rlKPw9BJLaxmQcU,423000,4
+270,Akesson,Perfect Blue - Original Mix,2008,0.524,0.99,10,-5.274,0.0605,9.44e-05,0.908,0.115,0.395,138.007,2NJJTJWyactyScMD5Pxtk7,spotify:track:2NJJTJWyactyScMD5Pxtk7,426087,4
+269,Giuseppe Ottaviani & Lucid Blue,I Believe - Extended Mix,2020,0.559,0.817,6,-7.829,0.0512,0.000467,0.0339,0.0705,0.217,138.0,0aUl3IX3eHOJAb5V7iaiHU,spotify:track:0aUl3IX3eHOJAb5V7iaiHU,365217,3
+268,Aly & Fila,Lost Language - Original Mix,2008,0.551,0.974,6,-5.433,0.0426,5.75e-05,0.864,0.081,0.47,139.993,45BjjEP0z5UK0cpP0Dw9x0,spotify:track:45BjjEP0z5UK0cpP0Dw9x0,567645,4
+267,GAIA,Humming The Lights - Original Mix,2013,0.582,0.941,1,-6.505,0.0564,0.000733,0.826,0.0697,0.34,132.024,3WXOMMKnVinuI9MTNv3Ke1,spotify:track:3WXOMMKnVinuI9MTNv3Ke1,417040,4
+266,Paul van Dyk & Johnny McDaid & Cosmic Gate,Home - Cosmic Gate Remix,2014,0.694,0.497,11,-9.64,0.126,0.00231,0.629,0.167,0.197,134.983,2LxGAqhAjoiSS4awCluZNk,spotify:track:2LxGAqhAjoiSS4awCluZNk,491800,4
+265,Rank 1,Such Is Life - Original Version,2001,0.688,0.781,1,-11.296,0.0494,1.36e-05,0.788,0.0778,0.238,141.063,1AstOp0evEhABe3hmmVlE9,spotify:track:1AstOp0evEhABe3hmmVlE9,531533,4
+264,Leon Bolier,Ocean Drive Boulevard,2008,0.548,0.864,2,-8.79,0.0361,0.0132,0.822,0.0935,0.0375,135.002,1FLuswBmoXwuLt7IunW040,spotify:track:1FLuswBmoXwuLt7IunW040,404347,4
+263,Goldenscan & Adam Ellis,Halcyon - Adam Ellis Extended Remix,2018,0.498,0.998,0,-5.472,0.083,0.00536,0.947,0.0657,0.29,138.019,7bRMlPYjKY6NRbBkaLlYGr,spotify:track:7bRMlPYjKY6NRbBkaLlYGr,451595,4
+262,Armin van Buuren & Candace Sosa,Runaway - Extended Mix,2019,0.683,0.805,11,-5.058,0.0545,0.00468,0.00198,0.0801,0.174,124.986,1zZh7yeysOsEZTJ99E9Ced,spotify:track:1zZh7yeysOsEZTJ99E9Ced,375761,4
+261,Push,The Legacy - Club Remastered Mix,2012,0.28,0.765,1,-9.143,0.0362,0.000971,0.928,0.105,0.586,138.021,220EfzEEOz4MdFmRPWJOUx,spotify:track:220EfzEEOz4MdFmRPWJOUx,534344,4
+260,Aly & Fila & Ferry Tayle,Nubia - Extended Mix,2014,0.521,0.944,5,-5.943,0.0406,0.000317,0.94,0.642,0.258,137.991,4XUZpNtXX2TcyP6kGawk94,spotify:track:4XUZpNtXX2TcyP6kGawk94,460870,4
+259,Above & Beyond & Zoë Johnston,Alchemy - Above & Beyond Club Mix,2012,0.704,0.772,2,-8.089,0.0484,0.000316,0.257,0.118,0.54,130.004,6MN2b0jsXqlMw6JR0Xx60l,spotify:track:6MN2b0jsXqlMw6JR0Xx60l,457062,4
+258,Simon O'Shine & Ahmed Romel,L'Absente - Original Mix,2014,0.517,0.992,11,-7.364,0.0637,0.00429,0.828,0.104,0.451,138.012,0vFYOozcJpw0i6GLcgxQiJ,spotify:track:0vFYOozcJpw0i6GLcgxQiJ,510770,4
+257,Super8 & Tab,Helsinki Scorchin' - Alex M.O.R.P.H Remix,2006,0.495,0.954,5,-8.081,0.0738,0.000141,0.913,0.0383,0.181,137.983,4UKX72tvv4DFm0zPQWtu0q,spotify:track:4UKX72tvv4DFm0zPQWtu0q,513173,4
+256,Armin van Buuren & Laura V & Avicii,Drowning - Avicii Remix,2011,0.68,0.798,11,-7.947,0.0642,0.00101,0.249,0.0651,0.401,125.989,6q0f0zpByDs4Zk0heXZ3cO,spotify:track:6q0f0zpByDs4Zk0heXZ3cO,472401,4
+255,iio & Nadia Ali,Rapture (Armin Van Buuren Remix Remastered) [feat. Nadia Ali],2011,0.512,0.868,10,-10.05,0.0547,0.0107,0.822,0.341,0.213,128.582,6s7hpnwKcBb7NYrbKsdILL,spotify:track:6s7hpnwKcBb7NYrbKsdILL,562997,4
+254,Armin van Buuren & Racoon,Love You More - Vocal Mix,2006,0.531,0.709,1,-10.189,0.0399,9.95e-06,0.41,0.627,0.0835,137.989,2Gj9LSCSvXKNMbyWvPlfEe,spotify:track:2Gj9LSCSvXKNMbyWvPlfEe,542867,4
+253,Cosmic Gate & Forêt,Need to Feel Loved - Extended Mix,2019,0.629,0.743,2,-6.415,0.0429,0.00198,0.0295,0.0626,0.201,128.01,0pYJBfdMHPSY3EbcvETAOg,spotify:track:0pYJBfdMHPSY3EbcvETAOg,411564,4
+252,Armin van Buuren,Turn It Up - Extended Mix,2019,0.625,0.946,10,-6.366,0.077,0.00019,0.199,0.352,0.0547,137.994,6YlpQxlWuxZ7zWR53VSxuF,spotify:track:6YlpQxlWuxZ7zWR53VSxuF,405435,4
+251,Bobina,Winter - Extended Mix,2014,0.624,0.87,5,-5.104,0.0434,0.00281,0.227,0.243,0.088,132.011,4oFZL1rDVWVf2T5gUROuA5,spotify:track:4oFZL1rDVWVf2T5gUROuA5,390758,4
+250,BT & Armin van Buuren,Every Other Way - Armin Van Buuren Remix,2009,0.698,0.649,6,-8.555,0.0872,0.00101,0.615,0.197,0.425,131.008,14dBZzqVarX3MK0Rb3RtSx,spotify:track:14dBZzqVarX3MK0Rb3RtSx,493189,4
+249,Airbase,Escape - Original Mix,2006,0.444,0.87,11,-9.736,0.032,5.94e-05,0.902,0.0547,0.0801,135.007,7hpshWnQjC9RmYdMhTkwde,spotify:track:7hpshWnQjC9RmYdMhTkwde,521043,4
+248,RAM & Alex M.O.R.P.H.,Youniverse (Grotesque 350 Anthem) - Extended Mix,2019,0.527,0.998,7,-6.292,0.148,0.00776,0.913,0.517,0.137,137.985,56WYySIyfHRMWa12yLl2cU,spotify:track:56WYySIyfHRMWa12yLl2cU,364945,4
+247,Solarstone & Orkidea,The Calling - Orkidea's Piano Mix,2007,0.635,0.654,7,-10.887,0.0466,1.44e-05,0.814,0.14,0.571,134.011,2mS3VYzVNbBUnc16or6Ww8,spotify:track:2mS3VYzVNbBUnc16or6Ww8,531940,4
+246,Paul van Dyk & Vega4,Time Of Our Lives - Paul van Dyk Club Mix,2016,0.642,0.944,9,-8.021,0.0489,0.000147,0.632,0.0944,0.358,138.979,7Hc3iPRHoKRhUzFUgesTxk,spotify:track:7Hc3iPRHoKRhUzFUgesTxk,466252,4
+245,GAIA,Saint Vitus - Extended Mix,2017,0.673,0.981,11,-4.393,0.0504,0.00282,0.889,0.12,0.248,136.003,6n87MuRTJHDvtPVPP9cmYT,spotify:track:6n87MuRTJHDvtPVPP9cmYT,371000,4
+244,Armin van Buuren & Andrew Rayel,EIFORYA - Original Mix,2014,0.663,0.862,9,-4.56,0.0935,0.0549,0.647,0.116,0.231,132.06,3D4fpxF53q5zVc5lwzBUff,spotify:track:3D4fpxF53q5zVc5lwzBUff,363636,4
+243,Headstrong & Stine Grove,Tears - Aurosonic Progressive Mix,2011,0.724,0.744,2,-7.512,0.0696,0.0148,0.241,0.696,0.178,127.957,5ELi3OkQXv5jRcE8fG8awu,spotify:track:5ELi3OkQXv5jRcE8fG8awu,552000,3
+242,Markus Schulz & Ana Diaz,Nothing Without Me - Beat Service Remix,2012,0.65,0.886,7,-5.279,0.0517,0.000947,0.392,0.264,0.0373,130.991,1BtAee8Ipceuh5e2Nod2Za,spotify:track:1BtAee8Ipceuh5e2Nod2Za,432000,4
+241,Pulser,My Religion - Original Mix,2003,0.543,0.925,9,-9.194,0.049,0.0509,0.701,0.0944,0.23,138.011,4KqxGzy64B0UlmMUS28k2Q,spotify:track:4KqxGzy64B0UlmMUS28k2Q,476009,4
+240,System F & Armin van Buuren,Exhale,2010,0.51,0.901,4,-7.955,0.0321,1.79e-05,0.833,0.12,0.674,137.995,7MK8xFSt1R11lc8PfeXNk6,spotify:track:7MK8xFSt1R11lc8PfeXNk6,432067,4
+239,Armin van Buuren & Kensington & First State,Heading Up High - First State Extended Remix,2016,0.654,0.97,1,-2.4,0.0978,0.00104,0.000556,0.0634,0.234,128.005,4XWmXULAcLHaZR8QiBJJE8,spotify:track:4XWmXULAcLHaZR8QiBJJE8,352500,4
+238,Max Graham & Ana Criado,Nothing Else Matters - Aly & Fila Remix,2010,0.454,0.936,11,-4.444,0.0627,0.000154,0.337,0.217,0.131,139.997,064FFpAxAVe0FtVx0SDykn,spotify:track:064FFpAxAVe0FtVx0SDykn,481714,4
+237,ATB & Dash Berlin,Apollo Road - Original Mix,2011,0.632,0.64,8,-9.419,0.0385,0.000265,0.895,0.102,0.432,132.994,0V9xgvAW5lwPA3eUhsX358,spotify:track:0V9xgvAW5lwPA3eUhsX358,444105,4
+236,Major League,Wonder Where You Are?,2004,0.544,0.96,1,-9.521,0.0912,0.00179,0.524,0.346,0.377,139.973,4Y8AGDwvUOPs0LmDBENRpi,spotify:track:4Y8AGDwvUOPs0LmDBENRpi,569013,4
+235,Cosmic Gate,am2pm - Extended Mix,2016,0.541,0.868,4,-5.737,0.0522,0.00571,0.894,0.37,0.0958,127.964,5k3tQ3BzKKn0iS3RQT379W,spotify:track:5k3tQ3BzKKn0iS3RQT379W,382549,4
+234,Simon Patterson,Miss You,2010,0.543,0.865,0,-8.839,0.0495,0.000949,0.851,0.0721,0.183,140.01,0ncCZLsnCX5M9HrkEQ3GkN,spotify:track:0ncCZLsnCX5M9HrkEQ3GkN,480000,4
+233,Sasha,Xpander,1999,0.543,0.96,8,-8.034,0.0466,0.000857,0.81,0.159,0.745,128.083,76mh0rcSJpNhoCCqazptWm,spotify:track:76mh0rcSJpNhoCCqazptWm,690373,4
+232,DJ Eco,Tonight Is Forever - Martin Roth Edit,2008,0.573,0.883,9,-3.784,0.037,2.16e-05,0.913,0.181,0.239,136.974,3t9eSvoCtf6vKiNUGUomWs,spotify:track:3t9eSvoCtf6vKiNUGUomWs,497518,4
+231,Armin van Buuren,Pulsar,2013,0.618,0.968,8,-5.898,0.04,0.00333,0.911,0.103,0.0504,130.006,4NPzTwu2qi5CfkxPXy7fIO,spotify:track:4NPzTwu2qi5CfkxPXy7fIO,391947,4
+230,Andrew Rayel & HALIENE,Take All Of Me - Extended Mix,2019,0.652,0.834,6,-2.593,0.068,0.00379,0.000393,0.102,0.0989,132.01,5QLDBljGslUkRja9odXQlo,spotify:track:5QLDBljGslUkRja9odXQlo,391964,4
+229,Gareth Emery & STANDERWICK & Wayward Daughter,Reckless - Standerwick Extended Remix,2016,0.57,0.921,0,-6.413,0.0421,0.000538,0.451,0.112,0.304,137.997,2ypUyChKCn3kk8gUKi4lTe,spotify:track:2ypUyChKCn3kk8gUKi4lTe,393033,4
+228,Alt+F4,Alt+F4 - Original Mix,2011,0.528,0.935,6,-9.289,0.0438,0.000162,0.913,0.139,0.248,138.001,5LdKWiOanFSkxKoKir2cXJ,spotify:track:5LdKWiOanFSkxKoKir2cXJ,504293,4
+227,The Blizzard,Kalopsia - Original Club Mix,2007,0.608,0.88,8,-7.333,0.0534,0.00228,0.884,0.357,0.692,134.979,33zxm6rIBAfPP6Shbb0HKn,spotify:track:33zxm6rIBAfPP6Shbb0HKn,582267,4
+226,Above & Beyond & Oceanlab,Miracle - Above & Beyond Club Mix,2008,0.237,0.856,11,-9.584,0.0369,0.00129,0.428,0.0825,0.368,138.017,3hy3tOfhZG0KBRFtqZVuAY,spotify:track:3hy3tOfhZG0KBRFtqZVuAY,501853,4
+225,MaRLo & HALIENE,Whisper - Extended Mix,2019,0.549,0.872,11,-4.846,0.076,0.00403,0.00226,0.111,0.0686,131.982,1r83SxiLOdEwuFM6L9bqwG,spotify:track:1r83SxiLOdEwuFM6L9bqwG,370909,4
+224,Mike Foyle & Signalrunners,Love Theme Dusk - Mike's Broken Record Mix,2005,0.612,0.652,6,-11.793,0.0504,0.00303,0.906,0.0598,0.0725,134.997,2e3w4P6d1RJQIgYwFcsWBR,spotify:track:2e3w4P6d1RJQIgYwFcsWBR,554773,4
+223,Armin van Buuren & AVIAN GRAYS & Jordan Shaw & Giuseppe Ottaviani,Something Real - Giuseppe Ottaviani Extended Remix,2019,0.611,0.745,10,-7.708,0.0443,0.00204,0.012,0.0928,0.334,137.983,0xjz0lbDPCdkXuLZyIRBTo,spotify:track:0xjz0lbDPCdkXuLZyIRBTo,396522,4
+222,Ridgewalkers & EL,Find - Andy Moor Remix,2004,0.609,0.893,0,-8.697,0.0466,0.000473,0.853,0.415,0.861,129.994,05i47oRMs5PexudbRjvNxG,spotify:track:05i47oRMs5PexudbRjvNxG,531373,4
+221,deadmau5 & Kaskade,I Remember,2009,0.848,0.497,11,-7.124,0.0529,0.0201,0.297,0.217,0.615,128.013,2edcAWwKM7SQajsFGP0edC,spotify:track:2edcAWwKM7SQajsFGP0edC,593600,4
+220,Armin van Buuren & Tempo Giusto,Mr. Navigator - Extended Mix,2019,0.712,0.95,7,-5.868,0.0763,0.00354,0.771,0.65,0.317,138.033,2vHPaS0Lde3HMNRFiCDaDL,spotify:track:2vHPaS0Lde3HMNRFiCDaDL,340978,4
+219,Oceanlab,Clear Blue Water - Ferry Corsten Remix,2007,0.611,0.937,1,-6.07,0.0351,5.61e-05,0.62,0.107,0.325,137.998,3MbmDUxmBjLU6ZHC4FFuWE,spotify:track:3MbmDUxmBjLU6ZHC4FFuWE,438746,4
+218,Roger Shah & Signum,Healesville Sanctuary - Signum Mix,2010,0.494,0.941,1,-5.289,0.0533,0.000222,0.907,0.0765,0.152,137.992,5CMougTP1EZ8vct0GF1Yaw,spotify:track:5CMougTP1EZ8vct0GF1Yaw,457756,4
+217,Eyal Barkan & Yahel,Voyage - Magikal Remake,2000,0.598,0.631,3,-19.148,0.0481,0.00891,0.872,0.41,0.655,140.022,5qVK1FeNPFt6vEcAJNoIou,spotify:track:5qVK1FeNPFt6vEcAJNoIou,538867,4
+216,Armin van Buuren,Full Focus - Extended Mix,2010,0.553,0.769,8,-7.423,0.0373,0.000312,0.892,0.212,0.0994,131.982,3JIhpuWyyS3uJz6ULnuZEp,spotify:track:3JIhpuWyyS3uJz6ULnuZEp,409400,4
+215,Cosmic Gate,Come With Me - Extended Mix,2019,0.654,0.825,7,-6.076,0.042,0.000803,0.0195,0.0816,0.336,128.004,1LFXYXpNHGszRo7AjisPUX,spotify:track:1LFXYXpNHGszRo7AjisPUX,487909,4
+214,Tiësto & Christian Burns & First State,In the Dark - First State Extended Remix,2017,0.668,0.885,1,-4.43,0.186,0.00432,0.000223,0.157,0.353,131.013,4uhlnVhc88tx7vsLH5xppX,spotify:track:4uhlnVhc88tx7vsLH5xppX,311450,4
+213,Matt Darey & Kate Louise Smith,See The Sun - Dan Stone Rework,2015,0.528,0.972,5,-4.486,0.231,0.000198,0.073,0.0868,0.118,137.984,5nn907LVCkmkr7TKyX4gPr,spotify:track:5nn907LVCkmkr7TKyX4gPr,400435,4
+212,Armin van Buuren & Emma Hewitt,Forever Is Ours,2013,0.692,0.809,7,-7.326,0.0448,0.00926,0.0324,0.114,0.183,131.995,2riuuNLUACGw6OYwXJEXGq,spotify:track:2riuuNLUACGw6OYwXJEXGq,401853,4
+211,Above & Beyond & Oceanlab,Sky Falls Down - Armin van Buuren Remix,2003,0.604,0.923,0,-8.956,0.0368,0.000178,0.585,0.0811,0.446,138.015,7s9U025BqOfxyMEL9UcOFb,spotify:track:7s9U025BqOfxyMEL9UcOFb,620893,4
+210,GAIA,Aisha - Original Mix,2010,0.625,0.667,6,-9.924,0.0388,0.00625,0.868,0.104,0.0397,131.978,4UYBDRsxsFB11Gpr0OGSBj,spotify:track:4UYBDRsxsFB11Gpr0OGSBj,492426,4
+209,Arctic Moon & Shuba,Cool In My Disaster - Extended Mix,2019,0.582,0.96,0,-6.448,0.0713,0.00102,0.371,0.369,0.1,138.007,1JjiG9eCRGegikIVZZ8qw4,spotify:track:1JjiG9eCRGegikIVZZ8qw4,490034,4
+208,Dash Berlin & Bo Bruce & STANDERWICK,Coming Home - STANDERWICK Extended Remix,2018,0.523,0.986,8,-4.802,0.0783,0.00146,0.0687,0.0401,0.228,137.988,47f5um52OM7eIuZanumFcM,spotify:track:47f5um52OM7eIuZanumFcM,360000,4
+207,Armin van Buuren & DJ Shah & Chris Jones,Going Wrong,2008,0.645,0.57,4,-9.127,0.041,0.00776,0.127,0.0976,0.737,132.007,2lUk5ygHxGbpHfzrc3uj8N,spotify:track:2lUk5ygHxGbpHfzrc3uj8N,336413,4
+206,Darren Porter,Deep Blue - Original Mix,2015,0.489,0.963,0,-8.251,0.0842,0.00109,0.886,0.67,0.109,140.034,36mYk7SwZY7FOemtV5XUGY,spotify:track:36mYk7SwZY7FOemtV5XUGY,351152,4
+205,Aly & Fila & Plumb,Somebody Loves You - Extended Mix,2020,0.484,0.954,1,-4.848,0.0407,0.00028,0.446,0.0763,0.233,140.014,6kNy88k0K3ZVhE7HrqYtHt,spotify:track:6kNy88k0K3ZVhE7HrqYtHt,546087,4
+204,ATB,Let U Go - Clubb Mix,2001,0.819,0.689,4,-7.725,0.046,0.023,0.107,0.075,0.779,132.998,6BncNmlas4wMeR6x2x1zci,spotify:track:6BncNmlas4wMeR6x2x1zci,503000,4
+203,Will Atkinson,Numb the Pain,2015,0.469,0.991,11,-5.704,0.0592,0.000282,0.918,0.461,0.327,139.989,1GemtvqctneTkF62aKJowY,spotify:track:1GemtvqctneTkF62aKJowY,521143,4
+202,Armin van Buuren & Eric Vloeimans,Embrace,2015,0.448,0.798,6,-7.1,0.112,0.0739,0.115,0.0512,0.0706,133.981,4UZRjeuXVsXNgYR3sly2FZ,spotify:track:4UZRjeuXVsXNgYR3sly2FZ,456693,4
+201,Alex M.O.R.P.H. & Rank 1,Life Less Ordinary - A Less Ordinary Rank 1 Mix,2007,0.788,0.538,10,-9.479,0.059,0.00211,0.854,0.0568,0.597,131.99,4rnIDRsSJMIijqGPMc29I5,spotify:track:4rnIDRsSJMIijqGPMc29I5,466217,4
+200,Paul van Dyk & Plumb,I Don't Deserve You - Giuseppe Ottaviani Remix,2015,0.541,0.835,8,-7.011,0.0533,0.000227,0.52,0.025,0.384,135.998,6ESd2OIF63fy1WeE8rbAIB,spotify:track:6ESd2OIF63fy1WeE8rbAIB,420734,4
+199,Armin van Buuren & Ana Criado,I'll Listen - Original Mix,2012,0.57,0.972,2,-6.947,0.04,0.00245,0.551,0.687,0.114,130.0,4pbDrwpQYcaCpAjFTBWSDZ,spotify:track:4pbDrwpQYcaCpAjFTBWSDZ,442356,4
+198,Markus Schulz & Elevation,Clear Blue - Intro Mix,2007,0.42,0.889,9,-10.38,0.0455,0.139,0.865,0.108,0.466,129.992,3dBwGEX9kwk6ZR7H3zhnu4,spotify:track:3dBwGEX9kwk6ZR7H3zhnu4,528486,4
+197,Above & Beyond & Marty Longstaff,Flying By Candlelight - Above & Beyond Extended Club Mix,2019,0.674,0.7,1,-5.428,0.059,0.000529,0.0118,0.0303,0.186,128.023,6bppszUyGTZHWOUSbeM8OU,spotify:track:6bppszUyGTZHWOUSbeM8OU,433125,4
+196,Armin van Buuren & Rising Star & Betsie Larkin,Safe Inside You - Original Mix,2015,0.59,0.955,3,-5.651,0.0397,0.000462,0.726,0.0402,0.136,138.003,5wNAHzIKAk0iE9xz33qFew,spotify:track:5wNAHzIKAk0iE9xz33qFew,422503,4
+195,Armin van Buuren,Ping Pong - Original Mix,2014,0.614,0.868,4,-5.008,0.0563,0.00196,0.284,0.073,0.173,130.006,0Lp8e39FWpLvIg1QkjuV6x,spotify:track:0Lp8e39FWpLvIg1QkjuV6x,459773,4
+194,Robert Nickson,Heliopause - Original Mix,2017,0.588,0.836,2,-7.357,0.0438,0.00122,0.683,0.65,0.353,134.988,4PWKtcP0hKBZrMa9TIVA2A,spotify:track:4PWKtcP0hKBZrMa9TIVA2A,440889,4
+193,Ralphie B,Massive,2003,0.594,0.948,7,-8.335,0.0709,0.000635,0.854,0.0254,0.24,137.023,1qhhniENQlLrZgBqNPBpHN,spotify:track:1qhhniENQlLrZgBqNPBpHN,559973,4
+192,Sunlounger & DJ Shah,White Sand - DJ Shah's Original Mix,2006,0.765,0.668,6,-10.471,0.0433,0.0317,0.922,0.299,0.075,131.996,3ozLwZEGdwBIBRrqW8ri05,spotify:track:3ozLwZEGdwBIBRrqW8ri05,589316,4
+191,Armin van Buuren & Rising Star & Alexandra Badoi,Cosmos - Extended Mix,2019,0.531,0.942,11,-5.812,0.04,0.000498,0.505,0.0763,0.269,131.989,18hqsdqWoPSoVPctqZ6DCC,spotify:track:18hqsdqWoPSoVPctqZ6DCC,413257,4
+190,Above & Beyond,Distorted Truth - Extended Mix,2019,0.557,0.817,11,-6.048,0.033,0.00177,0.929,0.842,0.117,127.996,1bIIX4m3k3BLTnrn1rMuqD,spotify:track:1bIIX4m3k3BLTnrn1rMuqD,468750,4
+189,Armin van Buuren & Perpetuous Dreamer,The Sound of Goodbye - Rising Star Remix,2011,0.6,0.972,1,-3.726,0.0542,9.61e-05,0.735,0.123,0.127,134.822,4GYqayXjsUAc9goKsZMPc9,spotify:track:4GYqayXjsUAc9goKsZMPc9,642800,4
+188,W&W,Invasion - ASOT 550 Anthem - Club Mix,2012,0.687,0.824,7,-4.268,0.302,0.0931,0.776,0.096,0.225,132.075,1KZi8JlxElT7YudMvzdTxN,spotify:track:1KZi8JlxElT7YudMvzdTxN,410909,4
+187,Armin van Buuren & MaRLo & Mila Josef,This I Vow - MaRLo's Extended Tech Energy Mix,2020,0.657,0.806,7,-4.851,0.0867,0.049,0.279,0.147,0.0981,137.996,7zatCzGzbIeQjvTs3MMkQu,spotify:track:7zatCzGzbIeQjvTs3MMkQu,310794,4
+186,Ruben de Ronde & EKE & Eugenio Tokarev,Wanderlust - Eugenio Tokarev Extended Remix,2020,0.479,0.981,10,-7.368,0.0915,0.00318,0.502,0.2,0.465,137.961,7L4axTPuahQaZ5qsEmFM75,spotify:track:7L4axTPuahQaZ5qsEmFM75,379107,4
+185,Orjan Nilsen,Violetta - Original Mix,2013,0.56,0.968,7,-3.297,0.0447,0.000143,0.743,0.076,0.0387,127.971,5UmRC0VlUTgzjvM4PPovOT,spotify:track:5UmRC0VlUTgzjvM4PPovOT,413120,4
+184,The Doppler Effect & Carol Lee & John O'Callaghan,Beauty Hides In The Deep - John O'Callaghan Extended,2011,0.547,0.997,9,-6.009,0.0526,9.85e-05,0.489,0.521,0.276,140.006,3c2aFZVbemPI4Q6kba4IyY,spotify:track:3c2aFZVbemPI4Q6kba4IyY,428645,4
+183,FUTURECODE & Roxanne Emery,Dancing In The Rain - Extended Mix,2019,0.625,0.802,8,-5.339,0.0379,0.00233,0.00431,0.073,0.352,131.992,5CVTQ2vrWEV3NgrqboXEpL,spotify:track:5CVTQ2vrWEV3NgrqboXEpL,343640,4
+182,Armin van Buuren & Josh Cumbee & PureNRG,Sunny Days - PureNRG Extended Remix,2017,0.531,0.9,7,-6.801,0.041,0.000273,0.179,0.0575,0.222,137.988,27KuqtmnYkM08TbscGYQ41,spotify:track:27KuqtmnYkM08TbscGYQ41,394500,4
+181,Ilan Bluestone & Maor Levi & EL Waves,Will We Remain? - Extended Mix,2019,0.745,0.709,6,-9.313,0.092,0.00243,0.103,0.167,0.117,128.011,6vQ9z98sC83AgsDfqbmNnp,spotify:track:6vQ9z98sC83AgsDfqbmNnp,450006,4
+180,Armin van Buuren,My Symphony (The Best Of Armin Only Anthem) - Extended Mix,2017,0.64,0.86,1,-7.379,0.0407,0.000391,0.643,0.666,0.38,129.996,3Oar2JhDLKl132AiE8i0Wu,spotify:track:3Oar2JhDLKl132AiE8i0Wu,396923,4
+179,Sebastian Brandt,450 - Original Mix,2010,0.479,0.983,2,-7.201,0.0587,0.00236,0.894,0.549,0.0816,138.007,2dZvsIQ4CJFuKEPghX9UHh,spotify:track:2dZvsIQ4CJFuKEPghX9UHh,506107,4
+178,Armin van Buuren & Fiora,Waiting For The Night - Extended Version,2013,0.68,0.922,1,-5.991,0.0495,0.135,0.594,0.128,0.381,129.986,31q0es7FeBzUChzAYYN6GN,spotify:track:31q0es7FeBzUChzAYYN6GN,269720,4
+177,Ayumi Hamasaki & Above & Beyond,M - Above & Beyond Remix,2018,0.602,0.911,6,-7.303,0.0813,0.000442,0.621,0.102,0.386,138.019,0XXzRt3NHkR0HlzWPFvw3Z,spotify:track:0XXzRt3NHkR0HlzWPFvw3Z,482025,4
+176,Above & Beyond,Sun In Your Eyes - Original Mix,2011,0.276,0.395,7,-11.585,0.0377,0.931,0.906,0.0835,0.0372,183.967,57HLbw5C35P2CjpNJ9ALuS,spotify:track:57HLbw5C35P2CjpNJ9ALuS,291027,5
+175,Sean Tyas,Lift (Original Mix),2006,0.49,0.977,2,-7.964,0.0601,4.27e-05,0.847,0.0164,0.575,140.0,4XYEd8S2wKsHUUQz60GbjP,spotify:track:4XYEd8S2wKsHUUQz60GbjP,505714,4
+174,Gouryella,Tenshi - Extended Mix,2000,0.563,0.849,11,-8.508,0.0534,7.77e-06,0.869,0.0429,0.351,138.002,0uSja7G8VZZ9X0yrMUSSRB,spotify:track:0uSja7G8VZZ9X0yrMUSSRB,514347,4
+173,RAM & Susana,Northern Star - Extended Mix,2018,0.524,0.99,4,-5.927,0.0951,0.000479,0.475,0.347,0.178,135.996,62CivIx8UXn0cU3DE7eYDy,spotify:track:62CivIx8UXn0cU3DE7eYDy,493489,4
+172,Ben Gold,The City Sleeps Tonight - Extended Mix,2019,0.498,0.972,6,-4.704,0.0612,0.00142,0.0798,0.0984,0.362,135.002,1IsnVN9FV5TIJGsyhH4vSU,spotify:track:1IsnVN9FV5TIJGsyhH4vSU,428032,4
+171,Armin van Buuren & BT,These Silent Hearts - Extended Version,2010,0.614,0.734,2,-7.899,0.0618,0.00068,0.604,0.111,0.107,136.012,6r518e8UcLzVH97FGge0LE,spotify:track:6r518e8UcLzVH97FGge0LE,462640,4
+170,Sonic Inc & Fire & Ice,The Taste Of Summer - Fire & Ice Vital Remix,2013,0.532,0.847,0,-9.522,0.0373,0.000583,0.901,0.133,0.196,137.973,6UsQFfYKgMYiDD8FGZFNrb,spotify:track:6UsQFfYKgMYiDD8FGZFNrb,430445,4
+169,Shogun,Skyfire - Original Mix,2011,0.651,0.806,1,-4.22,0.339,0.00484,0.216,0.172,0.373,132.034,23qyO9oAkV07BLXDM3jbBd,spotify:track:23qyO9oAkV07BLXDM3jbBd,507234,4
+168,Ciaran McAuley & Clare Stagg,All I Want - Extended Mix,2019,0.518,0.922,0,-6.666,0.0625,0.00149,0.202,0.138,0.234,135.938,47aRYg9zRdm4wbQTCCLsmK,spotify:track:47aRYg9zRdm4wbQTCCLsmK,415272,4
+167,Darude,Sandstorm,1999,0.577,0.955,11,-7.929,0.0844,0.00977,0.973,0.0669,0.766,136.044,3gyYkQZkgJ3skbCmseIK7P,spotify:track:3gyYkQZkgJ3skbCmseIK7P,446467,4
+166,Armin van Buuren & Shapov,La Résistance De L'Amour - Extended Mix,2019,0.573,0.901,2,-5.267,0.0379,0.00148,0.767,0.122,0.0504,128.0,1bNx7Ltr5YSXP0aqBRdxDb,spotify:track:1bNx7Ltr5YSXP0aqBRdxDb,405000,4
+165,Gouryella,Walhalla - Extended Instrumental Mix,2011,0.584,0.929,6,-10.53,0.0419,1.39e-05,0.834,0.0989,0.291,136.994,53RvV6KioUjQuBFNLseks1,spotify:track:53RvV6KioUjQuBFNLseks1,484520,4
+164,deadmau5,Strobe,2010,0.436,0.524,8,-7.754,0.038,0.00947,0.901,0.114,0.0365,128.02,4kJWtxDDNb9oAk3h7sX3N4,spotify:track:4kJWtxDDNb9oAk3h7sX3N4,634151,4
+163,Above & Beyond & Zoë Johnston,Reverie - Above & Beyond Extended Club Mix,2020,0.617,0.763,6,-7.343,0.0472,0.00116,0.366,0.823,0.167,128.003,601u4G4T7GKLPAILLZ33Ll,spotify:track:601u4G4T7GKLPAILLZ33Ll,407126,4
+162,Armin van Buuren & Christian Burns,This Light Between Us - Extended Mix,2010,0.54,0.8,3,-6.098,0.0564,0.0372,5.26e-05,0.279,0.148,132.006,0whgCxsFPcJF10rDKfABdV,spotify:track:0whgCxsFPcJF10rDKfABdV,309400,4
+161,Super8 & Tab,Mega - Extended Mix,2016,0.624,0.803,1,-5.911,0.044,0.000278,0.401,0.0584,0.476,128.019,3KGOY3GEOVmRicM0LXGhDq,spotify:track:3KGOY3GEOVmRicM0LXGhDq,306568,4
+160,Eric Prydz,Opus,2016,0.275,0.721,6,-6.222,0.0359,0.000702,0.821,0.0792,0.184,125.156,3v2oAQomhOcYCPPHafS3KV,spotify:track:3v2oAQomhOcYCPPHafS3KV,543453,4
+159,Armin van Buuren & Shapov,Our Origin - Extended Mix,2018,0.463,0.84,9,-6.802,0.0345,0.0108,0.668,0.152,0.0385,131.815,6N5TNlYhmpuynRBlyXScV4,spotify:track:6N5TNlYhmpuynRBlyXScV4,521626,4
+158,RAM & Susana & STANDERWICK,Someone Like You - RAM & Standerwick Remix,2015,0.552,0.953,1,-6.719,0.0687,0.000236,0.199,0.0801,0.44,138.03,2Gkgcu6YruUojn1YMSbXTP,spotify:track:2Gkgcu6YruUojn1YMSbXTP,440457,4
+157,Giuseppe Ottaviani,Panama - Extended Mix,2019,0.485,0.964,1,-7.73,0.0481,0.000657,0.906,0.0594,0.402,138.006,5Mar6gXhlVAEfCRaNq3KrB,spotify:track:5Mar6gXhlVAEfCRaNq3KrB,396522,4
+156,Armin van Buuren,Imagine,2008,0.55,0.828,0,-9.472,0.0421,0.000803,0.908,0.596,0.0398,136.018,1CyIxuzynQfa9wVEsX6AwA,spotify:track:1CyIxuzynQfa9wVEsX6AwA,567107,4
+155,Tiësto,Elements Of Life,2009,0.636,0.923,6,-5.671,0.0531,0.00345,0.912,0.0898,0.104,135.984,6VM07TmzYJWb4MUEkxRplr,spotify:track:6VM07TmzYJWb4MUEkxRplr,505360,4
+154,BT,Skylarking - Original Mix,2013,0.29,0.656,11,-8.673,0.0365,0.149,0.824,0.0831,0.199,127.977,74fpYY4lCS82Jgqf1DqD3Z,spotify:track:74fpYY4lCS82Jgqf1DqD3Z,644663,4
+153,Above & Beyond & Alex Vargas,Blue Sky Action - Above & Beyond Extended Club Mix,2014,0.691,0.581,5,-6.563,0.0386,0.000701,0.0311,0.0855,0.265,130.014,11QcMpWLKQS3jg44rAKMPm,spotify:track:11QcMpWLKQS3jg44rAKMPm,400227,4
+152,Orjan Nilsen,Amsterdam - Original Mix,2012,0.586,0.957,10,-3.457,0.0522,0.0111,0.672,0.128,0.0508,129.012,5oyNDmNhqh8NP8Y064APEx,spotify:track:5oyNDmNhqh8NP8Y064APEx,500938,4
+151,Bobina,Invisible Touch - Ferry Corsten's Touch,2009,0.481,0.938,7,-7.359,0.0554,0.000245,0.889,0.116,0.477,138.002,5MhFq0BNOpJLEyIsCYx4cJ,spotify:track:5MhFq0BNOpJLEyIsCYx4cJ,410410,4
+150,Armin van Buuren,Lifting You Higher (ASOT 900 Anthem) - Extended Mix,2018,0.57,0.913,9,-7.372,0.062,0.000139,0.814,0.0603,0.0595,135.985,195NVx05yn1Wy1A0X4jhCg,spotify:track:195NVx05yn1Wy1A0X4jhCg,418236,4
+149,Andrew Rayel,Dark Warrior - Original Mix,2013,0.738,0.915,6,-4.473,0.138,0.000242,0.822,0.109,0.275,131.998,0wrllPQeT3DxLSOqaKppOq,spotify:track:0wrllPQeT3DxLSOqaKppOq,373000,4
+148,Solarstone,Solarcoaster - Original Mix,2002,0.559,0.963,3,-8.436,0.0357,0.0228,0.896,0.202,0.547,135.984,55aVRfutPtCjGyPe7ReFZu,spotify:track:55aVRfutPtCjGyPe7ReFZu,527407,4
+147,Salt Lake,Rendezvous - Original Mix,2004,0.569,0.865,1,-8.323,0.0491,0.000124,0.897,0.146,0.38,137.49,1gkuqiN10lVQ3yQ51vfILy,spotify:track:1gkuqiN10lVQ3yQ51vfILy,539718,4
+146,Tiësto,Flight 643,2001,0.623,0.973,10,-6.102,0.0933,0.00385,0.881,0.0944,0.238,137.016,28gqUaAZ7oPBynrJAG44h2,spotify:track:28gqUaAZ7oPBynrJAG44h2,543480,4
+145,Cerf & Jaren & Mitiska,Beggin' You - Armin van Buuren Remix,2009,0.669,0.746,3,-7.66,0.0408,0.000452,0.831,0.0903,0.299,131.999,1SOfxwVz2KBMzatpfTHqIR,spotify:track:1SOfxwVz2KBMzatpfTHqIR,570909,4
+144,Allen Watts,Arizona - Extended Mix,2017,0.468,0.99,6,-5.956,0.0644,0.000187,0.889,0.327,0.232,137.988,4LIkAnWdSlJzcGilu9QfzG,spotify:track:4LIkAnWdSlJzcGilu9QfzG,394793,4
+143,Above & Beyond,Home - Above & Beyond Club Mix,2007,0.541,0.841,6,-8.642,0.035,0.00203,0.113,0.143,0.129,137.989,66cffJ6QfTyAQRMBdvQmgw,spotify:track:66cffJ6QfTyAQRMBdvQmgw,503667,4
+142,Andrew Rayel,Aeon Of Revenge - Original Mix,2012,0.667,0.858,9,-3.675,0.0693,0.00148,0.137,0.0826,0.386,134.005,6NPwD4KlVgqQOduG2KVPRF,spotify:track:6NPwD4KlVgqQOduG2KVPRF,465672,4
+141,Ferry Corsten & Armin van Buuren,Brute - Original Extended,2011,0.667,0.833,11,-4.983,0.092,0.00117,0.86,0.0924,0.579,136.002,73NJ1URlrowfkuZ8nPNEsb,spotify:track:73NJ1URlrowfkuZ8nPNEsb,514165,4
+140,Armin van Buuren & Sam Martin & Richard Durand,Wild Wild Son - Richard Durand Extended Remix,2019,0.503,0.974,0,-3.565,0.0598,0.00271,0.537,0.128,0.136,138.013,3CZTsW4u9mF6PaiVO4vSsi,spotify:track:3CZTsW4u9mF6PaiVO4vSsi,408696,4
+139,Paul van Dyk & Plumb,Music Rescues Me - PvD Club Mix,2018,0.546,0.96,0,-4.671,0.0501,0.000221,0.0793,0.438,0.124,137.998,7G4BWYi9cWu9gM8ww8d6Gp,spotify:track:7G4BWYi9cWu9gM8ww8d6Gp,430000,4
+138,Andrew Rayel & Alexandra Badoi,Goodbye - Original Mix,2014,0.652,0.77,9,-3.896,0.079,0.00187,0.181,0.3,0.1,131.962,3AFbgweDTMnc88WRcQOUKF,spotify:track:3AFbgweDTMnc88WRcQOUKF,363636,4
+137,ARTY & Mat Zo,Rebound - Original Mix,2011,0.669,0.868,9,-5.548,0.0542,0.00016,0.855,0.106,0.274,132.019,6BPzcgyrMokYa4IxMGCNOO,spotify:track:6BPzcgyrMokYa4IxMGCNOO,465455,4
+136,Markus Schulz & HALIENE,Ave Maria - Extended Mix,2019,0.235,0.918,0,-7.709,0.0435,0.000432,0.8,0.576,0.0877,138.003,7gPMGMW3Cns1cEQHrUyZ6v,spotify:track:7gPMGMW3Cns1cEQHrUyZ6v,436306,4
+135,Alex M.O.R.P.H.,Running for Peace - Club Mix,2018,0.571,0.968,8,-6.579,0.117,0.000703,0.64,0.291,0.0681,136.993,2WacWCmXrJV8ppig9xhiDo,spotify:track:2WacWCmXrJV8ppig9xhiDo,514006,4
+134,Armin van Buuren,Orbion - Extended Version,2012,0.571,0.737,1,-8.484,0.0414,0.00025,0.912,0.0892,0.498,132.986,7JWDQddwgJP4yU5KALU9rD,spotify:track:7JWDQddwgJP4yU5KALU9rD,574827,4
+133,Roman Messer & Cari,Serenity,2019,0.504,0.98,0,-4.352,0.0592,0.00164,0.0958,0.198,0.0674,137.954,5Q26WSnPlhDN5ZJcYZQywE,spotify:track:5Q26WSnPlhDN5ZJcYZQywE,262065,4
+132,Armin van Buuren,Coming Home - Extended Version,2010,0.536,0.94,2,-7.739,0.0413,0.00395,0.908,0.068,0.0933,135.976,3cgiN6fgrWWyKMGr4ZZ77r,spotify:track:3cgiN6fgrWWyKMGr4ZZ77r,577427,4
+131,Cosmic Gate & Emma Hewitt,Be Your Sound - Extended Mix,2011,0.637,0.448,4,-7.112,0.0518,0.00183,0.0276,0.0669,0.199,132.014,07DpNGQcpfyownq9E3Ix9Z,spotify:track:07DpNGQcpfyownq9E3Ix9Z,481991,4
+130,Giuseppe Ottaviani,8K - Extended Mix,2019,0.575,0.863,6,-8.445,0.0475,0.000187,0.814,0.0879,0.128,138.001,4fOC1oefc9aoHYctI6tbcV,spotify:track:4fOC1oefc9aoHYctI6tbcV,393046,4
+129,The Thrillseekers & Ferry Corsten,Synaesthesia - Ferry Corsten Remix,2009,0.55,0.857,5,-9.306,0.0373,2.55e-05,0.911,0.079,0.42,137.998,19PZZVtIgXIXt4pJ56UBvI,spotify:track:19PZZVtIgXIXt4pJ56UBvI,498680,4
+128,Aly & Fila & JES,I Won't Let You Fall - Uplifting Extended Mix,2019,0.503,0.995,2,-4.451,0.0509,2.51e-05,0.519,0.0864,0.453,139.99,1QJR6rRhsZVdmHjB052CSS,spotify:track:1QJR6rRhsZVdmHjB052CSS,530435,4
+127,Three Drives On A Vinyl,Greece 2000 - Original Mix,1997,0.771,0.627,1,-13.08,0.0638,0.00219,0.905,0.0867,0.587,131.988,7pe7JWmS5Ek4pOiKcSU25H,spotify:track:7pe7JWmS5Ek4pOiKcSU25H,483718,4
+126,Alex M.O.R.P.H. & Ana Criado,Sunset Boulevard,2015,0.535,0.988,10,-5.583,0.0728,0.000107,0.756,0.194,0.249,135.001,021gjtd0a3NrmOwtzogTPR,spotify:track:021gjtd0a3NrmOwtzogTPR,462950,4
+125,ATB,9 Pm - Till I Come,1998,0.794,0.893,9,-7.761,0.088,0.0184,0.947,0.0527,0.718,130.231,5KwpWZxOUmXnpFddmQqxZG,spotify:track:5KwpWZxOUmXnpFddmQqxZG,328387,4
+124,Above & Beyond & Zoë Johnston,We're All We Need - Extended Mix,2014,0.863,0.403,0,-8.095,0.0615,0.0166,0.0195,0.0928,0.316,127.002,5Xmi7QP7vJnybihS4GB8xK,spotify:track:5Xmi7QP7vJnybihS4GB8xK,445827,4
+123,Armin van Buuren & Rising Star & Fiora,Just As You Are - Extended Mix,2018,0.574,0.944,11,-4.871,0.0587,0.000151,0.288,0.0747,0.435,137.999,32opqQnFH9WJlX0koTSk0k,spotify:track:32opqQnFH9WJlX0koTSk0k,366086,4
+122,Ferry Corsten & Gouryella,Surga - Extended Mix,2019,0.463,0.853,11,-5.894,0.031,6.52e-05,0.93,0.0508,0.531,135.013,1edRKKXtGAKIi973RLeYwa,spotify:track:1edRKKXtGAKIi973RLeYwa,482930,4
+121,Aly & Fila,Beyond The Lights - Extended Mix,2017,0.547,0.973,6,-5.558,0.117,0.00497,0.745,0.175,0.0511,139.987,6Xt4ccmK1SZKBrd7VYSClg,spotify:track:6Xt4ccmK1SZKBrd7VYSClg,466286,4
+120,Darren Tate & Jono Grant,Let The Light Shine In - 12'' Original Mix,2003,0.53,0.741,2,-5.938,0.0459,0.00303,0.895,0.169,0.261,139.987,0DyFdO9zKqWBpys2YYk17Y,spotify:track:0DyFdO9zKqWBpys2YYk17Y,473143,4
+119,Armin van Buuren,Let The Music Guide You (ASOT 950 Anthem) - Extended Mix,2019,0.584,0.907,1,-5.804,0.0548,0.00105,0.903,0.121,0.193,134.984,0PTYpNmhyLx3OrxV7s9xep,spotify:track:0PTYpNmhyLx3OrxV7s9xep,357827,4
+118,Ferry Corsten & Gouryella,Venera (Vee's Theme) - Extended Mix,2018,0.468,0.818,6,-7.4,0.0323,7.84e-05,0.911,0.0598,0.379,135.0,2MWGRiORO4AenR4x2AenS3,spotify:track:2MWGRiORO4AenR4x2AenS3,440977,4
+117,John O'Callaghan & Sarah Howells,Find Yourself - Original Mix,2009,0.65,0.524,7,-8.207,0.0296,0.000735,0.0684,0.0498,0.292,134.989,0P6WrsKYBNPmD48VPWOCWZ,spotify:track:0P6WrsKYBNPmD48VPWOCWZ,426640,4
+116,Armin van Buuren,Be In The Moment (ASOT 850 Anthem) - Extended Mix,2017,0.407,0.876,7,-4.724,0.103,0.00588,0.746,0.379,0.0365,138.02,3daEK2NXORCT028qFb3B64,spotify:track:3daEK2NXORCT028qFb3B64,396087,4
+115,Rank 1,L.E.D. There Be Light - Extended,2008,0.657,0.78,6,-9.366,0.0364,0.00714,0.907,0.206,0.0389,131.986,7GaEB6uDIJCbDbT2vsaSUr,spotify:track:7GaEB6uDIJCbDbT2vsaSUr,461220,4
+114,BT & Paul van Dyk,Flaming June - Paul Van Dyk Remix,2012,0.562,0.941,6,-7.483,0.0422,0.00174,0.659,0.3,0.191,139.996,5O6QvIrWnv6WnFZH9B9Yds,spotify:track:5O6QvIrWnv6WnFZH9B9Yds,433191,4
+113,William Orbit & Ferry Corsten,Barber's Adagio for Strings - Ferry Corsten Remix,1995,0.51,0.796,1,-10.743,0.0332,5.07e-05,0.825,0.164,0.264,135.002,2K4cyGqJ1klZEGF689y75P,spotify:track:2K4cyGqJ1klZEGF689y75P,395133,4
+112,Armin van Buuren & Sophie Ellis-Bextor,Not Giving Up On Love - Extended Version,2010,0.72,0.576,4,-8.587,0.053,0.0189,0.0471,0.474,0.583,130.975,6N4VCXzx14gFPFY6pklEbV,spotify:track:6N4VCXzx14gFPFY6pklEbV,412640,3
+111,Craig Connelly & Christina Novelli,Black Hole - Jorn van Deynhoven Remix,2013,0.5,0.977,1,-5.499,0.0991,0.00024,0.669,0.494,0.201,137.99,4WZa71jH7z2wuZGkqe4rh5,spotify:track:4WZa71jH7z2wuZGkqe4rh5,507950,4
+110,Yuri Kane,Right Back - Original Extended,2010,0.632,0.756,4,-8.065,0.0377,0.0021,0.23,0.344,0.538,129.981,14kekCCzelIMsWqyxeWRkY,spotify:track:14kekCCzelIMsWqyxeWRkY,427914,4
+109,Armin van Buuren,I Live For That Energy (ASOT 800 Anthem) - Extended Mix,2016,0.543,0.959,1,-3.827,0.0431,0.00029,0.481,0.292,0.262,132.007,41jNOZhgRmYihyg85yqqIz,spotify:track:41jNOZhgRmYihyg85yqqIz,400267,4
+108,Aly & Fila & The Thrillseekers,Es Vedra - Original Mix,2015,0.503,0.775,9,-5.705,0.0425,8.41e-05,0.877,0.0923,0.0852,138.008,07NoQ1asGjHGjf7b7r8hLI,spotify:track:07NoQ1asGjHGjf7b7r8hLI,459002,4
+107,Orjan Nilsen,La Guitarra - Original Mix,2008,0.647,0.82,1,-9.441,0.0443,0.00138,0.85,0.177,0.663,130.003,3xmoHIxtevI5alCzUHy5Se,spotify:track:3xmoHIxtevI5alCzUHy5Se,498717,4
+106,Armin van Buuren & Shapov,The Last Dancer - Extended Mix,2018,0.642,0.856,1,-4.246,0.0469,0.0372,0.0441,0.109,0.127,130.024,6goISm8AnCkw2xcNqVF9Nn,spotify:track:6goISm8AnCkw2xcNqVF9Nn,366000,4
+105,Above & Beyond,Alone Tonight - Above & Beyond Extended Club Mix,2006,0.522,0.696,8,-9.063,0.0407,0.00107,0.473,0.0485,0.327,137.988,5oUYyO4uhAdHD5a4SCH9ta,spotify:track:5oUYyO4uhAdHD5a4SCH9ta,511267,4
+104,Sergey Nevone & Simon O'Shine,Apprehension - Aly & Fila Mix,2013,0.446,0.983,11,-5.325,0.0635,0.000302,0.874,0.0329,0.2,137.997,2rckQ2MuoZlG2uz4bBbSvU,spotify:track:2rckQ2MuoZlG2uz4bBbSvU,480000,4
+103,Giuseppe Ottaviani,Till The Sunrise - Extended Mix,2018,0.619,0.98,1,-4.597,0.0526,0.0005,0.907,0.0283,0.232,139.999,3C35LTtgD6M6wHpwM50jS4,spotify:track:3C35LTtgD6M6wHpwM50jS4,416920,4
+102,Gareth Emery,Long Way Home - Extended Mix,2014,0.634,0.732,11,-7.535,0.0537,0.155,0.0622,0.116,0.763,128.026,2IyM6emf0xVft6HyQfa2Ey,spotify:track:2IyM6emf0xVft6HyQfa2Ey,501797,3
+101,Dart Rayne & Sarah Lynn & Yura Moonlight & Allen & Envy,Silhouette - Allen & Envy Remix,2013,0.542,0.933,7,-6.17,0.0915,0.000207,0.313,0.558,0.0611,137.983,5LELgZUqPCCBxvwER9cpui,spotify:track:5LELgZUqPCCBxvwER9cpui,433053,4
+100,Davey Asprey,Fallout - Extended Mix,2017,0.515,0.991,7,-7.832,0.062,0.000103,0.931,0.0818,0.0882,135.007,5E8cYKxykxApJ9p7UzNGd0,spotify:track:5E8cYKxykxApJ9p7UzNGd0,352000,4
+99,Armin van Buuren,Blue Fear - Original Mix,1996,0.615,0.585,10,-10.049,0.0564,0.0274,0.939,0.119,0.264,135.875,7aCd2uFGS9Z7TnC64bIgqq,spotify:track:7aCd2uFGS9Z7TnC64bIgqq,474013,4
+98,Alex M.O.R.P.H. & Natalie Gioia,The Reason - Club Mix,2014,0.59,0.962,3,-5.484,0.0819,6.15e-05,0.211,0.0543,0.0509,132.985,2Nrhy89l7QecW7c01D9Vn1,spotify:track:2Nrhy89l7QecW7c01D9Vn1,402452,4
+97,John O'Callaghan & Bryan Kearney,Exactly - Original Mix,2006,0.588,0.989,1,-5.143,0.0465,1.69e-05,0.772,0.0904,0.593,142.016,3kf2jk93CqIa86bC9FxpOG,spotify:track:3kf2jk93CqIa86bC9FxpOG,500213,4
+96,Aly & Fila & Roger Shah & Susana,Unbreakable - Extended Mix,2016,0.502,0.982,0,-4.327,0.0753,0.000934,0.452,0.211,0.154,137.961,1BwhJOeORQJIv6s69eoh5D,spotify:track:1BwhJOeORQJIv6s69eoh5D,466000,4
+95,Ben Gold & SIVAN & Sneijder,Stay - Sneijder Extended Remix,2019,0.461,0.995,0,-5.141,0.0653,0.000303,0.239,0.631,0.136,137.987,4Durhivi80aUUq9gFyHWzG,spotify:track:4Durhivi80aUUq9gFyHWzG,471304,4
+94,Estiva & Ruben de Ronde,Rainbow - Extended Mix,2018,0.545,0.907,5,-7.129,0.0417,0.00535,0.881,0.201,0.0333,126.003,7iMqWZnU8YcwsU2HqcpBBD,spotify:track:7iMqWZnU8YcwsU2HqcpBBD,444375,4
+93,Above & Beyond & Armin van Buuren,Show Me Love - Extended Mix,2019,0.556,0.835,4,-5.299,0.0475,0.0046,0.703,0.0927,0.404,127.989,2sX5p9m3EOHj0h5ZSNRemB,spotify:track:2sX5p9m3EOHj0h5ZSNRemB,399653,4
+92,Armin van Buuren & Vini Vici & Hilight Tribe,Great Spirit - Extended Mix,2016,0.349,0.94,1,-5.949,0.0707,0.00307,0.161,0.474,0.139,138.051,1bxtePWzYybaPiUZqvgQVf,spotify:track:1bxtePWzYybaPiUZqvgQVf,457826,4
+91,Cygnus X & Rank 1,Superstring - Rank 1 Remix,1996,0.728,0.854,0,-10.393,0.058,0.000308,0.921,0.0737,0.398,139.05,4MnCIuOVkhshEkNUNgt6xE,spotify:track:4MnCIuOVkhshEkNUNgt6xE,494253,4
+90,GAIA,J'ai Envie De Toi - Original Mix,2012,0.584,0.971,1,-6.023,0.0446,0.00411,0.871,0.114,0.244,131.987,5DMjRVFtZG3vDOGXJSplpm,spotify:track:5DMjRVFtZG3vDOGXJSplpm,517712,4
+89,Omnia & Ira,The Fusion - Original Mix,2012,0.629,0.893,8,-3.05,0.0396,6.93e-05,0.103,0.108,0.41,127.981,67ngkQ7etkfrks35IVzxbZ,spotify:track:67ngkQ7etkfrks35IVzxbZ,368192,4
+88,Giuseppe Ottaviani,Linking People - Original Mix,2005,0.642,0.949,8,-10.366,0.0439,0.0144,0.852,0.142,0.924,143.012,0P7UFTJUB4pMtlXjIqRl4S,spotify:track:0P7UFTJUB4pMtlXjIqRl4S,514373,4
+87,Solarstone & Armin van Buuren,Seven Cities - Armin van Buuren Remix,1999,0.532,0.865,0,-6.085,0.0344,0.00352,0.859,0.195,0.223,135.085,5CKAVRV6J8sWQBCmnYICZD,spotify:track:5CKAVRV6J8sWQBCmnYICZD,500387,4
+86,Photographer,Airport - Original Mix,2012,0.477,0.996,8,-6.534,0.0624,0.000409,0.721,0.319,0.208,139.997,1z4qdv4XxmPdpVj0D6hPdM,spotify:track:1z4qdv4XxmPdpVj0D6hPdM,556902,4
+85,Armin van Buuren,Mirage,2010,0.629,0.757,2,-7.422,0.0409,0.00423,0.871,0.115,0.159,134.984,4jW0JslSUaV94CUPeCGlM8,spotify:track:4jW0JslSUaV94CUPeCGlM8,401667,4
+84,Orjan Nilsen,Between The Rays - Original Mix,2011,0.648,0.697,8,-6.565,0.0504,0.000911,0.107,0.051,0.171,132.979,7okWVxsFpSn99C3562wHmo,spotify:track:7okWVxsFpSn99C3562wHmo,406442,4
+83,Ferry Corsten & Betsie Larkin,Made Of Love - Extended Mix,2009,0.551,0.709,10,-8.951,0.0294,6.5e-05,0.713,0.0998,0.272,135.002,3LjuF24cWEq40QDJ1P5Jbl,spotify:track:3LjuF24cWEq40QDJ1P5Jbl,542427,4
+82,Ben Gold,I'm In A State Of Trance (ASOT 750 Anthem) - Extended Mix,2016,0.485,0.937,11,-4.2,0.0436,0.00122,0.939,0.149,0.142,135.023,7xeWOxCCT5Tv2nupd6u2hC,spotify:track:7xeWOxCCT5Tv2nupd6u2hC,463500,4
+81,Gouryella,Ligaya - Original Instrumental Mix,2000,0.449,0.897,0,-7.667,0.0329,4.6e-05,0.855,0.105,0.176,138.003,27I4tGbU4BZvq09kOpT0k4,spotify:track:27I4tGbU4BZvq09kOpT0k4,445643,4
+80,Reflekt & delline bass & The Thrillseekers,Need To Feel Loved - Thrillseekers Remix,2004,0.61,0.799,7,-9.475,0.0417,0.0057,0.793,0.128,0.307,138.002,6Yo4qTQgqCN1WXcCmQx7Q4,spotify:track:6Yo4qTQgqCN1WXcCmQx7Q4,492360,4
+79,Above & Beyond & Richard Bedford,Thing Called Love - Extended Album Mix,2011,0.568,0.641,3,-7.844,0.0362,0.000524,0.217,0.125,0.378,133.991,6L4UVYidPdd3id0H2sVeno,spotify:track:6L4UVYidPdd3id0H2sVeno,480168,4
+78,Alex M.O.R.P.H.,Walk The Edge - Alex M.O.R.P.H. B2B Woody van Eyden Mix,2008,0.57,0.843,9,-11.007,0.049,0.000787,0.484,0.0759,0.0428,135.011,4zBTq9VPsaQE8rs4C9sbVZ,spotify:track:4zBTq9VPsaQE8rs4C9sbVZ,545007,4
+77,Jorn Van Deynhoven,New Horizons (A State of Trance 650 Anthem) - Original Mix,2014,0.494,0.976,5,-5.305,0.0678,0.00541,0.877,0.0972,0.224,134.004,2ULvNGqqm0ZFFjB2T0AUjZ,spotify:track:2ULvNGqqm0ZFFjB2T0AUjZ,464990,4
+76,Simon O'Shine,Your Distant World - Original Mix,2012,0.446,0.96,3,-6.833,0.0509,0.000154,0.834,0.346,0.0694,138.027,7a2AEXko9bWrixa5yKJXNH,spotify:track:7a2AEXko9bWrixa5yKJXNH,583149,4
+75,Above & Beyond & Zoë Johnston,No One On Earth - Gabriel & Dresden Remix,2004,0.609,0.833,5,-8.184,0.0477,0.00333,0.8,0.135,0.23,138.013,2iS5us96UxLtV2gC1BDKUV,spotify:track:2iS5us96UxLtV2gC1BDKUV,559613,4
+74,Armin van Buuren,Blah Blah Blah - Extended Mix,2018,0.639,0.97,1,-5.201,0.182,0.00293,0.426,0.112,0.0379,137.946,1p6jo8K3Jyd0TmFc6S6Yh1,spotify:track:1p6jo8K3Jyd0TmFc6S6Yh1,366086,4
+73,Paul van Dyk & Second Sun,Crush,2015,0.659,0.898,9,-7.739,0.0386,0.0161,0.721,0.365,0.132,134.99,3aS5reOG1d7b49WCY2Hhg2,spotify:track:3aS5reOG1d7b49WCY2Hhg2,466070,4
+72,Above & Beyond,Can't Sleep - Original Mix,2006,0.646,0.766,7,-9.528,0.0507,0.00387,0.156,0.332,0.158,132.997,1YbTtC4GfBNgQfKIKVhPw3,spotify:track:1YbTtC4GfBNgQfKIKVhPw3,557760,4
+71,Binary Finary & Gouryella,1998 - Gouryella Remix,1998,0.547,0.815,5,-11.688,0.0394,3.47e-05,0.835,0.331,0.215,138.042,6RHRZQyyQIb901O931JTS7,spotify:track:6RHRZQyyQIb901O931JTS7,425733,4
+70,Planet Perfecto Knights,Resurection,2016,0.542,0.733,2,-8.685,0.0396,0.0148,0.92,0.359,0.158,135.014,4R2a6E4fYpi1kjp6eQuuKE,spotify:track:4R2a6E4fYpi1kjp6eQuuKE,691512,4
+69,Andrew Rayel,550 Senta - Aether Mix,2012,0.591,0.898,6,-5.371,0.039,0.000545,0.903,0.37,0.162,135.032,1U9bcPXjeE9xEbONC67Zja,spotify:track:1U9bcPXjeE9xEbONC67Zja,468000,4
+68,Tiësto,Traffic - Original 12",2003,0.736,0.626,6,-10.558,0.0968,0.000395,0.735,0.105,0.294,137.845,3MZn5KmUMFz31N2HalT6yz,spotify:track:3MZn5KmUMFz31N2HalT6yz,417240,4
+67,Bryan Kearney & Plumb,All Over Again - Extended Mix,2017,0.558,0.98,1,-5.547,0.0493,0.000778,0.393,0.12,0.174,138.0,2POevSnaNhIuw3soSIrB5a,spotify:track:2POevSnaNhIuw3soSIrB5a,473043,4
+66,Gareth Emery & Annabel,You'll Be OK,2020,0.498,0.494,0,-12.42,0.0343,0.0118,0.00108,0.166,0.12,134.983,1YXUD5D1ZRSaKZRZME4UB5,spotify:track:1YXUD5D1ZRSaKZRZME4UB5,209938,4
+65,Armin van Buuren & Gabriel & Dresden,Zocalo,2005,0.622,0.655,10,-10.225,0.0477,0.00163,0.901,0.0841,0.639,135.004,2isCFbEg9Omhbykb4ejrjz,spotify:track:2isCFbEg9Omhbykb4ejrjz,509198,4
+64,Richard Durand & Christina Novelli,Save You - Extended Mix,2019,0.522,0.926,8,-6.452,0.0477,0.000542,0.752,0.0733,0.382,137.995,3rNpn0KntQJEncVlLImY9j,spotify:track:3rNpn0KntQJEncVlLImY9j,559521,4
+63,Above & Beyond & Richard Bedford,Northern Soul - Extended Mix,2017,0.707,0.471,5,-7.127,0.0453,0.00749,0.00243,0.054,0.131,128.017,7yzNpXnAFfqFkeOuEF3CUV,spotify:track:7yzNpXnAFfqFkeOuEF3CUV,421875,4
+62,Gouryella,Gouryella - Extended Mix,2011,0.595,0.93,7,-10.266,0.0522,0.000295,0.883,0.322,0.114,138.027,5iRadJ6pnACMhU9FhQWnLO,spotify:track:5iRadJ6pnACMhU9FhQWnLO,645000,4
+61,Tiësto & Kirsty Hawkshaw,Just Be,2009,0.62,0.832,9,-9.651,0.0335,3.05e-05,0.438,0.128,0.39,134.959,6SDy0CHEvHB591MeizBrqY,spotify:track:6SDy0CHEvHB591MeizBrqY,524933,4
+60,Ferry Corsten,Beautiful - Extended Mix,2007,0.533,0.753,11,-9.243,0.0424,0.00044,0.439,0.0649,0.767,134.997,6FyRffDfn46hL8DWbm676O,spotify:track:6FyRffDfn46hL8DWbm676O,478913,4
+59,Arksun,Arisen - Original Mix,2006,0.448,0.88,5,-11.858,0.0421,0.0306,0.867,0.111,0.0965,137.997,302M7irT5jEM3xh2bhojdv,spotify:track:302M7irT5jEM3xh2bhojdv,676920,4
+58,Dash Berlin & Roxanne Emery & Photographer,Shelter - Photographer Remix,2014,0.501,0.898,6,-7.291,0.0487,0.00231,0.668,0.11,0.0801,136.0,6VK9AipqyvmxYs816omoc0,spotify:track:6VK9AipqyvmxYs816omoc0,423088,4
+57,Armin van Buuren,Sail - Original mix,2006,0.637,0.754,3,-13.221,0.0403,0.000811,0.865,0.0518,0.191,135.997,3FhTuMoM8Zw5s2tUUzin1R,spotify:track:3FhTuMoM8Zw5s2tUUzin1R,553614,4
+56,Tiësto,Lethal Industry,2009,0.581,0.879,4,-9.845,0.057,6.62e-06,0.852,0.0848,0.0399,135.026,0CECbcanOoDprkHvuutPN4,spotify:track:0CECbcanOoDprkHvuutPN4,405920,4
+55,Above & Beyond & Oceanlab,Sirens Of The Sea,2008,0.533,0.801,2,-9.775,0.0332,0.206,0.687,0.105,0.718,131.983,5NJmMabxzUI1URHIFNhpbG,spotify:track:5NJmMabxzUI1URHIFNhpbG,356827,4
+54,Saltwater & Alphazone,The Legacy - Alphazone Extended Remix,2019,0.492,0.901,1,-8.539,0.0481,0.00822,0.955,0.13,0.604,139.988,0RMRppBQhVoVeKxxBGCoTL,spotify:track:0RMRppBQhVoVeKxxBGCoTL,582688,4
+53,Push,Strange World,2007,0.539,0.924,0,-9.784,0.0388,0.0894,0.929,0.144,0.429,139.015,4EadWyYfZySdFNLvIE8lRa,spotify:track:4EadWyYfZySdFNLvIE8lRa,434160,4
+52,Paul Oakenfold & Carla Werner & Tiësto,Southern Sun - DJ Tiësto Remix,2002,0.631,0.784,4,-9.279,0.0405,0.0183,0.479,0.603,0.572,137.029,1bAHNj6NQQqbRmnlWyOQvC,spotify:track:1bAHNj6NQQqbRmnlWyOQvC,584586,4
+51,GAIA,Status Excessu D (The Official A State Of Trance 500 Anthem) - Original Mix,2011,0.577,0.885,0,-7.968,0.0458,0.00168,0.794,0.0982,0.131,136.012,4sJadYMwZYqTbTiJDCp5KV,spotify:track:4sJadYMwZYqTbTiJDCp5KV,582722,4
+50,Tiësto,Suburban Train,2009,0.609,0.781,2,-9.318,0.0463,0.00012,0.901,0.0246,0.161,140.044,2JyGSCWeruwFHK6w57N1qG,spotify:track:2JyGSCWeruwFHK6w57N1qG,622227,4
+49,ATB,Ecstasy - Clubb Mix,2004,0.736,0.821,8,-6.242,0.0623,0.00751,0.666,0.0666,0.964,135.002,0iorx8V2QJtwYpDzEGcnr2,spotify:track:0iorx8V2QJtwYpDzEGcnr2,325013,4
+48,Above & Beyond & Zoë Johnston,Good For Me - Above & Beyond Extended Club Mix,2007,0.56,0.872,8,-8.899,0.0318,0.00291,0.728,0.0963,0.0756,138.012,4WTFpSaKiB6s15HZSlPQNS,spotify:track:4WTFpSaKiB6s15HZSlPQNS,532213,4
+47,Gareth Emery & Lucy Saunders,Sanctuary,2010,0.694,0.603,7,-8.022,0.0303,0.00104,0.711,0.34,0.545,133.997,2IzU1yGWWCrBXpInWmjJr5,spotify:track:2IzU1yGWWCrBXpInWmjJr5,469254,4
+46,System F,Out Of The Blue - Original 1999 Extended,2011,0.571,0.904,7,-8.271,0.0535,2.96e-05,0.804,0.0763,0.709,139.997,6ivllKQUfyCkr7ePHTVNxq,spotify:track:6ivllKQUfyCkr7ePHTVNxq,401157,4
+45,Aly & Fila,It's All About The Melody - Extended Mix,2019,0.53,0.997,5,-3.883,0.0421,7.12e-05,0.921,0.0769,0.366,139.978,1heFfoLp6clLgTwis8BXR1,spotify:track:1heFfoLp6clLgTwis8BXR1,539130,4
+44,Energy 52 & Three 'N One,Café Del Mar - Three 'n One Remix,2005,0.693,0.977,5,-6.461,0.0637,0.00393,0.884,0.0587,0.174,132.995,0Z3rdQVi4RdqOI1KMyh5M8,spotify:track:0Z3rdQVi4RdqOI1KMyh5M8,522827,4
+43,Luminary,Amsterdam - Smith & Pledger Remix,2006,0.57,0.658,11,-8.72,0.0314,0.00786,0.477,0.105,0.41,138.029,3ICChM5ebH2RPZnvXg4uuC,spotify:track:3ICChM5ebH2RPZnvXg4uuC,466800,4
+42,Giuseppe Ottaviani,Through Your Eyes - Original Mix,2006,0.554,0.899,10,-5.557,0.116,5.98e-05,0.901,0.319,0.685,140.977,6E4bO2jUvePa4xl1IMvnS1,spotify:track:6E4bO2jUvePa4xl1IMvnS1,483493,4
+41,Push,Universal Nation - Original Mix,2009,0.702,0.733,8,-12.023,0.0447,0.632,0.919,0.0913,0.299,138.004,34PgbZHudjUapNEqsb1WcW,spotify:track:34PgbZHudjUapNEqsb1WcW,477413,4
+40,Armin van Buuren & Jan Vayne,Serenity - Original Mix,2005,0.68,0.924,2,-8.436,0.0894,0.000723,0.842,0.0762,0.223,135.979,1p4swnLCXRBeGzu2iHkiG9,spotify:track:1p4swnLCXRBeGzu2iHkiG9,517347,4
+39,John O'Callaghan & Audrey Gallagher,Big Sky - Agnelli & Nelson Remix,2007,0.581,0.866,6,-8.724,0.0586,0.0016,0.686,0.29,0.419,140.006,2y5bhecj9eEXy9IzMVdiud,spotify:track:2y5bhecj9eEXy9IzMVdiud,541714,4
+38,Richard Durand & Christina Novelli,The Air I Breathe - Club Mix,2018,0.495,0.981,7,-3.841,0.0644,0.00192,0.604,0.646,0.189,137.985,0QUisLy93hoe0GYSUOVTzE,spotify:track:0QUisLy93hoe0GYSUOVTzE,440299,4
+37,Key4050 & Plumb,I Love You - Extended Mix,2020,0.519,0.991,11,-5.617,0.058,0.000464,0.374,0.0676,0.249,137.981,5IMQMzhrhF1TuXLSEr7Gku,spotify:track:5IMQMzhrhF1TuXLSEr7Gku,563537,4
+36,Armin van Buuren & Miri Ben-Ari,Intense,2013,0.641,0.832,5,-7.136,0.0499,0.00955,0.0481,0.124,0.115,135.1,5RScucFoUuNzhLWwGWy05b,spotify:track:5RScucFoUuNzhLWwGWy05b,527787,4
+35,Gareth Emery & Bo Bruce,U - Bryan Kearney Remix,2014,0.54,0.986,2,-5.146,0.0725,0.000288,0.202,0.76,0.152,138.014,6sKkOdYUTTOgYWWcqDw9ED,spotify:track:6sKkOdYUTTOgYWWcqDw9ED,466175,4
+34,Alex M.O.R.P.H. & Sylvia Tosun,An Angel's Love - Vocal Mix,2011,0.469,0.973,0,-5.671,0.0632,0.00016,0.727,0.338,0.0646,136.979,0J1OzJsuiJfueQO6opksI4,spotify:track:0J1OzJsuiJfueQO6opksI4,510959,4
+33,Robert Miles,Children - Dream Version,1996,0.613,0.547,0,-15.564,0.0361,0.00125,0.827,0.0633,0.207,137.065,4j3aDnax50wYA8p8fDJLCF,spotify:track:4j3aDnax50wYA8p8fDJLCF,453880,4
+32,Armin van Buuren & Trevor Guthrie & W&W,This Is What It Feels Like - W&W Remix,2013,0.655,0.926,8,-4.646,0.0501,0.0132,0.153,0.1,0.166,130.024,2jx4gzu1Z2bgvCUWtC86Q9,spotify:track:2jx4gzu1Z2bgvCUWtC86Q9,376615,4
+31,Andain & Josh Gabriel & Dave Dresden,Beautiful Things - Gabriel & Dresden Unplugged Mix,2003,0.777,0.538,4,-9.12,0.032,0.0017,0.688,0.162,0.711,131.014,2hsMpYbHOVmYShhvOA6Q13,spotify:track:2hsMpYbHOVmYShhvOA6Q13,645333,4
+30,GAIA,Empire Of Hearts - Original Mix,2014,0.569,0.975,7,-5.064,0.0552,0.000284,0.875,0.0295,0.436,131.928,2H7y1IG7mcWOqnw4mzvaPr,spotify:track:2H7y1IG7mcWOqnw4mzvaPr,369096,4
+29,Sunlounger & Zara,Lost - Club Mix,2008,0.714,0.532,11,-8.693,0.052,0.0818,0.222,0.0588,0.488,129.992,5K7EXhEFrzNt9ovegrIcHW,spotify:track:5K7EXhEFrzNt9ovegrIcHW,563363,4
+28,Dash Berlin & Emma Hewitt,Waiting - Original Mix,2009,0.631,0.636,9,-9.219,0.0527,0.0195,2e-05,0.0689,0.34,135.989,44DRt5JbAtRrt5vxH1lazp,spotify:track:44DRt5JbAtRrt5vxH1lazp,568942,4
+27,Paul van Dyk & Hemstock & Jennings,Nothing But You - PVD Club Mix,2017,0.608,0.89,8,-5.718,0.0429,0.000124,0.897,0.0422,0.217,139.353,4lGFSfsqSSP37WWzi8gIdV,spotify:track:4lGFSfsqSSP37WWzi8gIdV,507000,4
+26,Above & Beyond & Andy Moor,Air For Life - Original Mix,2005,0.645,0.754,8,-7.714,0.114,0.000275,0.279,0.0722,0.58,132.01,2vJ787fhoT1V8ryysmhioO,spotify:track:2vJ787fhoT1V8ryysmhioO,482320,4
+25,Chicane & Moya Brennan,Saltwater,2000,0.566,0.822,5,-9.686,0.0387,0.12,0.916,0.299,0.616,130.98,1rGPOtHSe8e4Qp7v44M3nd,spotify:track:1rGPOtHSe8e4Qp7v44M3nd,603133,4
+24,Dash Berlin,Till The Sky Falls Down - Extended Mix,2009,0.848,0.502,11,-9.389,0.0652,0.0185,0.432,0.153,0.642,131.986,5EZnkKNbuL9vKPOgDC4AJa,spotify:track:5EZnkKNbuL9vKPOgDC4AJa,514275,4
+23,MaRLo & Feenixpawl,Lighter Than Air - Extended Mix,2019,0.381,0.729,4,-8.304,0.0435,0.165,0.0297,0.147,0.0358,130.031,0fCXNRIXLKGqH8186vaoOD,spotify:track:0fCXNRIXLKGqH8186vaoOD,304036,4
+22,Above & Beyond & Gareth Emery & Oceanlab,On A Good Day (Metropolis) - Extended Mix,2010,0.681,0.794,3,-5.991,0.0479,0.00122,0.209,0.117,0.583,134.01,0Oy39XZnlEJ4wyB9zcuFmr,spotify:track:0Oy39XZnlEJ4wyB9zcuFmr,472891,4
+21,Veracocha,Carte Blanche - Original Mix,1999,0.646,0.96,10,-9.529,0.0371,2.59e-05,0.78,0.428,0.421,140.019,1Dyvne4MdeiQ75teY5m7jg,spotify:track:1Dyvne4MdeiQ75teY5m7jg,424973,4
+20,Armin van Buuren & Sharon Den Adel,In And Out Of Love - Extended Mix,2008,0.545,0.546,5,-10.21,0.0312,0.0192,0.0217,0.0754,0.519,134.999,6RatW0PqTXPfesloHFDaNi,spotify:track:6RatW0PqTXPfesloHFDaNi,364918,4
+19,Aly & Fila & Jwaydan,We Control The Sunlight - Original Mix,2011,0.536,0.933,1,-5.669,0.0557,0.000316,0.198,0.0865,0.0569,139.991,6aTVxHerihREeq91z1Cb7u,spotify:track:6aTVxHerihREeq91z1Cb7u,509143,4
+18,Motorcycle & Gabriel & Dresden,As The Rush Comes - Gabriel & Dresden Sweeping Strings Mix,2004,0.556,0.612,7,-11.675,0.0377,0.0141,0.525,0.086,0.486,135.005,7JC6zMu1rxLEEcY4anx4QA,spotify:track:7JC6zMu1rxLEEcY4anx4QA,641000,4
+17,Above & Beyond & Oceanlab,Satellite - Original Above & Beyond Mix,2003,0.458,0.927,9,-7.734,0.0457,0.000334,0.12,0.0335,0.322,140.006,2JVxSp8JWtJ2mSR4j80oRS,spotify:track:2JVxSp8JWtJ2mSR4j80oRS,465720,4
+16,Paul van Dyk,For An Angel - PvD E-Werk Club Mix,2014,0.74,0.88,9,-8.878,0.0444,0.00267,0.876,0.099,0.645,138.258,7xh57GQyRNbLLgOnLpiZPS,spotify:track:7xh57GQyRNbLLgOnLpiZPS,466253,4
+15,Rank 1,Airwave - Original Mix,2000,0.778,0.705,0,-10.916,0.0552,0.00017,0.913,0.0448,0.0734,136.059,3SofrfhMxxG5TkD9uo0fe7,spotify:track:3SofrfhMxxG5TkD9uo0fe7,503560,4
+14,Armin van Buuren & Justine Suissa & Rising Star,Burned With Desire - Rising Star Extended Vocal Mix,2003,0.602,0.831,2,-7.285,0.0451,0.000518,0.707,0.0513,0.365,138.01,2NXgCETSP6neHpo6PQaDvj,spotify:track:2NXgCETSP6neHpo6PQaDvj,516627,4
+13,4 Strings,Take Me Away (Into The Night) - Vocal Mix,2002,0.743,0.654,6,-10.368,0.0758,7.6e-05,0.778,0.0799,0.372,138.039,7qPdQj8fmjU4xJbqdYYTU5,spotify:track:7qPdQj8fmjU4xJbqdYYTU5,426053,4
+12,Gareth Emery & STANDERWICK & HALIENE,Saving Light,2017,0.466,0.93,4,-2.555,0.0627,0.0707,0.0009,0.33,0.134,129.99,7ckofk3m63RHNs9wiIl5LT,spotify:track:7ckofk3m63RHNs9wiIl5LT,275646,4
+11,Above & Beyond & Richard Bedford,Sun & Moon - Above & Beyond Extended Club Mix,2020,0.74,0.63,6,-7.346,0.0681,0.00181,0.24,0.235,0.141,134.012,4VLmSzYRVIrrGDx3cFT827,spotify:track:4VLmSzYRVIrrGDx3cFT827,467531,4
+10,RAM & Susana,RAMelia (Tribute To Amelia) - Original Mix,2014,0.348,0.961,0,-5.835,0.0705,0.000215,0.169,0.953,0.121,138.013,1Da5kabhTEe6dT3FxRlgk4,spotify:track:1Da5kabhTEe6dT3FxRlgk4,497445,4
+9,Gareth Emery & Christina Novelli,Concrete Angel - Original Mix,2012,0.673,0.831,2,-6.651,0.032,0.000327,0.153,0.334,0.431,129.982,1qy14jAIoVcZHIP34anyxm,spotify:track:1qy14jAIoVcZHIP34anyxm,429333,4
+8,Dash Berlin & Cerf & Mitiska & Jaren,Man On The Run - Extended Mix,2009,0.749,0.867,11,-7.87,0.114,0.0412,0.0241,0.164,0.471,135.0,2LZYXxOavdK5DlmICcgSRB,spotify:track:2LZYXxOavdK5DlmICcgSRB,544000,4
+7,RAM,RAMsterdam - Jorn Van Deynhoven Remix,2009,0.485,0.974,1,-5.761,0.0589,3.37e-05,0.56,0.359,0.299,137.996,4Qme2qmSqORtRRM9hTC5hH,spotify:track:4Qme2qmSqORtRRM9hTC5hH,455326,4
+6,Ferry Corsten & Gouryella,Anahera - Extended Mix,2015,0.449,0.958,7,-5.838,0.0405,2.78e-05,0.911,0.0971,0.0556,132.002,3rnKQLY037DIoNMzlgvC3j,spotify:track:3rnKQLY037DIoNMzlgvC3j,459734,4
+5,Armin van Buuren,Communication Part 3 - Extended Mix,2006,0.567,0.702,1,-10.701,0.0393,0.00302,0.898,0.0978,0.439,135.988,0neva1N08tpWLLVrrXZm2Y,spotify:track:0neva1N08tpWLLVrrXZm2Y,507907,4
+4,Delerium & Sarah McLachlan & Tiësto,Silence (feat. Sarah McLachlan) - DJ Tiësto's in Search of Sunrise Remix,2003,0.607,0.863,11,-5.696,0.0563,0.00171,0.57,0.0693,0.0972,137.978,7tU5JvCfG0t3PHG7mchPjv,spotify:track:7tU5JvCfG0t3PHG7mchPjv,693680,4
+3,GAIA,Tuvan - Original Mix,2009,0.597,0.722,1,-9.874,0.0415,0.000319,0.912,0.0852,0.33,131.991,2rHgv0NthKxey7CqpqwxXS,spotify:track:2rHgv0NthKxey7CqpqwxXS,484570,4
+2,Tiësto,Adagio for Strings - Original LP Version,2005,0.608,0.96,10,-7.29,0.0572,0.00494,0.645,0.0736,0.261,139.985,5NKZ7YCyoXmQUTMeEhST0t,spotify:track:5NKZ7YCyoXmQUTMeEhST0t,573853,4
+1,Armin van Buuren,Shivers,2005,0.558,0.827,1,-10.08,0.0398,0.000403,0.705,0.267,0.296,135.011,2puJRo8uTCdER0MUyXGFsb,spotify:track:2puJRo8uTCdER0MUyXGFsb,453320,4
