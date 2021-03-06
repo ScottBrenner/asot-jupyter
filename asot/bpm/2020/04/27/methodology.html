@@ -23,7 +23,16 @@
 
 
 
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-160007910-2','auto');ga('require','displayfeatures');ga('send','pageview');</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160007910-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-160007910-2');
+</script>
+
 
 <link rel="shortcut icon" type="image/x-icon" href="/asot-jupyter/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
@@ -125,6 +134,13 @@ window.onload = wrap_img;
 
 <div class="container" id="notebook-container">
         
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+
+</div>
+    
+
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>The Spotify Web API can return over a dozen <a href="https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/">audio features for a track</a>, notably <code>tempo</code> - "The overall estimated tempo of a track in beats per minute (BPM)."</p>
@@ -252,7 +268,8 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">album</span> <span class="ow">in</span> <span class="n">albums</span><span class="p">[:</span><span class="mi">10</span><span class="p">]:</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print the names of the first 10 episodes</span>
+<span class="k">for</span> <span class="n">album</span> <span class="ow">in</span> <span class="n">albums</span><span class="p">[:</span><span class="mi">10</span><span class="p">]:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">album</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">])</span>
 </pre></div>
 
@@ -300,7 +317,8 @@ A State Of Trance Episode 015
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">albums</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># How many episodes?</span>
+<span class="nb">len</span><span class="p">(</span><span class="n">albums</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -412,7 +430,8 @@ A State Of Trance Episode 009
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">episodes</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Now how many episodes?</span>
+<span class="nb">len</span><span class="p">(</span><span class="n">episodes</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -452,7 +471,8 @@ A State Of Trance Episode 009
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print every available Artist - Track from ASOT 001</span>
+<span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">track</span><span class="p">[</span><span class="s1">&#39;artists&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;name&#39;</span><span class="p">],</span> <span class="s1">&#39;-&#39;</span><span class="p">,</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">])</span>
 </pre></div>
 
@@ -500,7 +520,8 @@ Armin van Buuren - A State Of Trance [ASOT 001] - Outro
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print every available Artist - Track from ASOT 950 - Part 2</span>
+<span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
     <span class="n">track_artist</span> <span class="o">=</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;artists&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;name&#39;</span><span class="p">]</span>
     <span class="k">for</span> <span class="n">artist</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;artists&#39;</span><span class="p">][</span><span class="mi">1</span><span class="p">:]:</span>
         <span class="n">track_artist</span> <span class="o">+=</span> <span class="s2">&quot; &amp; &quot;</span> <span class="o">+</span> <span class="n">artist</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span>
@@ -592,7 +613,8 @@ Shogun - Laputa (ASOT 950 - Part 1)
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">episode_tracks</span> <span class="o">=</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print every available Artist - Track from ASOT 950 - Part 2 (actual songs only)</span>
+<span class="n">episode_tracks</span> <span class="o">=</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]</span>
 <span class="n">pruned_tracks</span> <span class="o">=</span> <span class="p">[]</span>
 
 <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">episode_tracks</span><span class="p">:</span>
