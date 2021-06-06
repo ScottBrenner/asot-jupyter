@@ -23,6 +23,39 @@ layout: notebook
     {% raw %}
     
 <div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">pip</span> install spotipy pyyaml
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Requirement already satisfied: pyyaml in /usr/local/lib/python3.8/dist-packages (5.3.1)
+Collecting spotipy
+  Downloading spotipy-2.16.1-py3-none-any.whl (24 kB)
+Requirement already satisfied: requests&gt;=2.20.0 in /usr/lib/python3/dist-packages (from spotipy) (2.22.0)
+Requirement already satisfied: six&gt;=1.10.0 in /usr/lib/python3/dist-packages (from spotipy) (1.14.0)
+Installing collected packages: spotipy
+Successfully installed spotipy-2.16.1
+<span class="ansi-yellow-fg">WARNING: You are using pip version 20.3.3; however, version 21.0 is available.
+You should consider upgrading via the &#39;/usr/bin/python -m pip install --upgrade pip&#39; command.</span>
+Note: you may need to restart the kernel to use updated packages.
+</pre>
+</div>
+</div>
+
+</div>
+</div>
 
 </div>
     {% endraw %}
@@ -154,8 +187,7 @@ layout: notebook
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print the names of the first 10 episodes</span>
-<span class="k">for</span> <span class="n">album</span> <span class="ow">in</span> <span class="n">albums</span><span class="p">[:</span><span class="mi">10</span><span class="p">]:</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">album</span> <span class="ow">in</span> <span class="n">albums</span><span class="p">[:</span><span class="mi">10</span><span class="p">]:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">album</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">])</span>
 </pre></div>
 
@@ -203,8 +235,7 @@ A State Of Trance Episode 015
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># How many episodes?</span>
-<span class="nb">len</span><span class="p">(</span><span class="n">albums</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">albums</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -316,8 +347,7 @@ A State Of Trance Episode 009
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Now how many episodes?</span>
-<span class="nb">len</span><span class="p">(</span><span class="n">episodes</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">episodes</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -357,8 +387,7 @@ A State Of Trance Episode 009
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print every available Artist - Track from ASOT 001</span>
-<span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">1</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">track</span><span class="p">[</span><span class="s1">&#39;artists&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;name&#39;</span><span class="p">],</span> <span class="s1">&#39;-&#39;</span><span class="p">,</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">])</span>
 </pre></div>
 
@@ -406,8 +435,7 @@ Armin van Buuren - A State Of Trance [ASOT 001] - Outro
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print every available Artist - Track from ASOT 950 - Part 2</span>
-<span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]:</span>
     <span class="n">track_artist</span> <span class="o">=</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;artists&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;name&#39;</span><span class="p">]</span>
     <span class="k">for</span> <span class="n">artist</span> <span class="ow">in</span> <span class="n">track</span><span class="p">[</span><span class="s1">&#39;artists&#39;</span><span class="p">][</span><span class="mi">1</span><span class="p">:]:</span>
         <span class="n">track_artist</span> <span class="o">+=</span> <span class="s2">&quot; &amp; &quot;</span> <span class="o">+</span> <span class="n">artist</span><span class="p">[</span><span class="s1">&#39;name&#39;</span><span class="p">]</span>
@@ -499,8 +527,7 @@ Shogun - Laputa (ASOT 950 - Part 1)
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Print every available Artist - Track from ASOT 950 - Part 2 (actual songs only)</span>
-<span class="n">episode_tracks</span> <span class="o">=</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">episode_tracks</span> <span class="o">=</span> <span class="n">sp</span><span class="o">.</span><span class="n">album_tracks</span><span class="p">(</span><span class="n">episodes</span><span class="p">[</span><span class="mi">945</span><span class="p">][</span><span class="s1">&#39;uri&#39;</span><span class="p">])[</span><span class="s1">&#39;items&#39;</span><span class="p">]</span>
 <span class="n">pruned_tracks</span> <span class="o">=</span> <span class="p">[]</span>
 
 <span class="k">for</span> <span class="n">track</span> <span class="ow">in</span> <span class="n">episode_tracks</span><span class="p">:</span>

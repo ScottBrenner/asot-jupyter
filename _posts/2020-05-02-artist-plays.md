@@ -5,7 +5,7 @@ title: Artist Plays
 toc: true 
 badges: true
 comments: false
-categories: [asot, bpm]
+categories: [asot, artists]
 image: images/artist-plays.png
 nb_path: _notebooks/2020-05-02-artist-plays.ipynb
 layout: notebook
@@ -20,13 +20,6 @@ layout: notebook
 
 <div class="container" id="notebook-container">
         
-    {% raw %}
-    
-<div class="cell border-box-sizing code_cell rendered">
-
-</div>
-    {% endraw %}
-
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Introduction">Introduction<a class="anchor-link" href="#Introduction"> </a></h2>
