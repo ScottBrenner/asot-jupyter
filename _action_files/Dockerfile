@@ -1,4 +1,4 @@
-FROM fastai/jekyll:2020-12-30
+FROM fastai/jekyll:2021-02-11
 
 WORKDIR /fastpages
 COPY . .
