@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem 'jekyll-gist'
   gem 'jekyll-paginate'
   gem 'jekyll-sitemap'
-  gem 'jekyll-sass-converter', "~> 2.0"
+  gem 'jekyll-sass-converter', "~> 3.0"
 end
 
 gem "kramdown-math-katex"
